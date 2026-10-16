@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "16/10/2026 15:36",
+  "lastModified": "16/10/2026 15:37",
   "summary": {
     "commitment": 120260.0,
-    "reached": 68567.53,
-    "missing": 51692.47,
-    "percent": 57.0,
+    "reached": 70402.53,
+    "missing": 49857.47,
+    "percent": 58.5,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -14,17 +14,6 @@
     "pendingCount": 14
   },
   "rows": [
-    {
-      "reference": "CENTRO",
-      "seller": "CENTRO",
-      "commitment": 16000.0,
-      "reached": 7825.02,
-      "missing": 8174.98,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 48.9,
-      "status": "pending"
-    },
     {
       "reference": "OSASCO",
       "seller": "OSASCO",
@@ -45,6 +34,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 26.5,
+      "status": "pending"
+    },
+    {
+      "reference": "CENTRO",
+      "seller": "CENTRO",
+      "commitment": 16000.0,
+      "reached": 9660.02,
+      "missing": 6339.98,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 60.4,
       "status": "pending"
     },
     {
@@ -232,9 +232,9 @@
     {
       "name": "Semana 3",
       "goal": 567619.05,
-      "reached": 616857.67,
-      "missing": -49238.62,
-      "percent": 108.7
+      "reached": 618692.67,
+      "missing": -51073.62,
+      "percent": 109.0
     },
     {
       "name": "Semana 4",
