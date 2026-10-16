@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: acompanhamento-diario
+    name: acompanhamento-diario-iatagam
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt

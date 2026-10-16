@@ -704,7 +704,10 @@ def pedido_date_expr():
 
 def sales_filter_sql():
     value = os.environ.get("SENSUM_SQL_SALES_FILTER", "UPPER(REGIAO) NOT LIKE 'KEY%'")
-    return f" AND ({value})" if value else ""
+    filters = ["UPPER(LTRIM(RTRIM(REGIAO))) <> 'LESTE'"]
+    if value:
+        filters.insert(0, f"({value})")
+    return " AND " + " AND ".join(filters)
 
 
 def keys_filter_sql():
@@ -806,6 +809,12 @@ def merge_template_rows(panel, template, reached_rows):
         seller = text(item.get("seller"))
         reference = text(item.get("reference"))
 
+        if panel == "sales" and (
+            normalize_name(seller) == "LESTE"
+            or normalize_name(reference) == "LESTE"
+        ):
+            continue
+
         reached = reached_by_name.get(
             normalize_name(seller),
             reached_by_name.get(normalize_name(reference), 0.0),
@@ -834,6 +843,9 @@ def merge_template_rows(panel, template, reached_rows):
     for item in reached_rows:
         seller = text(item.get("seller"))
         key = normalize_name(seller)
+
+        if panel == "sales" and key == "LESTE":
+            continue
 
         if panel == "milho":
             continue

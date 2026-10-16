@@ -13,7 +13,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 GH = BASE_DIR / ".tools" / "bin" / "gh.exe"
-REPO = "JoaoCanhadas/acompanhamento-diario"
+REPO = "JoaoCanhadas/acompanhamento-diario-iatagam"
 BRANCH = "main"
 FILES_TO_SYNC = [
     "data.json",

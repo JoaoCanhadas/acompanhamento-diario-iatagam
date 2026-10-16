@@ -36,12 +36,12 @@ DEFAULT_WEEKLY_GOAL = 700000.0
 
 REMOTE_RAW_BASE = os.environ.get(
     "DASHBOARD_RAW_BASE",
-    "https://raw.githubusercontent.com/JoaoCanhadas/acompanhamento-diario/main",
+    "https://raw.githubusercontent.com/JoaoCanhadas/acompanhamento-diario-iatagam/main",
 ).rstrip("/")
 
 REMOTE_API_BASE = os.environ.get(
     "DASHBOARD_API_BASE",
-    "https://api.github.com/repos/JoaoCanhadas/acompanhamento-diario/contents",
+    "https://api.github.com/repos/JoaoCanhadas/acompanhamento-diario-iatagam/contents",
 ).rstrip("/")
 
 REMOTE_CACHE_TTL_SECONDS = int(
