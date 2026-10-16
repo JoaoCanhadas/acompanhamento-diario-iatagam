@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "16/10/2026 14:00",
+  "lastModified": "16/10/2026 14:01",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2667482.46,
-    "missing": 3363517.54,
-    "percent": 44.2,
+    "reached": 2670169.47,
+    "missing": 3360830.53,
+    "percent": 44.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -95,11 +95,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 140480.34,
-      "missing": 140519.66,
+      "reached": 141123.14,
+      "missing": 139876.86,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 50.0,
+      "percent": 50.2,
       "status": "pending"
     },
     {
@@ -128,11 +128,11 @@
       "reference": "KEY SJC",
       "seller": "KEY SJC",
       "commitment": 150000.0,
-      "reached": 31018.0,
-      "missing": 118982.0,
+      "reached": 33062.2,
+      "missing": 116937.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 20.7,
+      "percent": 22.0,
       "status": "pending"
     },
     {
@@ -183,8 +183,8 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
-      "reached": 71574.96,
-      "missing": 70425.04,
+      "reached": 71574.97,
+      "missing": 70425.03,
       "average": 0.0,
       "difference": 0.0,
       "percent": 50.4,
@@ -320,9 +320,9 @@
     {
       "name": "Semana 3",
       "goal": 1148762,
-      "reached": 1108315.03,
-      "missing": 40446.97,
-      "percent": 96.5
+      "reached": 1111002.04,
+      "missing": 37759.96,
+      "percent": 96.7
     },
     {
       "name": "Semana 4",

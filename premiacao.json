@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "16/10/2026 14:00",
+  "lastModified": "16/10/2026 14:01",
   "positivacao": [
     {
       "seller": "SJC",
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 26714.66,
-      "reached": 140480.34,
+      "missing": 26071.86,
+      "reached": 141123.14,
       "meta_a": 281000.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 12915.04,
-      "reached": 71574.96,
+      "missing": 12915.03,
+      "reached": 71574.97,
       "meta_a": 142000.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 26714.66,
-      "reached": 140480.34,
+      "missing": 26071.86,
+      "reached": 141123.14,
       "meta_a": 281000.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 12915.04,
-      "reached": 71574.96,
+      "missing": 12915.03,
+      "reached": 71574.97,
       "meta_a": 142000.0
     },
     {
