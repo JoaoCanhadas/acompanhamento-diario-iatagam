@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "16/10/2026 12:36",
+  "lastModified": "16/10/2026 12:37",
   "summary": {
     "commitment": 120260.0,
-    "reached": 38812.65,
-    "missing": 81447.35,
+    "reached": 38842.65,
+    "missing": 81417.35,
     "percent": 32.3,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
@@ -51,11 +51,11 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 9280.0,
-      "reached": 842.67,
-      "missing": 8437.33,
+      "reached": 862.67,
+      "missing": 8417.33,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 9.1,
+      "percent": 9.3,
       "status": "pending"
     },
     {
@@ -161,11 +161,11 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 3070.0,
-      "reached": 1263.46,
-      "missing": 1806.54,
+      "reached": 1273.46,
+      "missing": 1796.54,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 41.2,
+      "percent": 41.5,
       "status": "pending"
     },
     {
@@ -232,8 +232,8 @@
     {
       "name": "Semana 3",
       "goal": 567619.05,
-      "reached": 587140.69,
-      "missing": -19521.64,
+      "reached": 587170.69,
+      "missing": -19551.64,
       "percent": 103.4
     },
     {
