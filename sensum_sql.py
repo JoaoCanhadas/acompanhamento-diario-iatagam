@@ -680,7 +680,12 @@ def pedido_panel_sql(panel):
     )
 
     if panel == "general":
-        return general_region_sql(), "", "SUM(TOTAL)"
+        regiao = general_region_sql()
+        return (
+            regiao,
+            f" AND UPPER(LTRIM(RTRIM({regiao}))) <> 'LESTE'",
+            "SUM(TOTAL)",
+        )
 
     if panel == "sales":
         return seller_column, sales_filter_sql(), "SUM(TOTAL)"
@@ -809,7 +814,7 @@ def merge_template_rows(panel, template, reached_rows):
         seller = text(item.get("seller"))
         reference = text(item.get("reference"))
 
-        if panel == "sales" and (
+        if panel in {"sales", "general"} and (
             normalize_name(seller) == "LESTE"
             or normalize_name(reference) == "LESTE"
         ):
@@ -844,7 +849,7 @@ def merge_template_rows(panel, template, reached_rows):
         seller = text(item.get("seller"))
         key = normalize_name(seller)
 
-        if panel == "sales" and key == "LESTE":
+        if panel in {"sales", "general"} and key == "LESTE":
             continue
 
         if panel == "milho":
