@@ -3,8 +3,8 @@
   "lastModified": "16/10/2026 12:03",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2627305.63,
-    "missing": 3403694.37,
+    "reached": 2627422.63,
+    "missing": 3403577.37,
     "percent": 43.6,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -293,8 +293,8 @@
       "reference": "",
       "seller": "",
       "commitment": 0.0,
-      "reached": 175.09,
-      "missing": -175.09,
+      "reached": 292.09,
+      "missing": -292.09,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -331,8 +331,8 @@
     {
       "name": "Semana 3",
       "goal": 1148762,
-      "reached": 1068138.18,
-      "missing": 80623.82,
+      "reached": 1068255.18,
+      "missing": 80506.82,
       "percent": 93.0
     },
     {
