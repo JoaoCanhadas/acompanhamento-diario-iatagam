@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "16/10/2026 13:12",
+  "lastModified": "16/10/2026 13:13",
   "positivacao": [
     {
       "seller": "SJC",
@@ -118,8 +118,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 4,
-      "reached": 12.0,
+      "missing": 3,
+      "reached": 13.0,
       "meta_a": 35.0
     },
     {
@@ -150,10 +150,10 @@
   "faturamento": [
     {
       "seller": "SJC",
-      "premiacao": "NÃO ATINGIDO",
-      "proxima_meta": "D",
-      "missing": 228.7,
-      "reached": 39371.3,
+      "premiacao": "D",
+      "proxima_meta": "C",
+      "missing": 12688.9,
+      "reached": 39671.1,
       "meta_a": 88000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 18472.75,
-      "reached": 143367.25,
+      "missing": 18472.73,
+      "reached": 143367.27,
       "meta_a": 272000.0
     },
     {
@@ -264,8 +264,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 20170.42,
-      "reached": 80384.58,
+      "missing": 19732.77,
+      "reached": 80822.23,
       "meta_a": 169000.0
     },
     {
@@ -410,8 +410,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 4,
-      "reached": 12.0,
+      "missing": 3,
+      "reached": 13.0,
       "meta_a": 35.0
     },
     {
@@ -440,10 +440,10 @@
     },
     {
       "seller": "SJC",
-      "premiacao": "NÃO ATINGIDO",
-      "proxima_meta": "D",
-      "missing": 228.7,
-      "reached": 39371.3,
+      "premiacao": "D",
+      "proxima_meta": "C",
+      "missing": 12688.9,
+      "reached": 39671.1,
       "meta_a": 88000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 18472.75,
-      "reached": 143367.25,
+      "missing": 18472.73,
+      "reached": 143367.27,
       "meta_a": 272000.0
     },
     {
@@ -554,8 +554,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 20170.42,
-      "reached": 80384.58,
+      "missing": 19732.77,
+      "reached": 80822.23,
       "meta_a": 169000.0
     },
     {
