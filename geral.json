@@ -3,8 +3,8 @@
   "lastModified": "16/10/2026 12:49",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2639810.67,
-    "missing": 3391189.33,
+    "reached": 2644069.38,
+    "missing": 3386930.62,
     "percent": 43.8,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -40,11 +40,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 220609.58,
-      "missing": 259390.42,
+      "reached": 224064.4,
+      "missing": 255935.6,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 46.0,
+      "percent": 46.7,
       "status": "pending"
     },
     {
@@ -70,17 +70,6 @@
       "status": "pending"
     },
     {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 331500.0,
-      "reached": 175149.86,
-      "missing": 156350.14,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 52.8,
-      "status": "pending"
-    },
-    {
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
@@ -89,6 +78,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 54.8,
+      "status": "pending"
+    },
+    {
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 331500.0,
+      "reached": 175697.79,
+      "missing": 155802.21,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 53.0,
       "status": "pending"
     },
     {
@@ -172,11 +172,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 90229.5,
-      "missing": 84770.5,
+      "reached": 90485.46,
+      "missing": 84514.54,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 51.6,
+      "percent": 51.7,
       "status": "pending"
     },
     {
@@ -320,9 +320,9 @@
     {
       "name": "Semana 3",
       "goal": 1148762,
-      "reached": 1080643.23,
-      "missing": 68118.77,
-      "percent": 94.1
+      "reached": 1084901.94,
+      "missing": 63860.06,
+      "percent": 94.4
     },
     {
       "name": "Semana 4",

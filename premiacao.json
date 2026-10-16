@@ -30,8 +30,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -3,
-      "reached": 38.0,
+      "missing": -4,
+      "reached": 39.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 22092.63,
-      "reached": 175149.87,
+      "missing": 21544.7,
+      "reached": 175697.8,
       "meta_a": 331500.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 13895.5,
-      "reached": 90229.5,
+      "missing": 13639.54,
+      "reached": 90485.46,
       "meta_a": 175000.0
     },
     {
@@ -322,8 +322,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -3,
-      "reached": 38.0,
+      "missing": -4,
+      "reached": 39.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 22092.63,
-      "reached": 175149.87,
+      "missing": 21544.7,
+      "reached": 175697.8,
       "meta_a": 331500.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 13895.5,
-      "reached": 90229.5,
+      "missing": 13639.54,
+      "reached": 90485.46,
       "meta_a": 175000.0
     },
     {
