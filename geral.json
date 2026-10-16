@@ -3,8 +3,8 @@
   "lastModified": "16/10/2026 11:53",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2626763.91,
-    "missing": 3404236.09,
+    "reached": 2627305.63,
+    "missing": 3403694.37,
     "percent": 43.6,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -194,8 +194,8 @@
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
-      "reached": 32713.4,
-      "missing": 62786.6,
+      "reached": 32791.4,
+      "missing": 62708.6,
       "average": 0.0,
       "difference": 0.0,
       "percent": 34.3,
@@ -216,11 +216,11 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 38897.58,
-      "missing": 49102.42,
+      "reached": 39361.3,
+      "missing": 48638.7,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 44.2,
+      "percent": 44.7,
       "status": "pending"
     },
     {
@@ -331,9 +331,9 @@
     {
       "name": "Semana 3",
       "goal": 1148762,
-      "reached": 1067596.46,
-      "missing": 81165.54,
-      "percent": 92.9
+      "reached": 1068138.18,
+      "missing": 80623.82,
+      "percent": 93.0
     },
     {
       "name": "Semana 4",
