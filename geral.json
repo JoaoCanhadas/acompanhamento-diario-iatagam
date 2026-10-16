@@ -3,8 +3,8 @@
   "lastModified": "16/10/2026 12:39",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2635583.97,
-    "missing": 3395416.03,
+    "reached": 2635684.87,
+    "missing": 3395315.13,
     "percent": 43.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -73,8 +73,8 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 175048.96,
-      "missing": 156451.04,
+      "reached": 175149.86,
+      "missing": 156350.14,
       "average": 0.0,
       "difference": 0.0,
       "percent": 52.8,
@@ -320,8 +320,8 @@
     {
       "name": "Semana 3",
       "goal": 1148762,
-      "reached": 1076416.53,
-      "missing": 72345.47,
+      "reached": 1076517.43,
+      "missing": 72244.57,
       "percent": 93.7
     },
     {
