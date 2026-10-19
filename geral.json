@@ -3,8 +3,8 @@
   "lastModified": "19/10/2026 09:55",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2750816.52,
-    "missing": 3280183.48,
+    "reached": 2751163.32,
+    "missing": 3279836.68,
     "percent": 45.6,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -216,11 +216,11 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 44309.15,
-      "missing": 43690.85,
+      "reached": 44655.95,
+      "missing": 43344.05,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 50.4,
+      "percent": 50.7,
       "status": "pending"
     },
     {
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 42993.62,
-      "missing": 1392958.38,
+      "reached": 43340.42,
+      "missing": 1392611.58,
       "percent": 3.0
     },
     {
