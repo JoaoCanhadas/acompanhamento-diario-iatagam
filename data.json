@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "19/10/2026 10:36",
+  "lastModified": "19/10/2026 10:38",
   "summary": {
     "commitment": 300910.0,
-    "reached": 73876.27,
-    "missing": 227033.73,
-    "percent": 24.6,
+    "reached": 76764.49,
+    "missing": 224145.51,
+    "percent": 25.5,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -18,11 +18,11 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 27520.0,
-      "reached": 3505.6,
-      "missing": 24014.4,
+      "reached": 3970.12,
+      "missing": 23549.88,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 12.7,
+      "percent": 14.4,
       "status": "pending"
     },
     {
@@ -40,8 +40,8 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 32000.0,
-      "reached": 11040.15,
-      "missing": 20959.85,
+      "reached": 11050.15,
+      "missing": 20949.85,
       "average": 0.0,
       "difference": 0.0,
       "percent": 34.5,
@@ -73,11 +73,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 29000.0,
-      "reached": 11577.84,
-      "missing": 17422.16,
+      "reached": 13241.54,
+      "missing": 15758.46,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 39.9,
+      "percent": 45.7,
       "status": "pending"
     },
     {
@@ -139,11 +139,11 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 10070.0,
-      "reached": 0.0,
-      "missing": 10070.0,
+      "reached": 750.0,
+      "missing": 9320.0,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 0.0,
+      "percent": 7.4,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 73876.27,
-      "missing": 635647.54,
-      "percent": 10.4
+      "reached": 76764.49,
+      "missing": 632759.32,
+      "percent": 10.8
     },
     {
       "name": "Semana 5",
