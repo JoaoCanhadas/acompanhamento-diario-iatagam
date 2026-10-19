@@ -3,9 +3,9 @@
   "lastModified": "19/10/2026 15:48",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3167196.07,
-    "missing": 2863803.93,
-    "percent": 52.5,
+    "reached": 3170280.47,
+    "missing": 2860719.53,
+    "percent": 52.6,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -95,22 +95,22 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 162129.34,
-      "missing": 118870.66,
+      "reached": 163514.74,
+      "missing": 117485.26,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 57.7,
+      "percent": 58.2,
       "status": "pending"
     },
     {
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 99485.19,
-      "missing": 118014.81,
+      "reached": 101184.19,
+      "missing": 116315.81,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 45.7,
+      "percent": 46.5,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 461254.18,
-      "missing": 974697.82,
-      "percent": 32.1
+      "reached": 464338.58,
+      "missing": 971613.42,
+      "percent": 32.3
     },
     {
       "name": "Semana 5",
