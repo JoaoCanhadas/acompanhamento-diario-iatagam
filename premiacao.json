@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 13:40",
+  "lastModified": "19/10/2026 13:41",
   "positivacao": [
     {
       "seller": "SJC",
@@ -118,8 +118,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 7,
-      "reached": 18.0,
+      "missing": 6,
+      "reached": 19.0,
       "meta_a": 35.0
     },
     {
@@ -256,24 +256,24 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3671.93,
-      "reached": 80818.07,
+      "missing": 2960.18,
+      "reached": 81529.82,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 7177.79,
-      "reached": 93377.21,
+      "missing": 6328.24,
+      "reached": 94226.76,
       "meta_a": 169000.0
     },
     {
       "seller": "SBC",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 2279.66,
-      "reached": 158370.34,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 68249.94,
+      "reached": 161250.06,
       "meta_a": 270000.0
     },
     {
@@ -286,10 +286,10 @@
     },
     {
       "seller": "LESTE TATUAPE",
-      "premiacao": "NÃO ATINGIDO",
-      "proxima_meta": "D",
-      "missing": 134.11,
-      "reached": 97740.89,
+      "premiacao": "D",
+      "proxima_meta": "C",
+      "missing": 31046.11,
+      "reached": 98366.39,
       "meta_a": 217500.0
     }
   ],
@@ -410,8 +410,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 7,
-      "reached": 18.0,
+      "missing": 6,
+      "reached": 19.0,
       "meta_a": 35.0
     },
     {
@@ -546,24 +546,24 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3671.93,
-      "reached": 80818.07,
+      "missing": 2960.18,
+      "reached": 81529.82,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 7177.79,
-      "reached": 93377.21,
+      "missing": 6328.24,
+      "reached": 94226.76,
       "meta_a": 169000.0
     },
     {
       "seller": "SBC",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 2279.66,
-      "reached": 158370.34,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 68249.94,
+      "reached": 161250.06,
       "meta_a": 270000.0
     },
     {
@@ -576,10 +576,10 @@
     },
     {
       "seller": "LESTE TATUAPE",
-      "premiacao": "NÃO ATINGIDO",
-      "proxima_meta": "D",
-      "missing": 134.11,
-      "reached": 97740.89,
+      "premiacao": "D",
+      "proxima_meta": "C",
+      "missing": 31046.11,
+      "reached": 98366.39,
       "meta_a": 217500.0
     }
   ]
