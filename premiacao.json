@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 10:55",
+  "lastModified": "19/10/2026 10:56",
   "positivacao": [
     {
       "seller": "SJC",
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 17117.22,
-      "reached": 150077.78,
+      "missing": 16962.22,
+      "reached": 150232.78,
       "meta_a": 281000.0
     },
     {
@@ -232,8 +232,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 1504.44,
-      "reached": 41695.56,
+      "missing": 237.84,
+      "reached": 42962.16,
       "meta_a": 96000.0
     },
     {
@@ -272,16 +272,16 @@
       "seller": "SBC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4924.56,
-      "reached": 155725.44,
+      "missing": 4318.46,
+      "reached": 156331.54,
       "meta_a": 270000.0
     },
     {
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 7649.14,
-      "reached": 35325.86,
+      "missing": 7144.24,
+      "reached": 35830.76,
       "meta_a": 95500.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 17117.22,
-      "reached": 150077.78,
+      "missing": 16962.22,
+      "reached": 150232.78,
       "meta_a": 281000.0
     },
     {
@@ -522,8 +522,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 1504.44,
-      "reached": 41695.56,
+      "missing": 237.84,
+      "reached": 42962.16,
       "meta_a": 96000.0
     },
     {
@@ -562,16 +562,16 @@
       "seller": "SBC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4924.56,
-      "reached": 155725.44,
+      "missing": 4318.46,
+      "reached": 156331.54,
       "meta_a": 270000.0
     },
     {
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 7649.14,
-      "reached": 35325.86,
+      "missing": 7144.24,
+      "reached": 35830.76,
       "meta_a": 95500.0
     },
     {
