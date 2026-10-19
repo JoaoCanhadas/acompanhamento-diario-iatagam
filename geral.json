@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 12:42",
+  "lastModified": "19/10/2026 12:43",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2989271.8,
-    "missing": 3041728.2,
-    "percent": 49.6,
+    "reached": 3002732.59,
+    "missing": 3028267.41,
+    "percent": 49.8,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -18,11 +18,11 @@
       "reference": "KEY INTERIOR",
       "seller": "KEY INTERIOR",
       "commitment": 980000.0,
-      "reached": 405407.2,
-      "missing": 574592.8,
+      "reached": 416830.8,
+      "missing": 563169.2,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 41.4,
+      "percent": 42.5,
       "status": "pending"
     },
     {
@@ -62,11 +62,11 @@
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 500000.0,
-      "reached": 305355.77,
-      "missing": 194644.23,
+      "reached": 306990.07,
+      "missing": 193009.93,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 61.1,
+      "percent": 61.4,
       "status": "pending"
     },
     {
@@ -117,11 +117,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 151665.84,
-      "missing": 120334.16,
+      "reached": 151992.74,
+      "missing": 120007.26,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 55.8,
+      "percent": 55.9,
       "status": "pending"
     },
     {
@@ -172,11 +172,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 105227.18,
-      "missing": 69772.82,
+      "reached": 105303.17,
+      "missing": 69696.83,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 60.1,
+      "percent": 60.2,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 281448.91,
-      "missing": 1154503.09,
-      "percent": 19.6
+      "reached": 294909.7,
+      "missing": 1141042.3,
+      "percent": 20.5
     },
     {
       "name": "Semana 5",
