@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 10:51",
+  "lastModified": "19/10/2026 10:52",
   "positivacao": [
     {
       "seller": "SJC",
@@ -166,10 +166,10 @@
     },
     {
       "seller": "CENTRO",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 223.03,
-      "reached": 205051.97,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 87718.33,
+      "reached": 205531.67,
       "meta_a": 345000.0
     },
     {
@@ -192,8 +192,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 24309.66,
-      "reached": 98260.34,
+      "missing": 23076.96,
+      "reached": 99493.04,
       "meta_a": 206000.0
     },
     {
@@ -264,8 +264,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 14934.34,
-      "reached": 85620.66,
+      "missing": 13450.24,
+      "reached": 87104.76,
       "meta_a": 169000.0
     },
     {
@@ -456,10 +456,10 @@
     },
     {
       "seller": "CENTRO",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 223.03,
-      "reached": 205051.97,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 87718.33,
+      "reached": 205531.67,
       "meta_a": 345000.0
     },
     {
@@ -482,8 +482,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 24309.66,
-      "reached": 98260.34,
+      "missing": 23076.96,
+      "reached": 99493.04,
       "meta_a": 206000.0
     },
     {
@@ -554,8 +554,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 14934.34,
-      "reached": 85620.66,
+      "missing": 13450.24,
+      "reached": 87104.76,
       "meta_a": 169000.0
     },
     {
