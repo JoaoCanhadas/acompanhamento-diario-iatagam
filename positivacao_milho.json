@@ -1,15 +1,15 @@
 {
   "workbook": "Sensum SQL - Postivação",
-  "lastModified": "19/10/2026 07:59",
+  "lastModified": "19/10/2026 08:00",
   "summary": {
     "commitment": 560.0,
-    "reached": 124.0,
-    "missing": 436.0,
-    "percent": 22.1,
+    "reached": 123.0,
+    "missing": 437.0,
+    "percent": 22.0,
     "weekGoal": 53,
-    "weekRevenue": 91.0,
-    "weekMissing": -38.0,
-    "weekPercent": 171.7,
+    "weekRevenue": 90.0,
+    "weekMissing": -37.0,
+    "weekPercent": 169.8,
     "positiveCount": 0,
     "pendingCount": 16
   },
@@ -28,6 +28,17 @@
     {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
+      "commitment": 35.0,
+      "reached": 3.0,
+      "missing": 32.0,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 8.6,
+      "status": "pending"
+    },
+    {
+      "reference": "MOGI",
+      "seller": "MOGI",
       "commitment": 35.0,
       "reached": 3.0,
       "missing": 32.0,
@@ -72,17 +83,6 @@
     {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
-      "commitment": 35.0,
-      "reached": 4.0,
-      "missing": 31.0,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 11.4,
-      "status": "pending"
-    },
-    {
-      "reference": "MOGI",
-      "seller": "MOGI",
       "commitment": 35.0,
       "reached": 4.0,
       "missing": 31.0,
@@ -207,9 +207,9 @@
     {
       "name": "Semana 1",
       "goal": 53,
-      "reached": 91.0,
-      "missing": -38.0,
-      "percent": 171.7
+      "reached": 90.0,
+      "missing": -37.0,
+      "percent": 169.8
     },
     {
       "name": "Semana 2",
