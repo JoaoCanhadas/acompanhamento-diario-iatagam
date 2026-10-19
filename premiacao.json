@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 10:39",
+  "lastModified": "19/10/2026 10:40",
   "positivacao": [
     {
       "seller": "SJC",
@@ -160,8 +160,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8259.31,
-      "reached": 38745.69,
+      "missing": 6849.31,
+      "reached": 40155.69,
       "meta_a": 79000.0
     },
     {
@@ -232,8 +232,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2090.24,
-      "reached": 41109.76,
+      "missing": 1504.44,
+      "reached": 41695.56,
       "meta_a": 96000.0
     },
     {
@@ -248,8 +248,8 @@
       "seller": "JUNDIAI",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 2589.44,
-      "reached": 47390.56,
+      "missing": 2049.56,
+      "reached": 47930.44,
       "meta_a": 84000.0
     },
     {
@@ -272,16 +272,16 @@
       "seller": "SBC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5374.32,
-      "reached": 155275.68,
+      "missing": 4924.56,
+      "reached": 155725.44,
       "meta_a": 270000.0
     },
     {
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 7824.04,
-      "reached": 35150.96,
+      "missing": 7654.14,
+      "reached": 35320.86,
       "meta_a": 95500.0
     },
     {
@@ -450,8 +450,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8259.31,
-      "reached": 38745.69,
+      "missing": 6849.31,
+      "reached": 40155.69,
       "meta_a": 79000.0
     },
     {
@@ -522,8 +522,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2090.24,
-      "reached": 41109.76,
+      "missing": 1504.44,
+      "reached": 41695.56,
       "meta_a": 96000.0
     },
     {
@@ -538,8 +538,8 @@
       "seller": "JUNDIAI",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 2589.44,
-      "reached": 47390.56,
+      "missing": 2049.56,
+      "reached": 47930.44,
       "meta_a": 84000.0
     },
     {
@@ -562,16 +562,16 @@
       "seller": "SBC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5374.32,
-      "reached": 155275.68,
+      "missing": 4924.56,
+      "reached": 155725.44,
       "meta_a": 270000.0
     },
     {
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 7824.04,
-      "reached": 35150.96,
+      "missing": 7654.14,
+      "reached": 35320.86,
       "meta_a": 95500.0
     },
     {
