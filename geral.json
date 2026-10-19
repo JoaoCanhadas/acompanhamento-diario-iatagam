@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 11:13",
+  "lastModified": "19/10/2026 11:14",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2912328.16,
-    "missing": 3118671.84,
+    "reached": 2913433.06,
+    "missing": 3117566.94,
     "percent": 48.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -84,11 +84,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 210588.87,
-      "missing": 134411.13,
+      "reached": 211093.77,
+      "missing": 133906.23,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 61.0,
+      "percent": 61.2,
       "status": "pending"
     },
     {
@@ -235,17 +235,6 @@
       "status": "pending"
     },
     {
-      "reference": "VENDEDOR INTERNO 1",
-      "seller": "INTERNO 1",
-      "commitment": 79000.0,
-      "reached": 43306.59,
-      "missing": 35693.41,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 54.8,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 84000.0,
@@ -254,6 +243,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 57.6,
+      "status": "pending"
+    },
+    {
+      "reference": "VENDEDOR INTERNO 1",
+      "seller": "INTERNO 1",
+      "commitment": 79000.0,
+      "reached": 43906.59,
+      "missing": 35093.41,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 55.6,
       "status": "pending"
     },
     {
