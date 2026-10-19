@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 12:45",
+  "lastModified": "19/10/2026 12:46",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3003967.59,
-    "missing": 3027032.41,
-    "percent": 49.8,
+    "reached": 3019301.99,
+    "missing": 3011698.01,
+    "percent": 50.1,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -18,11 +18,11 @@
       "reference": "KEY INTERIOR",
       "seller": "KEY INTERIOR",
       "commitment": 980000.0,
-      "reached": 416830.8,
-      "missing": 563169.2,
+      "reached": 428301.2,
+      "missing": 551698.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 42.5,
+      "percent": 43.7,
       "status": "pending"
     },
     {
@@ -128,11 +128,11 @@
       "reference": "KEY SJC",
       "seller": "KEY SJC",
       "commitment": 150000.0,
-      "reached": 33062.2,
-      "missing": 116937.8,
+      "reached": 36926.2,
+      "missing": 113073.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 22.0,
+      "percent": 24.6,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 296144.7,
-      "missing": 1139807.3,
-      "percent": 20.6
+      "reached": 311479.1,
+      "missing": 1124472.9,
+      "percent": 21.7
     },
     {
       "name": "Semana 5",
