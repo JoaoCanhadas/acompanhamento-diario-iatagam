@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 11:45",
+  "lastModified": "19/10/2026 11:46",
   "positivacao": [
     {
       "seller": "SJC",
@@ -38,8 +38,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4,
-      "reached": 21.0,
+      "missing": 3,
+      "reached": 22.0,
       "meta_a": 35.0
     },
     {
@@ -160,8 +160,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19334.41,
-      "reached": 47815.59,
+      "missing": 19034.41,
+      "reached": 48115.59,
       "meta_a": 79000.0
     },
     {
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 16684.06,
-      "reached": 150510.94,
+      "missing": 12785.56,
+      "reached": 154409.44,
       "meta_a": 281000.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 43899.34,
-      "reached": 104850.66,
+      "missing": 43825.21,
+      "reached": 104924.79,
       "meta_a": 175000.0
     },
     {
@@ -330,8 +330,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4,
-      "reached": 21.0,
+      "missing": 3,
+      "reached": 22.0,
       "meta_a": 35.0
     },
     {
@@ -450,8 +450,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19334.41,
-      "reached": 47815.59,
+      "missing": 19034.41,
+      "reached": 48115.59,
       "meta_a": 79000.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 16684.06,
-      "reached": 150510.94,
+      "missing": 12785.56,
+      "reached": 154409.44,
       "meta_a": 281000.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 43899.34,
-      "reached": 104850.66,
+      "missing": 43825.21,
+      "reached": 104924.79,
       "meta_a": 175000.0
     },
     {
