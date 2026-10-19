@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 11:33",
+  "lastModified": "19/10/2026 11:34",
   "positivacao": [
     {
       "seller": "SJC",
@@ -158,18 +158,18 @@
     },
     {
       "seller": "VENDEDOR INTERNO 1",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 299.41,
-      "reached": 46705.59,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 19694.41,
+      "reached": 47455.59,
       "meta_a": 79000.0
     },
     {
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 82156.23,
-      "reached": 211093.77,
+      "missing": 80735.53,
+      "reached": 212514.47,
       "meta_a": 345000.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 1294.84,
-      "reached": 102830.16,
+      "missing": 461.54,
+      "reached": 103663.46,
       "meta_a": 175000.0
     },
     {
@@ -448,18 +448,18 @@
     },
     {
       "seller": "VENDEDOR INTERNO 1",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 299.41,
-      "reached": 46705.59,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 19694.41,
+      "reached": 47455.59,
       "meta_a": 79000.0
     },
     {
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 82156.23,
-      "reached": 211093.77,
+      "missing": 80735.53,
+      "reached": 212514.47,
       "meta_a": 345000.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 1294.84,
-      "reached": 102830.16,
+      "missing": 461.54,
+      "reached": 103663.46,
       "meta_a": 175000.0
     },
     {
