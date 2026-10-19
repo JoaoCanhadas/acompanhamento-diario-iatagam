@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 09:36",
+  "lastModified": "19/10/2026 09:37",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2735541.67,
-    "missing": 3295458.33,
+    "reached": 2739286.52,
+    "missing": 3291713.48,
     "percent": 45.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -84,11 +84,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 201015.12,
-      "missing": 143984.88,
+      "reached": 202037.52,
+      "missing": 142962.48,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 58.3,
+      "percent": 58.6,
       "status": "pending"
     },
     {
@@ -139,11 +139,11 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 154409.36,
-      "missing": 115590.64,
+      "reached": 155212.96,
+      "missing": 114787.04,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 57.2,
+      "percent": 57.5,
       "status": "pending"
     },
     {
@@ -216,11 +216,11 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 39679.1,
-      "missing": 48320.9,
+      "reached": 41418.1,
+      "missing": 46581.9,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 45.1,
+      "percent": 47.1,
       "status": "pending"
     },
     {
@@ -260,11 +260,11 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
-      "reached": 28909.41,
-      "missing": 29090.59,
+      "reached": 29089.26,
+      "missing": 28910.74,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 49.8,
+      "percent": 50.2,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 27718.77,
-      "missing": 1408233.23,
-      "percent": 1.9
+      "reached": 31463.62,
+      "missing": 1404488.38,
+      "percent": 2.2
     },
     {
       "name": "Semana 5",
