@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 11:18",
+  "lastModified": "19/10/2026 11:19",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2917478.16,
-    "missing": 3113521.84,
-    "percent": 48.4,
+    "reached": 2922261.56,
+    "missing": 3108738.44,
+    "percent": 48.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -172,11 +172,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 99382.96,
-      "missing": 75617.04,
+      "reached": 102581.76,
+      "missing": 72418.24,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.8,
+      "percent": 58.6,
       "status": "pending"
     },
     {
@@ -205,11 +205,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 45526.31,
-      "missing": 50473.69,
+      "reached": 46135.91,
+      "missing": 49864.09,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 47.4,
+      "percent": 48.1,
       "status": "pending"
     },
     {
@@ -235,17 +235,6 @@
       "status": "pending"
     },
     {
-      "reference": "VENDEDOR INTERNO 1",
-      "seller": "INTERNO 1",
-      "commitment": 79000.0,
-      "reached": 44476.59,
-      "missing": 34523.41,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 56.3,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 84000.0,
@@ -254,6 +243,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 59.5,
+      "status": "pending"
+    },
+    {
+      "reference": "VENDEDOR INTERNO 1",
+      "seller": "INTERNO 1",
+      "commitment": 79000.0,
+      "reached": 45451.59,
+      "missing": 33548.41,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 57.5,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 209655.27,
-      "missing": 1226296.73,
-      "percent": 14.6
+      "reached": 214438.67,
+      "missing": 1221513.33,
+      "percent": 14.9
     },
     {
       "name": "Semana 5",
