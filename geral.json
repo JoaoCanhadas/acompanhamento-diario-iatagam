@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 13:51",
+  "lastModified": "19/10/2026 13:52",
   "summary": {
     "commitment": 6031000.0,
     "reached": 3131861.02,
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 424038.13,
-      "missing": 1011913.87,
-      "percent": 29.5
+      "reached": 428812.83,
+      "missing": 1007139.17,
+      "percent": 29.9
     },
     {
       "name": "Semana 5",
