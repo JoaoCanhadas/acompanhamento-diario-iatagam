@@ -3,9 +3,9 @@
   "lastModified": "19/10/2026 09:07",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2727866.67,
-    "missing": 3303133.33,
-    "percent": 45.2,
+    "reached": 2729782.97,
+    "missing": 3301217.03,
+    "percent": 45.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -117,11 +117,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 143819.27,
-      "missing": 128180.73,
+      "reached": 145735.57,
+      "missing": 126264.43,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 52.9,
+      "percent": 53.6,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 20047.77,
-      "missing": 1415904.23,
-      "percent": 1.4
+      "reached": 21964.07,
+      "missing": 1413987.93,
+      "percent": 1.5
     },
     {
       "name": "Semana 5",
