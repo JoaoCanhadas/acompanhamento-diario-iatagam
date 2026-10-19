@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 10:13",
+  "lastModified": "19/10/2026 10:14",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2761296.5,
-    "missing": 3269703.5,
+    "reached": 2761772.56,
+    "missing": 3269227.44,
     "percent": 45.8,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -73,8 +73,8 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 177740.34,
-      "missing": 153759.66,
+      "reached": 177846.6,
+      "missing": 153653.4,
       "average": 0.0,
       "difference": 0.0,
       "percent": 53.6,
@@ -103,17 +103,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE TATUAPE",
-      "seller": "TATUAPE",
-      "commitment": 217500.0,
-      "reached": 91249.6,
-      "missing": 126250.4,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 42.0,
-      "status": "pending"
-    },
-    {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
@@ -122,6 +111,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 53.7,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE TATUAPE",
+      "seller": "TATUAPE",
+      "commitment": 217500.0,
+      "reached": 91619.4,
+      "missing": 125880.6,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 42.1,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 53473.6,
-      "missing": 1382478.4,
-      "percent": 3.7
+      "reached": 53949.66,
+      "missing": 1382002.34,
+      "percent": 3.8
     },
     {
       "name": "Semana 5",
