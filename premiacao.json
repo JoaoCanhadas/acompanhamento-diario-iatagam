@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 15:00",
+  "lastModified": "19/10/2026 15:01",
   "positivacao": [
     {
       "seller": "SJC",
@@ -160,8 +160,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17746.41,
-      "reached": 49403.59,
+      "missing": 17332.41,
+      "reached": 49817.59,
       "meta_a": 79000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4015.09,
-      "reached": 157824.91,
+      "missing": 4015.1,
+      "reached": 157824.9,
       "meta_a": 272000.0
     },
     {
@@ -240,8 +240,8 @@
       "seller": "CAMPINAS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 7413.43,
-      "reached": 34534.07,
+      "missing": 7042.43,
+      "reached": 34905.07,
       "meta_a": 70500.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 2652.68,
-      "reached": 81837.32,
+      "missing": 841.9,
+      "reached": 83648.1,
       "meta_a": 142000.0
     },
     {
@@ -450,8 +450,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17746.41,
-      "reached": 49403.59,
+      "missing": 17332.41,
+      "reached": 49817.59,
       "meta_a": 79000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4015.09,
-      "reached": 157824.91,
+      "missing": 4015.1,
+      "reached": 157824.9,
       "meta_a": 272000.0
     },
     {
@@ -530,8 +530,8 @@
       "seller": "CAMPINAS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 7413.43,
-      "reached": 34534.07,
+      "missing": 7042.43,
+      "reached": 34905.07,
       "meta_a": 70500.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 2652.68,
-      "reached": 81837.32,
+      "missing": 841.9,
+      "reached": 83648.1,
       "meta_a": 142000.0
     },
     {
