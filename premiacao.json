@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 10:22",
+  "lastModified": "19/10/2026 10:23",
   "positivacao": [
     {
       "seller": "SJC",
@@ -30,8 +30,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -3,
-      "reached": 38.0,
+      "missing": -4,
+      "reached": 39.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 16704.94,
-      "reached": 180537.56,
+      "missing": 14723.44,
+      "reached": 182519.06,
       "meta_a": 331500.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8976.32,
-      "reached": 95148.68,
+      "missing": 7447.82,
+      "reached": 96677.18,
       "meta_a": 175000.0
     },
     {
@@ -224,8 +224,8 @@
       "seller": "SJC/VALE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4345.99,
-      "reached": 30164.01,
+      "missing": 4157.05,
+      "reached": 30352.95,
       "meta_a": 58000.0
     },
     {
@@ -280,8 +280,8 @@
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 7913.99,
-      "reached": 35061.01,
+      "missing": 7824.04,
+      "reached": 35150.96,
       "meta_a": 95500.0
     },
     {
@@ -322,8 +322,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -3,
-      "reached": 38.0,
+      "missing": -4,
+      "reached": 39.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 16704.94,
-      "reached": 180537.56,
+      "missing": 14723.44,
+      "reached": 182519.06,
       "meta_a": 331500.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8976.32,
-      "reached": 95148.68,
+      "missing": 7447.82,
+      "reached": 96677.18,
       "meta_a": 175000.0
     },
     {
@@ -514,8 +514,8 @@
       "seller": "SJC/VALE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 4345.99,
-      "reached": 30164.01,
+      "missing": 4157.05,
+      "reached": 30352.95,
       "meta_a": 58000.0
     },
     {
@@ -570,8 +570,8 @@
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 7913.99,
-      "reached": 35061.01,
+      "missing": 7824.04,
+      "reached": 35150.96,
       "meta_a": 95500.0
     },
     {
