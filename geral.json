@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 13:21",
+  "lastModified": "19/10/2026 13:22",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3093283.09,
-    "missing": 2937716.91,
+    "reached": 3095071.94,
+    "missing": 2935928.06,
     "percent": 51.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -84,8 +84,8 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 156774.74,
-      "missing": 124225.26,
+      "reached": 156927.94,
+      "missing": 124072.06,
       "average": 0.0,
       "difference": 0.0,
       "percent": 55.8,
@@ -95,11 +95,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 208911.52,
-      "missing": 122588.48,
+      "reached": 209882.57,
+      "missing": 121617.43,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 63.0,
+      "percent": 63.3,
       "status": "pending"
     },
     {
@@ -117,11 +117,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 157330.2,
-      "missing": 114669.8,
+      "reached": 157824.9,
+      "missing": 114175.1,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 57.8,
+      "percent": 58.0,
       "status": "pending"
     },
     {
@@ -260,11 +260,11 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
-      "reached": 31104.19,
-      "missing": 26895.81,
+      "reached": 31274.09,
+      "missing": 26725.91,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 53.6,
+      "percent": 53.9,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 385460.2,
-      "missing": 1050491.8,
-      "percent": 26.8
+      "reached": 387249.05,
+      "missing": 1048702.95,
+      "percent": 27.0
     },
     {
       "name": "Semana 5",
