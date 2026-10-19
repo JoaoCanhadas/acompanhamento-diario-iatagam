@@ -3,8 +3,8 @@
   "lastModified": "19/10/2026 13:19",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3091045.38,
-    "missing": 2939954.62,
+    "reached": 3092311.89,
+    "missing": 2938688.11,
     "percent": 51.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -117,11 +117,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 156657.44,
-      "missing": 115342.56,
+      "reached": 157330.2,
+      "missing": 114669.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 57.6,
+      "percent": 57.8,
       "status": "pending"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
-      "reached": 79711.31,
-      "missing": 62288.69,
+      "reached": 80051.31,
+      "missing": 61948.69,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.1,
+      "percent": 56.4,
       "status": "pending"
     },
     {
@@ -227,11 +227,11 @@
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 70500.0,
-      "reached": 34280.32,
-      "missing": 36219.68,
+      "reached": 34534.07,
+      "missing": 35965.93,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 48.6,
+      "percent": 49.0,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 383222.49,
-      "missing": 1052729.51,
-      "percent": 26.7
+      "reached": 384489.0,
+      "missing": 1051463.0,
+      "percent": 26.8
     },
     {
       "name": "Semana 5",
