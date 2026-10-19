@@ -3,9 +3,9 @@
   "lastModified": "19/10/2026 13:07",
   "summary": {
     "commitment": 300910.0,
-    "reached": 169606.89,
-    "missing": 131303.11,
-    "percent": 56.4,
+    "reached": 170056.79,
+    "missing": 130853.21,
+    "percent": 56.5,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -136,17 +136,6 @@
       "status": "pending"
     },
     {
-      "reference": "MOGI",
-      "seller": "MOGI",
-      "commitment": 7830.0,
-      "reached": 4067.21,
-      "missing": 3762.79,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 51.9,
-      "status": "pending"
-    },
-    {
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 5310.0,
@@ -155,6 +144,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 33.0,
+      "status": "pending"
+    },
+    {
+      "reference": "MOGI",
+      "seller": "MOGI",
+      "commitment": 7830.0,
+      "reached": 4517.11,
+      "missing": 3312.89,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 57.7,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 169606.89,
-      "missing": 539916.92,
-      "percent": 23.9
+      "reached": 170056.79,
+      "missing": 539467.02,
+      "percent": 24.0
     },
     {
       "name": "Semana 5",
