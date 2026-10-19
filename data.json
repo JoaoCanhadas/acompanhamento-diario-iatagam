@@ -3,9 +3,9 @@
   "lastModified": "19/10/2026 11:28",
   "summary": {
     "commitment": 300910.0,
-    "reached": 119688.98,
-    "missing": 181221.02,
-    "percent": 39.8,
+    "reached": 121207.37,
+    "missing": 179702.63,
+    "percent": 40.3,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -59,17 +59,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE TATUAPE",
-      "seller": "TATUAPE",
-      "commitment": 20480.0,
-      "reached": 4943.45,
-      "missing": 15536.55,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 24.1,
-      "status": "pending"
-    },
-    {
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 32000.0,
@@ -78,6 +67,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 53.4,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE TATUAPE",
+      "seller": "TATUAPE",
+      "commitment": 20480.0,
+      "reached": 6063.44,
+      "missing": 14416.56,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 29.6,
       "status": "pending"
     },
     {
@@ -136,17 +136,6 @@
       "status": "pending"
     },
     {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 18120.0,
-      "reached": 12092.94,
-      "missing": 6027.06,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 66.7,
-      "status": "pending"
-    },
-    {
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 14340.0,
@@ -155,6 +144,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 58.2,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 18120.0,
+      "reached": 12341.34,
+      "missing": 5778.66,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 68.1,
       "status": "pending"
     },
     {
@@ -180,17 +180,6 @@
       "status": "pending"
     },
     {
-      "reference": "VENDEDOR INTERNO 1",
-      "seller": "INTERNO 1",
-      "commitment": 10070.0,
-      "reached": 8559.9,
-      "missing": 1510.1,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 85.0,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 5270.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 72.1,
+      "status": "pending"
+    },
+    {
+      "reference": "VENDEDOR INTERNO 1",
+      "seller": "INTERNO 1",
+      "commitment": 10070.0,
+      "reached": 8709.9,
+      "missing": 1360.1,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 86.5,
       "status": "pending"
     }
   ],
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 119688.98,
-      "missing": 589834.83,
-      "percent": 16.9
+      "reached": 121207.37,
+      "missing": 588316.44,
+      "percent": 17.1
     },
     {
       "name": "Semana 5",
