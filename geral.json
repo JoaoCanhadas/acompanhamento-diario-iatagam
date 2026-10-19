@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 13:34",
+  "lastModified": "19/10/2026 13:35",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3113157.54,
-    "missing": 2917842.46,
-    "percent": 51.6,
+    "reached": 3118412.4,
+    "missing": 2912587.6,
+    "percent": 51.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -62,22 +62,22 @@
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 500000.0,
-      "reached": 332812.47,
-      "missing": 167187.53,
+      "reached": 333792.67,
+      "missing": 166207.33,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 66.6,
+      "percent": 66.8,
       "status": "pending"
     },
     {
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 157989.44,
-      "missing": 123010.56,
+      "reached": 159266.24,
+      "missing": 121733.76,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.2,
+      "percent": 56.7,
       "status": "pending"
     },
     {
@@ -150,22 +150,22 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 100754.71,
-      "missing": 105245.29,
+      "reached": 101352.71,
+      "missing": 104647.29,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 48.9,
+      "percent": 49.2,
       "status": "pending"
     },
     {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
-      "reached": 92581.51,
-      "missing": 76418.49,
+      "reached": 93377.21,
+      "missing": 75622.79,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 54.8,
+      "percent": 55.3,
       "status": "pending"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
-      "reached": 80646.21,
-      "missing": 61353.79,
+      "reached": 80818.07,
+      "missing": 61181.93,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.8,
+      "percent": 56.9,
       "status": "pending"
     },
     {
@@ -205,11 +205,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 47275.4,
-      "missing": 48724.6,
+      "reached": 48707.7,
+      "missing": 47292.3,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 49.2,
+      "percent": 50.7,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 405334.65,
-      "missing": 1030617.35,
-      "percent": 28.2
+      "reached": 409285.51,
+      "missing": 1026666.49,
+      "percent": 28.5
     },
     {
       "name": "Semana 5",
