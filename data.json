@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "19/10/2026 13:13",
+  "lastModified": "19/10/2026 13:14",
   "summary": {
     "commitment": 300910.0,
-    "reached": 170629.34,
-    "missing": 130280.66,
-    "percent": 56.7,
+    "reached": 175700.29,
+    "missing": 125209.71,
+    "percent": 58.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -26,17 +26,6 @@
       "status": "pending"
     },
     {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 26990.0,
-      "reached": 10356.57,
-      "missing": 16633.43,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 38.4,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 21820.0,
@@ -45,6 +34,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 36.7,
+      "status": "pending"
+    },
+    {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 26990.0,
+      "reached": 13977.57,
+      "missing": 13012.43,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 51.8,
       "status": "pending"
     },
     {
@@ -161,11 +161,11 @@
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 5310.0,
-      "reached": 2325.4,
-      "missing": 2984.6,
+      "reached": 2425.35,
+      "missing": 2884.65,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 43.8,
+      "percent": 45.7,
       "status": "pending"
     },
     {
@@ -194,11 +194,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 29000.0,
-      "reached": 30490.22,
-      "missing": -1490.22,
+      "reached": 31840.22,
+      "missing": -2840.22,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 105.1,
+      "percent": 109.8,
       "status": "ok"
     }
   ],
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 170629.34,
-      "missing": 538894.47,
-      "percent": 24.0
+      "reached": 175700.29,
+      "missing": 533823.52,
+      "percent": 24.8
     },
     {
       "name": "Semana 5",
