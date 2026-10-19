@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "19/10/2026 10:31",
+  "lastModified": "19/10/2026 10:32",
   "summary": {
     "commitment": 300910.0,
-    "reached": 66625.51,
-    "missing": 234284.49,
-    "percent": 22.1,
+    "reached": 69486.26,
+    "missing": 231423.74,
+    "percent": 23.1,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -34,17 +34,6 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 16.7,
-      "status": "pending"
-    },
-    {
-      "reference": "INTERLAGOS",
-      "seller": "INTERLAGOS",
-      "commitment": 27600.0,
-      "reached": 5886.89,
-      "missing": 21713.11,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 21.3,
       "status": "pending"
     },
     {
@@ -81,6 +70,17 @@
       "status": "pending"
     },
     {
+      "reference": "INTERLAGOS",
+      "seller": "INTERLAGOS",
+      "commitment": 27600.0,
+      "reached": 8372.89,
+      "missing": 19227.11,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 30.3,
+      "status": "pending"
+    },
+    {
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 20480.0,
@@ -95,11 +95,11 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 18370.0,
-      "reached": 3343.15,
-      "missing": 15026.85,
+      "reached": 3717.9,
+      "missing": 14652.1,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 18.2,
+      "percent": 20.2,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 66625.51,
-      "missing": 642898.3,
-      "percent": 9.4
+      "reached": 69486.26,
+      "missing": 640037.55,
+      "percent": 9.8
     },
     {
       "name": "Semana 5",
