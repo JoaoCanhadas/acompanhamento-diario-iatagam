@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Keys",
-  "lastModified": "19/10/2026 11:04",
+  "lastModified": "19/10/2026 11:05",
   "summary": {
     "commitment": 0.0,
-    "reached": 96911.4,
-    "missing": -96911.4,
+    "reached": 97220.4,
+    "missing": -97220.4,
     "percent": 0,
     "weekGoal": 290476,
     "weekRevenue": 20607.9,
@@ -62,8 +62,8 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 0.0,
-      "reached": 7724.8,
-      "missing": -7724.8,
+      "reached": 8033.8,
+      "missing": -8033.8,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -107,9 +107,9 @@
     {
       "name": "Semana 4",
       "goal": 726190,
-      "reached": 96911.4,
-      "missing": 629278.6,
-      "percent": 13.3
+      "reached": 97220.4,
+      "missing": 628969.6,
+      "percent": 13.4
     },
     {
       "name": "Semana 5",

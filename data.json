@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "19/10/2026 11:04",
+  "lastModified": "19/10/2026 11:05",
   "summary": {
     "commitment": 300910.0,
-    "reached": 93106.25,
-    "missing": 207803.75,
-    "percent": 30.9,
+    "reached": 94266.95,
+    "missing": 206643.05,
+    "percent": 31.3,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -62,11 +62,11 @@
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 21820.0,
-      "reached": 4639.88,
-      "missing": 17180.12,
+      "reached": 4823.08,
+      "missing": 16996.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 21.3,
+      "percent": 22.1,
       "status": "pending"
     },
     {
@@ -136,17 +136,6 @@
       "status": "pending"
     },
     {
-      "reference": "VENDEDOR INTERNO 1",
-      "seller": "INTERNO 1",
-      "commitment": 10070.0,
-      "reached": 3381.0,
-      "missing": 6689.0,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 33.6,
-      "status": "pending"
-    },
-    {
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 8290.0,
@@ -161,11 +150,22 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 14340.0,
-      "reached": 8122.24,
-      "missing": 6217.76,
+      "reached": 8349.74,
+      "missing": 5990.26,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.6,
+      "percent": 58.2,
+      "status": "pending"
+    },
+    {
+      "reference": "VENDEDOR INTERNO 1",
+      "seller": "INTERNO 1",
+      "commitment": 10070.0,
+      "reached": 4131.0,
+      "missing": 5939.0,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 41.0,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 93106.25,
-      "missing": 616417.56,
-      "percent": 13.1
+      "reached": 94266.95,
+      "missing": 615256.86,
+      "percent": 13.3
     },
     {
       "name": "Semana 5",
