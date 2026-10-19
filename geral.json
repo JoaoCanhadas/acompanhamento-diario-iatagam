@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 08:54",
+  "lastModified": "19/10/2026 08:55",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2722371.91,
-    "missing": 3308628.09,
+    "reached": 2722379.91,
+    "missing": 3308620.09,
     "percent": 45.1,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -216,8 +216,8 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 39671.1,
-      "missing": 48328.9,
+      "reached": 39679.1,
+      "missing": 48320.9,
       "average": 0.0,
       "difference": 0.0,
       "percent": 45.1,
@@ -309,8 +309,8 @@
     {
       "name": "Semana 3",
       "goal": 1148762,
-      "reached": 1150330.7,
-      "missing": -1568.7,
+      "reached": 1150338.7,
+      "missing": -1576.7,
       "percent": 100.1
     },
     {
