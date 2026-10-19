@@ -3,8 +3,8 @@
   "lastModified": "19/10/2026 08:31",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2718086.25,
-    "missing": 3312913.75,
+    "reached": 2718947.05,
+    "missing": 3312052.95,
     "percent": 45.1,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -128,11 +128,11 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 152045.96,
-      "missing": 117954.04,
+      "reached": 152906.76,
+      "missing": 117093.24,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.3,
+      "percent": 56.6,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 10291.77,
-      "missing": 1425660.23,
-      "percent": 0.7
+      "reached": 11152.57,
+      "missing": 1424799.43,
+      "percent": 0.8
     },
     {
       "name": "Semana 5",
