@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 08:00",
+  "lastModified": "19/10/2026 08:01",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2715186.08,
-    "missing": 3315813.92,
+    "reached": 2716299.78,
+    "missing": 3314700.22,
     "percent": 45.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -161,11 +161,11 @@
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
-      "reached": 82464.88,
-      "missing": 86535.12,
+      "reached": 83578.58,
+      "missing": 85421.42,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 48.8,
+      "percent": 49.5,
       "status": "pending"
     },
     {
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 6575.9,
-      "missing": 1429376.1,
+      "reached": 7689.6,
+      "missing": 1428262.4,
       "percent": 0.5
     },
     {
