@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Keys",
-  "lastModified": "19/10/2026 13:29",
+  "lastModified": "19/10/2026 13:30",
   "summary": {
     "commitment": 0.0,
-    "reached": 208705.0,
-    "missing": -208705.0,
+    "reached": 209300.2,
+    "missing": -209300.2,
     "percent": 0,
     "weekGoal": 290476,
     "weekRevenue": 20607.9,
@@ -51,8 +51,8 @@
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 0.0,
-      "reached": 26504.55,
-      "missing": -26504.55,
+      "reached": 27099.75,
+      "missing": -27099.75,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -107,9 +107,9 @@
     {
       "name": "Semana 4",
       "goal": 726190,
-      "reached": 208705.0,
-      "missing": 517485.0,
-      "percent": 28.7
+      "reached": 209300.2,
+      "missing": 516889.8,
+      "percent": 28.8
     },
     {
       "name": "Semana 5",
