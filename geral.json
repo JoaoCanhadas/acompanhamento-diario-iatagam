@@ -3,9 +3,9 @@
   "lastModified": "19/10/2026 08:58",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2722594.37,
-    "missing": 3308405.63,
-    "percent": 45.1,
+    "reached": 2726069.07,
+    "missing": 3304930.93,
+    "percent": 45.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -84,11 +84,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 195010.02,
-      "missing": 149989.98,
+      "reached": 198480.72,
+      "missing": 146519.28,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.5,
+      "percent": 57.5,
       "status": "pending"
     },
     {
@@ -260,8 +260,8 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
-      "reached": 28565.61,
-      "missing": 29434.39,
+      "reached": 28569.61,
+      "missing": 29430.39,
       "average": 0.0,
       "difference": 0.0,
       "percent": 49.3,
@@ -309,16 +309,16 @@
     {
       "name": "Semana 3",
       "goal": 1148762,
-      "reached": 1150342.06,
-      "missing": -1580.06,
+      "reached": 1150346.06,
+      "missing": -1584.06,
       "percent": 100.1
     },
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 14779.47,
-      "missing": 1421172.53,
-      "percent": 1.0
+      "reached": 18250.17,
+      "missing": 1417701.83,
+      "percent": 1.3
     },
     {
       "name": "Semana 5",
