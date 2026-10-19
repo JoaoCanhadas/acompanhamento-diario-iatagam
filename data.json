@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "19/10/2026 12:10",
+  "lastModified": "19/10/2026 12:11",
   "summary": {
     "commitment": 300910.0,
-    "reached": 146795.26,
-    "missing": 154114.74,
-    "percent": 48.8,
+    "reached": 148962.86,
+    "missing": 151947.14,
+    "percent": 49.5,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -70,17 +70,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE TATUAPE",
-      "seller": "TATUAPE",
-      "commitment": 20480.0,
-      "reached": 9031.34,
-      "missing": 11448.66,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 44.1,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 13400.0,
@@ -92,14 +81,25 @@
       "status": "pending"
     },
     {
+      "reference": "LESTE TATUAPE",
+      "seller": "TATUAPE",
+      "commitment": 20480.0,
+      "reached": 10335.34,
+      "missing": 10144.66,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 50.5,
+      "status": "pending"
+    },
+    {
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 29000.0,
-      "reached": 18963.26,
-      "missing": 10036.74,
+      "reached": 19826.86,
+      "missing": 9173.14,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 65.4,
+      "percent": 68.4,
       "status": "pending"
     },
     {
