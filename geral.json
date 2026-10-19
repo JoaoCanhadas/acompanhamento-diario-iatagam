@@ -3,8 +3,8 @@
   "lastModified": "19/10/2026 09:25",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2734302.62,
-    "missing": 3296697.38,
+    "reached": 2734794.17,
+    "missing": 3296205.83,
     "percent": 45.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -161,11 +161,11 @@
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
-      "reached": 83997.25,
-      "missing": 85002.75,
+      "reached": 84488.8,
+      "missing": 84511.2,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 49.7,
+      "percent": 50.0,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 26483.72,
-      "missing": 1409468.28,
-      "percent": 1.8
+      "reached": 26975.27,
+      "missing": 1408976.73,
+      "percent": 1.9
     },
     {
       "name": "Semana 5",
