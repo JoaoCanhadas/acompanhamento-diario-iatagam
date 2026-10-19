@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "19/10/2026 11:37",
+  "lastModified": "19/10/2026 11:38",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2929254.7,
-    "missing": 3101745.3,
+    "reached": 2931320.8,
+    "missing": 3099679.2,
     "percent": 48.6,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -106,22 +106,22 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 92739.39,
-      "missing": 124760.61,
+      "reached": 92909.29,
+      "missing": 124590.71,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 42.6,
+      "percent": 42.7,
       "status": "pending"
     },
     {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 149065.34,
-      "missing": 122934.66,
+      "reached": 150086.64,
+      "missing": 121913.36,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 54.8,
+      "percent": 55.2,
       "status": "pending"
     },
     {
@@ -172,11 +172,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 103663.46,
-      "missing": 71336.54,
+      "reached": 104178.36,
+      "missing": 70821.64,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 59.2,
+      "percent": 59.5,
       "status": "pending"
     },
     {
@@ -249,11 +249,11 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 47455.59,
-      "missing": 31544.41,
+      "reached": 47815.59,
+      "missing": 31184.41,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 60.1,
+      "percent": 60.5,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 221431.81,
-      "missing": 1214520.19,
-      "percent": 15.4
+      "reached": 223497.91,
+      "missing": 1212454.09,
+      "percent": 15.6
     },
     {
       "name": "Semana 5",

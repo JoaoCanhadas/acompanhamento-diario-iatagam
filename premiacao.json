@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "19/10/2026 11:37",
+  "lastModified": "19/10/2026 11:38",
   "positivacao": [
     {
       "seller": "SJC",
@@ -160,8 +160,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19694.41,
-      "reached": 47455.59,
+      "missing": 19334.41,
+      "reached": 47815.59,
       "meta_a": 79000.0
     },
     {
@@ -198,18 +198,18 @@
     },
     {
       "seller": "SANTO ANDRE",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 461.54,
-      "reached": 103663.46,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 44571.64,
+      "reached": 104178.36,
       "meta_a": 175000.0
     },
     {
       "seller": "NORTE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 12774.66,
-      "reached": 149065.34,
+      "missing": 11753.36,
+      "reached": 150086.64,
       "meta_a": 272000.0
     },
     {
@@ -288,8 +288,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 5135.61,
-      "reached": 92739.39,
+      "missing": 4965.71,
+      "reached": 92909.29,
       "meta_a": 217500.0
     }
   ],
@@ -450,8 +450,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19694.41,
-      "reached": 47455.59,
+      "missing": 19334.41,
+      "reached": 47815.59,
       "meta_a": 79000.0
     },
     {
@@ -488,18 +488,18 @@
     },
     {
       "seller": "SANTO ANDRE",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 461.54,
-      "reached": 103663.46,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 44571.64,
+      "reached": 104178.36,
       "meta_a": 175000.0
     },
     {
       "seller": "NORTE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 12774.66,
-      "reached": 149065.34,
+      "missing": 11753.36,
+      "reached": 150086.64,
       "meta_a": 272000.0
     },
     {
@@ -578,8 +578,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 5135.61,
-      "reached": 92739.39,
+      "missing": 4965.71,
+      "reached": 92909.29,
       "meta_a": 217500.0
     }
   ]
