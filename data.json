@@ -3,9 +3,9 @@
   "lastModified": "19/10/2026 09:43",
   "summary": {
     "commitment": 300910.0,
-    "reached": 33482.97,
-    "missing": 267427.03,
-    "percent": 11.1,
+    "reached": 36573.52,
+    "missing": 264336.48,
+    "percent": 12.2,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -62,11 +62,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 32000.0,
-      "reached": 8998.85,
-      "missing": 23001.15,
+      "reached": 10475.45,
+      "missing": 21524.55,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 28.1,
+      "percent": 32.7,
       "status": "pending"
     },
     {
@@ -106,8 +106,8 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 18370.0,
-      "reached": 1626.6,
-      "missing": 16743.4,
+      "reached": 1638.6,
+      "missing": 16731.4,
       "average": 0.0,
       "difference": 0.0,
       "percent": 8.9,
@@ -125,17 +125,6 @@
       "status": "pending"
     },
     {
-      "reference": "SJC",
-      "seller": "SJC",
-      "commitment": 14340.0,
-      "reached": 2248.7,
-      "missing": 12091.3,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 15.7,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 13400.0,
@@ -144,6 +133,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 12.1,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC",
+      "seller": "SJC",
+      "commitment": 14340.0,
+      "reached": 3850.65,
+      "missing": 10489.35,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 26.9,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 33482.97,
-      "missing": 676040.84,
-      "percent": 4.7
+      "reached": 36573.52,
+      "missing": 672950.29,
+      "percent": 5.2
     },
     {
       "name": "Semana 5",
