@@ -3,8 +3,8 @@
   "lastModified": "19/10/2026 10:58",
   "summary": {
     "commitment": 0.0,
-    "reached": 86865.0,
-    "missing": -86865.0,
+    "reached": 92342.0,
+    "missing": -92342.0,
     "percent": 0,
     "weekGoal": 290476,
     "weekRevenue": 20607.9,
@@ -73,8 +73,8 @@
       "reference": "KEY SP",
       "seller": "KEY SP",
       "commitment": 0.0,
-      "reached": 77913.4,
-      "missing": -77913.4,
+      "reached": 83390.4,
+      "missing": -83390.4,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -107,9 +107,9 @@
     {
       "name": "Semana 4",
       "goal": 726190,
-      "reached": 86865.0,
-      "missing": 639325.0,
-      "percent": 12.0
+      "reached": 92342.0,
+      "missing": 633848.0,
+      "percent": 12.7
     },
     {
       "name": "Semana 5",

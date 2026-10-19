@@ -3,9 +3,9 @@
   "lastModified": "19/10/2026 10:58",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 2886851.09,
-    "missing": 3144148.91,
-    "percent": 47.9,
+    "reached": 2893271.15,
+    "missing": 3137728.85,
+    "percent": 48.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -29,11 +29,11 @@
       "reference": "KEY SP",
       "seller": "KEY SP",
       "commitment": 590000.0,
-      "reached": 196418.28,
-      "missing": 393581.72,
+      "reached": 201895.28,
+      "missing": 388104.72,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 33.3,
+      "percent": 34.2,
       "status": "pending"
     },
     {
@@ -95,11 +95,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 150232.78,
-      "missing": 130767.22,
+      "reached": 150510.94,
+      "missing": 130489.06,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 53.5,
+      "percent": 53.6,
       "status": "pending"
     },
     {
@@ -205,11 +205,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 42962.17,
-      "missing": 53037.83,
+      "reached": 43627.07,
+      "missing": 52372.93,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 44.8,
+      "percent": 45.4,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 179028.19,
-      "missing": 1256923.81,
-      "percent": 12.5
+      "reached": 185448.25,
+      "missing": 1250503.75,
+      "percent": 12.9
     },
     {
       "name": "Semana 5",
