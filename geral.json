@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "20/10/2026 14:03",
+  "lastModified": "20/10/2026 14:04",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3503716.09,
-    "missing": 2527283.91,
-    "percent": 58.1,
+    "reached": 3508012.29,
+    "missing": 2522987.71,
+    "percent": 58.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -84,22 +84,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 107830.85,
-      "missing": 109669.15,
+      "reached": 108524.35,
+      "missing": 108975.65,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 49.6,
-      "status": "pending"
-    },
-    {
-      "reference": "INTERLAGOS",
-      "seller": "INTERLAGOS",
-      "commitment": 281000.0,
-      "reached": 172587.33,
-      "missing": 108412.67,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 61.4,
+      "percent": 49.9,
       "status": "pending"
     },
     {
@@ -111,6 +100,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 67.9,
+      "status": "pending"
+    },
+    {
+      "reference": "INTERLAGOS",
+      "seller": "INTERLAGOS",
+      "commitment": 281000.0,
+      "reached": 174915.03,
+      "missing": 106084.97,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 62.2,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE PENHA",
-      "seller": "PENHA",
-      "commitment": 169000.0,
-      "reached": 111504.08,
-      "missing": 57495.92,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 66.0,
-      "status": "pending"
-    },
-    {
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
@@ -188,6 +177,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 40.3,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE PENHA",
+      "seller": "PENHA",
+      "commitment": 169000.0,
+      "reached": 112779.08,
+      "missing": 56220.92,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 66.7,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 799494.2,
-      "missing": 636457.8,
-      "percent": 55.7
+      "reached": 803790.4,
+      "missing": 632161.6,
+      "percent": 56.0
     },
     {
       "name": "Semana 5",
