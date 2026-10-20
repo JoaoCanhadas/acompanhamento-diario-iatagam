@@ -3,8 +3,8 @@
   "lastModified": "20/10/2026 09:47",
   "summary": {
     "commitment": 0.0,
-    "reached": 358603.19,
-    "missing": -358603.19,
+    "reached": 359081.99,
+    "missing": -359081.99,
     "percent": 0,
     "weekGoal": 290476,
     "weekRevenue": 20607.9,
@@ -15,22 +15,22 @@
   },
   "rows": [
     {
-      "reference": "KEY ABC",
-      "seller": "KEY ABC",
+      "reference": "KEY SJC",
+      "seller": "KEY SJC",
       "commitment": 0.0,
-      "reached": 3575.8,
-      "missing": -3575.8,
+      "reached": 3864.0,
+      "missing": -3864.0,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
       "status": "ok"
     },
     {
-      "reference": "KEY SJC",
-      "seller": "KEY SJC",
+      "reference": "KEY ABC",
+      "seller": "KEY ABC",
       "commitment": 0.0,
-      "reached": 3864.0,
-      "missing": -3864.0,
+      "reached": 4054.6,
+      "missing": -4054.6,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -107,8 +107,8 @@
     {
       "name": "Semana 4",
       "goal": 726190,
-      "reached": 358603.19,
-      "missing": 367586.81,
+      "reached": 359081.99,
+      "missing": 367108.01,
       "percent": 49.4
     },
     {
