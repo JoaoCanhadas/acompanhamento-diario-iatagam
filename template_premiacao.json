@@ -113,10 +113,10 @@
   ],
   "faturamento": [
     {
-      "seller": "62",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 6.0
+      "seller": "34",
+      "premiacao": "NÃO ATINGIDO",
+      "proxima_meta": "D",
+      "missing": 2.0
     },
     {
       "seller": "0",
@@ -215,10 +215,10 @@
       "missing": 14.0
     },
     {
-      "seller": "62",
+      "seller": "34",
       "premiacao": "",
       "proxima_meta": "",
-      "missing": 230.0
+      "missing": 226.0
     }
   ],
   "rows": [
@@ -331,10 +331,10 @@
       "missing": 448.0
     },
     {
-      "seller": "62",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 6.0
+      "seller": "34",
+      "premiacao": "NÃO ATINGIDO",
+      "proxima_meta": "D",
+      "missing": 2.0
     },
     {
       "seller": "0",
@@ -433,10 +433,10 @@
       "missing": 14.0
     },
     {
-      "seller": "62",
+      "seller": "34",
       "premiacao": "",
       "proxima_meta": "",
-      "missing": 230.0
+      "missing": 226.0
     }
   ]
 }
