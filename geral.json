@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "20/10/2026 09:52",
+  "lastModified": "20/10/2026 09:53",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3326846.35,
-    "missing": 2704153.65,
-    "percent": 55.2,
+    "reached": 3337879.5,
+    "missing": 2693120.5,
+    "percent": 55.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -29,11 +29,11 @@
       "reference": "KEY SP",
       "seller": "KEY SP",
       "commitment": 590000.0,
-      "reached": 218579.36,
-      "missing": 371420.64,
+      "reached": 221493.48,
+      "missing": 368506.52,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 37.0,
+      "percent": 37.5,
       "status": "pending"
     },
     {
@@ -84,33 +84,22 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 226325.22,
-      "missing": 118674.78,
+      "reached": 227778.82,
+      "missing": 117221.18,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 65.6,
-      "status": "pending"
-    },
-    {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 272000.0,
-      "reached": 157824.9,
-      "missing": 114175.1,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 58.0,
+      "percent": 66.0,
       "status": "pending"
     },
     {
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 166942.03,
-      "missing": 114057.97,
+      "reached": 167651.38,
+      "missing": 113348.62,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 59.4,
+      "percent": 59.7,
       "status": "pending"
     },
     {
@@ -133,6 +122,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 48.1,
+      "status": "pending"
+    },
+    {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 272000.0,
+      "reached": 159963.7,
+      "missing": 112036.3,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 58.8,
       "status": "pending"
     },
     {
@@ -161,11 +161,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 105992.44,
-      "missing": 69007.56,
+      "reached": 106168.64,
+      "missing": 68831.36,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 60.6,
+      "percent": 60.7,
       "status": "pending"
     },
     {
@@ -180,17 +180,6 @@
       "status": "pending"
     },
     {
-      "reference": "MOGI",
-      "seller": "MOGI",
-      "commitment": 95500.0,
-      "reached": 37744.26,
-      "missing": 57755.74,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 39.5,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 59.3,
+      "status": "pending"
+    },
+    {
+      "reference": "MOGI",
+      "seller": "MOGI",
+      "commitment": 95500.0,
+      "reached": 37837.66,
+      "missing": 57662.34,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 39.6,
       "status": "pending"
     },
     {
@@ -227,11 +227,11 @@
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 70500.0,
-      "reached": 34905.07,
-      "missing": 35594.93,
+      "reached": 38016.97,
+      "missing": 32483.03,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 49.5,
+      "percent": 53.9,
       "status": "pending"
     },
     {
@@ -249,22 +249,22 @@
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 84000.0,
-      "reached": 56810.53,
-      "missing": 27189.47,
+      "reached": 57106.41,
+      "missing": 26893.59,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 67.6,
+      "percent": 68.0,
       "status": "pending"
     },
     {
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
-      "reached": 31291.96,
-      "missing": 26708.04,
+      "reached": 31431.86,
+      "missing": 26568.14,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 54.0,
+      "percent": 54.2,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 622624.46,
-      "missing": 813327.54,
-      "percent": 43.4
+      "reached": 633657.61,
+      "missing": 802294.39,
+      "percent": 44.1
     },
     {
       "name": "Semana 5",
