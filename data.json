@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "20/10/2026 14:12",
+  "lastModified": "20/10/2026 14:13",
   "summary": {
     "commitment": 200660.0,
-    "reached": 155141.44,
-    "missing": 45518.56,
-    "percent": 77.3,
+    "reached": 155564.39,
+    "missing": 45095.61,
+    "percent": 77.5,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -125,17 +125,6 @@
       "status": "pending"
     },
     {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 12990.0,
-      "reached": 10688.83,
-      "missing": 2301.17,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 82.3,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 7550.0,
@@ -144,6 +133,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 69.8,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 12990.0,
+      "reached": 10961.86,
+      "missing": 2028.14,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 84.4,
       "status": "pending"
     },
     {
@@ -194,8 +194,8 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 21000.0,
-      "reached": 23520.87,
-      "missing": -2520.87,
+      "reached": 23520.89,
+      "missing": -2520.89,
       "average": 0.0,
       "difference": 0.0,
       "percent": 112.0,
@@ -205,11 +205,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 11700.0,
-      "reached": 15192.03,
-      "missing": -3492.03,
+      "reached": 15341.93,
+      "missing": -3641.93,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 129.8,
+      "percent": 131.1,
       "status": "ok"
     }
   ],
@@ -239,8 +239,8 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 384965.54,
-      "missing": 324558.27,
+      "reached": 385388.49,
+      "missing": 324135.32,
       "percent": 54.3
     },
     {
