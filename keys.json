@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Keys",
-  "lastModified": "20/10/2026 09:38",
+  "lastModified": "20/10/2026 09:39",
   "summary": {
     "commitment": 0.0,
     "reached": 355027.39,
@@ -100,9 +100,9 @@
     {
       "name": "Semana 3",
       "goal": 580952,
-      "reached": 532365.76,
-      "missing": 48586.24,
-      "percent": 91.6
+      "reached": 530645.76,
+      "missing": 50306.24,
+      "percent": 91.3
     },
     {
       "name": "Semana 4",
