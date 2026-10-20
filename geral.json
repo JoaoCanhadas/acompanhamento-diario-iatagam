@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "20/10/2026 13:00",
+  "lastModified": "20/10/2026 13:01",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3466277.92,
-    "missing": 2564722.08,
-    "percent": 57.5,
+    "reached": 3472300.17,
+    "missing": 2558699.83,
+    "percent": 57.6,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -40,11 +40,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 288126.18,
-      "missing": 191873.82,
+      "reached": 290978.18,
+      "missing": 189021.82,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 60.0,
+      "percent": 60.6,
       "status": "pending"
     },
     {
@@ -95,11 +95,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 171212.18,
-      "missing": 109787.82,
+      "reached": 171608.18,
+      "missing": 109391.82,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 60.9,
+      "percent": 61.1,
       "status": "pending"
     },
     {
@@ -139,11 +139,11 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 178306.78,
-      "missing": 91693.22,
+      "reached": 181081.03,
+      "missing": 88918.97,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 66.0,
+      "percent": 67.1,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 762056.03,
-      "missing": 673895.97,
-      "percent": 53.1
+      "reached": 768078.28,
+      "missing": 667873.72,
+      "percent": 53.5
     },
     {
       "name": "Semana 5",
