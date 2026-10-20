@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "20/10/2026 12:09",
+  "lastModified": "20/10/2026 12:10",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3447357.39,
-    "missing": 2583642.61,
+    "reached": 3448583.08,
+    "missing": 2582416.92,
     "percent": 57.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -128,11 +128,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 166398.75,
-      "missing": 105601.25,
+      "reached": 166985.24,
+      "missing": 105014.76,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 61.2,
+      "percent": 61.4,
       "status": "pending"
     },
     {
@@ -150,11 +150,11 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 116961.33,
-      "missing": 89038.67,
+      "reached": 117241.23,
+      "missing": 88758.77,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.8,
+      "percent": 56.9,
       "status": "pending"
     },
     {
@@ -172,11 +172,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 116321.97,
-      "missing": 58678.03,
+      "reached": 116681.27,
+      "missing": 58318.73,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 66.5,
+      "percent": 66.7,
       "status": "pending"
     },
     {
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 743135.5,
-      "missing": 692816.5,
+      "reached": 744361.19,
+      "missing": 691590.81,
       "percent": 51.8
     },
     {

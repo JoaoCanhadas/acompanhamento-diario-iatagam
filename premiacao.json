@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "20/10/2026 12:09",
+  "lastModified": "20/10/2026 12:10",
   "positivacao": [
     {
       "seller": "SJC",
@@ -192,24 +192,24 @@
       "seller": "LESTE MOOCA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5608.67,
-      "reached": 116961.33,
+      "missing": 5328.77,
+      "reached": 117241.23,
       "meta_a": 206000.0
     },
     {
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 32428.03,
-      "reached": 116321.97,
+      "missing": 32068.73,
+      "reached": 116681.27,
       "meta_a": 175000.0
     },
     {
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 64801.25,
-      "reached": 166398.75,
+      "missing": 64214.76,
+      "reached": 166985.24,
       "meta_a": 272000.0
     },
     {
@@ -482,24 +482,24 @@
       "seller": "LESTE MOOCA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5608.67,
-      "reached": 116961.33,
+      "missing": 5328.77,
+      "reached": 117241.23,
       "meta_a": 206000.0
     },
     {
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 32428.03,
-      "reached": 116321.97,
+      "missing": 32068.73,
+      "reached": 116681.27,
       "meta_a": 175000.0
     },
     {
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 64801.25,
-      "reached": 166398.75,
+      "missing": 64214.76,
+      "reached": 166985.24,
       "meta_a": 272000.0
     },
     {
