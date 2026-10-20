@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "20/10/2026 12:04",
+  "lastModified": "20/10/2026 12:05",
   "positivacao": [
     {
       "seller": "SJC",
@@ -168,8 +168,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 62111.68,
-      "reached": 231138.32,
+      "missing": 59369.58,
+      "reached": 233880.42,
       "meta_a": 345000.0
     },
     {
@@ -184,16 +184,16 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 68075.82,
-      "reached": 170774.18,
+      "missing": 67637.82,
+      "reached": 171212.18,
       "meta_a": 281000.0
     },
     {
       "seller": "LESTE MOOCA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5686.17,
-      "reached": 116883.83,
+      "missing": 5608.67,
+      "reached": 116961.33,
       "meta_a": 206000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 67761.95,
-      "reached": 163438.05,
+      "missing": 64801.25,
+      "reached": 166398.75,
       "meta_a": 272000.0
     },
     {
@@ -240,16 +240,16 @@
       "seller": "CAMPINAS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3930.53,
-      "reached": 38016.97,
+      "missing": 2840.83,
+      "reached": 39106.67,
       "meta_a": 70500.0
     },
     {
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 14293.59,
-      "reached": 57106.41,
+      "missing": 13826.04,
+      "reached": 57573.96,
       "meta_a": 84000.0
     },
     {
@@ -458,8 +458,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 62111.68,
-      "reached": 231138.32,
+      "missing": 59369.58,
+      "reached": 233880.42,
       "meta_a": 345000.0
     },
     {
@@ -474,16 +474,16 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 68075.82,
-      "reached": 170774.18,
+      "missing": 67637.82,
+      "reached": 171212.18,
       "meta_a": 281000.0
     },
     {
       "seller": "LESTE MOOCA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5686.17,
-      "reached": 116883.83,
+      "missing": 5608.67,
+      "reached": 116961.33,
       "meta_a": 206000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 67761.95,
-      "reached": 163438.05,
+      "missing": 64801.25,
+      "reached": 166398.75,
       "meta_a": 272000.0
     },
     {
@@ -530,16 +530,16 @@
       "seller": "CAMPINAS",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3930.53,
-      "reached": 38016.97,
+      "missing": 2840.83,
+      "reached": 39106.67,
       "meta_a": 70500.0
     },
     {
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 14293.59,
-      "reached": 57106.41,
+      "missing": 13826.04,
+      "reached": 57573.96,
       "meta_a": 84000.0
     },
     {

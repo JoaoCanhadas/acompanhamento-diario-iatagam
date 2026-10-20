@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "20/10/2026 12:04",
+  "lastModified": "20/10/2026 12:05",
   "summary": {
     "commitment": 200660.0,
-    "reached": 90525.74,
-    "missing": 110134.26,
-    "percent": 45.1,
+    "reached": 98301.29,
+    "missing": 102358.71,
+    "percent": 49.0,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -18,11 +18,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 26000.0,
-      "reached": 6678.45,
-      "missing": 19321.55,
+      "reached": 9420.55,
+      "missing": 16579.45,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 25.7,
+      "percent": 36.2,
       "status": "pending"
     },
     {
@@ -37,17 +37,6 @@
       "status": "pending"
     },
     {
-      "reference": "INTERLAGOS",
-      "seller": "INTERLAGOS",
-      "commitment": 16840.0,
-      "reached": 7259.44,
-      "missing": 9580.56,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 43.1,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 13790.0,
@@ -59,14 +48,25 @@
       "status": "pending"
     },
     {
+      "reference": "INTERLAGOS",
+      "seller": "INTERLAGOS",
+      "commitment": 16840.0,
+      "reached": 7697.44,
+      "missing": 9142.56,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 45.7,
+      "status": "pending"
+    },
+    {
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 18570.0,
-      "reached": 11562.46,
-      "missing": 7007.54,
+      "reached": 11639.96,
+      "missing": 6930.04,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 62.3,
+      "percent": 62.7,
       "status": "pending"
     },
     {
@@ -92,17 +92,6 @@
       "status": "pending"
     },
     {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 11700.0,
-      "reached": 5613.15,
-      "missing": 6086.85,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 48.0,
-      "status": "pending"
-    },
-    {
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 21000.0,
@@ -125,17 +114,6 @@
       "status": "pending"
     },
     {
-      "reference": "JUNDIAI",
-      "seller": "JUNDIAI",
-      "commitment": 7550.0,
-      "reached": 3379.37,
-      "missing": 4170.63,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 44.8,
-      "status": "pending"
-    },
-    {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 6660.0,
@@ -147,6 +125,17 @@
       "status": "pending"
     },
     {
+      "reference": "JUNDIAI",
+      "seller": "JUNDIAI",
+      "commitment": 7550.0,
+      "reached": 3846.92,
+      "missing": 3703.08,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 51.0,
+      "status": "pending"
+    },
+    {
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 3830.0,
@@ -155,6 +144,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 14.3,
+      "status": "pending"
+    },
+    {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 11700.0,
+      "reached": 8573.85,
+      "missing": 3126.15,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 73.3,
       "status": "pending"
     },
     {
@@ -194,11 +194,11 @@
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 4300.0,
-      "reached": 3111.9,
-      "missing": 1188.1,
+      "reached": 4201.6,
+      "missing": 98.4,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 72.4,
+      "percent": 97.7,
       "status": "pending"
     },
     {
@@ -239,9 +239,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 320349.84,
-      "missing": 389173.97,
-      "percent": 45.1
+      "reached": 328125.39,
+      "missing": 381398.42,
+      "percent": 46.2
     },
     {
       "name": "Semana 5",
