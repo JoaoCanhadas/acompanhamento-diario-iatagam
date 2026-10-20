@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "20/10/2026 09:18",
+  "lastModified": "20/10/2026 09:19",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3293082.05,
-    "missing": 2737917.95,
-    "percent": 54.6,
+    "reached": 3318631.95,
+    "missing": 2712368.05,
+    "percent": 55.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -40,11 +40,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 252177.38,
-      "missing": 227822.62,
+      "reached": 261699.36,
+      "missing": 218300.64,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 52.5,
+      "percent": 54.5,
       "status": "pending"
     },
     {
@@ -70,17 +70,6 @@
       "status": "pending"
     },
     {
-      "reference": "CENTRO",
-      "seller": "CENTRO",
-      "commitment": 345000.0,
-      "reached": 224459.87,
-      "missing": 120540.13,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 65.1,
-      "status": "pending"
-    },
-    {
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
@@ -92,14 +81,14 @@
       "status": "pending"
     },
     {
-      "reference": "INTERLAGOS",
-      "seller": "INTERLAGOS",
-      "commitment": 281000.0,
-      "reached": 165741.62,
-      "missing": 115258.38,
+      "reference": "CENTRO",
+      "seller": "CENTRO",
+      "commitment": 345000.0,
+      "reached": 226325.22,
+      "missing": 118674.78,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 59.0,
+      "percent": 65.6,
       "status": "pending"
     },
     {
@@ -114,14 +103,14 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE TATUAPE",
-      "seller": "TATUAPE",
-      "commitment": 217500.0,
-      "reached": 104092.49,
-      "missing": 113407.51,
+      "reference": "INTERLAGOS",
+      "seller": "INTERLAGOS",
+      "commitment": 281000.0,
+      "reached": 166942.03,
+      "missing": 114057.97,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 47.9,
+      "percent": 59.4,
       "status": "pending"
     },
     {
@@ -136,25 +125,36 @@
       "status": "pending"
     },
     {
+      "reference": "LESTE TATUAPE",
+      "seller": "TATUAPE",
+      "commitment": 217500.0,
+      "reached": 104600.8,
+      "missing": 112899.2,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 48.1,
+      "status": "pending"
+    },
+    {
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 162563.76,
-      "missing": 107436.24,
+      "reached": 163938.31,
+      "missing": 106061.69,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 60.2,
+      "percent": 60.7,
       "status": "pending"
     },
     {
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 106880.42,
-      "missing": 99119.58,
+      "reached": 112896.22,
+      "missing": 93103.78,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 51.9,
+      "percent": 54.8,
       "status": "pending"
     },
     {
@@ -172,11 +172,11 @@
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
-      "reached": 101492.21,
-      "missing": 67507.79,
+      "reached": 102341.71,
+      "missing": 66658.29,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 60.1,
+      "percent": 60.6,
       "status": "pending"
     },
     {
@@ -205,22 +205,22 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 49426.08,
-      "missing": 46573.92,
+      "reached": 51508.83,
+      "missing": 44491.17,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 51.5,
+      "percent": 53.7,
       "status": "pending"
     },
     {
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 49634.36,
-      "missing": 38365.64,
+      "reached": 51075.81,
+      "missing": 36924.19,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.4,
+      "percent": 58.0,
       "status": "pending"
     },
     {
@@ -238,11 +238,11 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 49937.59,
-      "missing": 29062.41,
+      "reached": 50627.39,
+      "missing": 28372.61,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 63.2,
+      "percent": 64.1,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 587140.16,
-      "missing": 848811.84,
-      "percent": 40.9
+      "reached": 612690.06,
+      "missing": 823261.94,
+      "percent": 42.7
     },
     {
       "name": "Semana 5",
