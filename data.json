@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "20/10/2026 14:59",
+  "lastModified": "20/10/2026 15:00",
   "summary": {
     "commitment": 200660.0,
-    "reached": 156032.97,
-    "missing": 44627.03,
-    "percent": 77.8,
+    "reached": 156590.87,
+    "missing": 44069.13,
+    "percent": 78.0,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -183,11 +183,11 @@
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 11080.0,
-      "reached": 12460.47,
-      "missing": -1380.47,
+      "reached": 13018.37,
+      "missing": -1938.37,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 112.5,
+      "percent": 117.5,
       "status": "ok"
     },
     {
@@ -239,9 +239,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 385857.07,
-      "missing": 323666.74,
-      "percent": 54.4
+      "reached": 386414.97,
+      "missing": 323108.84,
+      "percent": 54.5
     },
     {
       "name": "Semana 5",
