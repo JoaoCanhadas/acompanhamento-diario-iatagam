@@ -3,8 +3,8 @@
   "lastModified": "20/10/2026 10:44",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3369047.32,
-    "missing": 2661952.68,
+    "reached": 3372197.42,
+    "missing": 2658802.58,
     "percent": 55.9,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -51,11 +51,11 @@
       "reference": "KEY ABC",
       "seller": "KEY ABC",
       "commitment": 350000.0,
-      "reached": 168288.05,
-      "missing": 181711.95,
+      "reached": 171438.15,
+      "missing": 178561.85,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 48.1,
+      "percent": 49.0,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 664825.43,
-      "missing": 771126.57,
-      "percent": 46.3
+      "reached": 667975.53,
+      "missing": 767976.47,
+      "percent": 46.5
     },
     {
       "name": "Semana 5",
