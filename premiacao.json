@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "21/10/2026 09:44",
+  "lastModified": "21/10/2026 09:45",
   "positivacao": [
     {
       "seller": "SJC",
@@ -62,8 +62,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 2,
-      "reached": 33.0,
+      "missing": 1,
+      "reached": 34.0,
       "meta_a": 35.0
     },
     {
@@ -126,8 +126,8 @@
       "seller": "SBC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 58033.17,
-      "reached": 173166.83,
+      "missing": 57503.52,
+      "reached": 173696.48,
       "meta_a": 272000.0
     },
     {
@@ -248,16 +248,16 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 11415.74,
-      "reached": 59984.26,
+      "missing": 9304.74,
+      "reached": 62095.26,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 26338.08,
-      "reached": 94361.92,
+      "missing": 26261.34,
+      "reached": 94438.66,
       "meta_a": 142000.0
     },
     {
@@ -272,16 +272,16 @@
       "seller": "SBC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 43415.37,
-      "reached": 186084.63,
+      "missing": 39793.97,
+      "reached": 189706.03,
       "meta_a": 270000.0
     },
     {
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 3219.49,
-      "reached": 39755.51,
+      "missing": 3104.49,
+      "reached": 39870.51,
       "meta_a": 95500.0
     },
     {
@@ -354,8 +354,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 2,
-      "reached": 33.0,
+      "missing": 1,
+      "reached": 34.0,
       "meta_a": 35.0
     },
     {
@@ -418,8 +418,8 @@
       "seller": "SBC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 58033.17,
-      "reached": 173166.83,
+      "missing": 57503.52,
+      "reached": 173696.48,
       "meta_a": 272000.0
     },
     {
@@ -538,16 +538,16 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 11415.74,
-      "reached": 59984.26,
+      "missing": 9304.74,
+      "reached": 62095.26,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 26338.08,
-      "reached": 94361.92,
+      "missing": 26261.34,
+      "reached": 94438.66,
       "meta_a": 142000.0
     },
     {
@@ -562,16 +562,16 @@
       "seller": "SBC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 43415.37,
-      "reached": 186084.63,
+      "missing": 39793.97,
+      "reached": 189706.03,
       "meta_a": 270000.0
     },
     {
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 3219.49,
-      "reached": 39755.51,
+      "missing": 3104.49,
+      "reached": 39870.51,
       "meta_a": 95500.0
     },
     {
