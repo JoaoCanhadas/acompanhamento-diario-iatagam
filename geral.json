@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 15:03",
+  "lastModified": "21/10/2026 15:04",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3675658.34,
-    "missing": 2355341.66,
+    "reached": 3675658.33,
+    "missing": 2355341.67,
     "percent": 60.9,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -84,8 +84,8 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 114127.61,
-      "missing": 103372.39,
+      "reached": 114127.6,
+      "missing": 103372.4,
       "average": 0.0,
       "difference": 0.0,
       "percent": 52.5,
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 972331.55,
-      "missing": 463620.45,
+      "reached": 972331.54,
+      "missing": 463620.46,
       "percent": 67.7
     },
     {
