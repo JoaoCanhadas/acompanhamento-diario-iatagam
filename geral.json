@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 07:38",
+  "lastModified": "21/10/2026 07:39",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3525428.54,
-    "missing": 2505571.46,
+    "reached": 3526161.34,
+    "missing": 2504838.66,
     "percent": 58.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -106,11 +106,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 176071.43,
-      "missing": 104928.57,
+      "reached": 176804.23,
+      "missing": 104195.77,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 62.7,
+      "percent": 62.9,
       "status": "pending"
     },
     {
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 821206.65,
-      "missing": 614745.35,
+      "reached": 821939.45,
+      "missing": 614012.55,
       "percent": 57.2
     },
     {
