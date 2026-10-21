@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "21/10/2026 11:45",
+  "lastModified": "21/10/2026 11:46",
   "positivacao": [
     {
       "seller": "SJC",
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 54807.52,
-      "reached": 176392.48,
+      "missing": 52497.92,
+      "reached": 178702.08,
       "meta_a": 272000.0
     },
     {
@@ -280,8 +280,8 @@
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2152.47,
-      "reached": 40822.53,
+      "missing": 2152.49,
+      "reached": 40822.51,
       "meta_a": 95500.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 54807.52,
-      "reached": 176392.48,
+      "missing": 52497.92,
+      "reached": 178702.08,
       "meta_a": 272000.0
     },
     {
@@ -570,8 +570,8 @@
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2152.47,
-      "reached": 40822.53,
+      "missing": 2152.49,
+      "reached": 40822.51,
       "meta_a": 95500.0
     },
     {
