@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "21/10/2026 13:36",
+  "lastModified": "21/10/2026 13:37",
   "positivacao": [
     {
       "seller": "SJC",
@@ -22,8 +22,8 @@
       "seller": "CENTRO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8,
-      "reached": 17.0,
+      "missing": 7,
+      "reached": 18.0,
       "meta_a": 35.0
     },
     {
@@ -102,8 +102,8 @@
       "seller": "JUNDIAI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2,
-      "reached": 14.0,
+      "missing": 1,
+      "reached": 15.0,
       "meta_a": 35.0
     },
     {
@@ -168,8 +168,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 43767.87,
-      "reached": 249482.13,
+      "missing": 40562.67,
+      "reached": 252687.33,
       "meta_a": 345000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 45203.49,
-      "reached": 185996.51,
+      "missing": 45203.48,
+      "reached": 185996.52,
       "meta_a": 272000.0
     },
     {
@@ -248,24 +248,24 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8115.5,
-      "reached": 63284.5,
+      "missing": 8015.55,
+      "reached": 63384.45,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 24406.54,
-      "reached": 96293.46,
+      "missing": 23956.84,
+      "reached": 96743.16,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 27720.73,
-      "reached": 115929.27,
+      "missing": 27437.18,
+      "reached": 116212.82,
       "meta_a": 169000.0
     },
     {
@@ -314,8 +314,8 @@
       "seller": "CENTRO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8,
-      "reached": 17.0,
+      "missing": 7,
+      "reached": 18.0,
       "meta_a": 35.0
     },
     {
@@ -394,8 +394,8 @@
       "seller": "JUNDIAI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2,
-      "reached": 14.0,
+      "missing": 1,
+      "reached": 15.0,
       "meta_a": 35.0
     },
     {
@@ -458,8 +458,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 43767.87,
-      "reached": 249482.13,
+      "missing": 40562.67,
+      "reached": 252687.33,
       "meta_a": 345000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 45203.49,
-      "reached": 185996.51,
+      "missing": 45203.48,
+      "reached": 185996.52,
       "meta_a": 272000.0
     },
     {
@@ -538,24 +538,24 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8115.5,
-      "reached": 63284.5,
+      "missing": 8015.55,
+      "reached": 63384.45,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 24406.54,
-      "reached": 96293.46,
+      "missing": 23956.84,
+      "reached": 96743.16,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 27720.73,
-      "reached": 115929.27,
+      "missing": 27437.18,
+      "reached": 116212.82,
       "meta_a": 169000.0
     },
     {
