@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 10:56",
+  "lastModified": "21/10/2026 10:57",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3582552.32,
-    "missing": 2448447.68,
+    "reached": 3583834.02,
+    "missing": 2447165.98,
     "percent": 59.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -40,11 +40,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 295301.78,
-      "missing": 184698.22,
+      "reached": 296286.78,
+      "missing": 183713.22,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 61.5,
+      "percent": 61.7,
       "status": "pending"
     },
     {
@@ -139,11 +139,11 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 125688.09,
-      "missing": 80311.91,
+      "reached": 125984.79,
+      "missing": 80015.21,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 61.0,
+      "percent": 61.2,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 879225.53,
-      "missing": 556726.47,
-      "percent": 61.2
+      "reached": 880507.23,
+      "missing": 555444.77,
+      "percent": 61.3
     },
     {
       "name": "Semana 5",
