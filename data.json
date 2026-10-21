@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "21/10/2026 14:35",
+  "lastModified": "21/10/2026 14:36",
   "summary": {
     "commitment": 180880.0,
-    "reached": 108281.04,
-    "missing": 72598.96,
-    "percent": 59.9,
+    "reached": 108500.94,
+    "missing": 72379.06,
+    "percent": 60.0,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -51,11 +51,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 12190.0,
-      "reached": 5383.36,
-      "missing": 6806.64,
+      "reached": 5603.26,
+      "missing": 6586.74,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 44.2,
+      "percent": 46.0,
       "status": "pending"
     },
     {
@@ -228,8 +228,8 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 501462.31,
-      "missing": 208061.5,
+      "reached": 501682.21,
+      "missing": 207841.6,
       "percent": 70.7
     },
     {
