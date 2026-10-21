@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "21/10/2026 13:52",
+  "lastModified": "21/10/2026 13:53",
   "positivacao": [
     {
       "seller": "SJC",
@@ -110,8 +110,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 6,
-      "reached": 19.0,
+      "missing": 5,
+      "reached": 20.0,
       "meta_a": 35.0
     },
     {
@@ -160,8 +160,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 15696.35,
-      "reached": 51453.65,
+      "missing": 15620.09,
+      "reached": 51529.91,
       "meta_a": 79000.0
     },
     {
@@ -192,8 +192,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 41621.21,
-      "reached": 133478.79,
+      "missing": 37223.66,
+      "reached": 137876.34,
       "meta_a": 206000.0
     },
     {
@@ -256,16 +256,16 @@
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 21464.29,
-      "reached": 99235.71,
+      "missing": 20944.6,
+      "reached": 99755.4,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 27437.18,
-      "reached": 116212.82,
+      "missing": 22196.58,
+      "reached": 121453.42,
       "meta_a": 169000.0
     },
     {
@@ -402,8 +402,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 6,
-      "reached": 19.0,
+      "missing": 5,
+      "reached": 20.0,
       "meta_a": 35.0
     },
     {
@@ -450,8 +450,8 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 15696.35,
-      "reached": 51453.65,
+      "missing": 15620.09,
+      "reached": 51529.91,
       "meta_a": 79000.0
     },
     {
@@ -482,8 +482,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 41621.21,
-      "reached": 133478.79,
+      "missing": 37223.66,
+      "reached": 137876.34,
       "meta_a": 206000.0
     },
     {
@@ -546,16 +546,16 @@
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 21464.29,
-      "reached": 99235.71,
+      "missing": 20944.6,
+      "reached": 99755.4,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 27437.18,
-      "reached": 116212.82,
+      "missing": 22196.58,
+      "reached": 121453.42,
       "meta_a": 169000.0
     },
     {
