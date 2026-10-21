@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 11:51",
+  "lastModified": "21/10/2026 11:53",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3605681.18,
-    "missing": 2425318.82,
+    "reached": 3608515.12,
+    "missing": 2422484.88,
     "percent": 59.8,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -51,8 +51,8 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 310197.74,
-      "missing": 169802.26,
+      "reached": 310197.78,
+      "missing": 169802.22,
       "average": 0.0,
       "difference": 0.0,
       "percent": 64.6,
@@ -106,11 +106,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 231032.61,
-      "missing": 100467.39,
+      "reached": 232124.81,
+      "missing": 99375.19,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 69.7,
+      "percent": 70.0,
       "status": "pending"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 123805.7,
-      "missing": 51194.3,
+      "reached": 125547.4,
+      "missing": 49452.6,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 70.7,
+      "percent": 71.7,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 902354.39,
-      "missing": 533597.61,
-      "percent": 62.8
+      "reached": 905188.33,
+      "missing": 530763.67,
+      "percent": 63.0
     },
     {
       "name": "Semana 5",
