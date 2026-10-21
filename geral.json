@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 11:36",
+  "lastModified": "21/10/2026 11:37",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3598826.79,
-    "missing": 2432173.21,
+    "reached": 3602155.24,
+    "missing": 2428844.76,
     "percent": 59.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -51,11 +51,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 306937.58,
-      "missing": 173062.42,
+      "reached": 308981.38,
+      "missing": 171018.62,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 63.9,
+      "percent": 64.4,
       "status": "pending"
     },
     {
@@ -128,33 +128,33 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 176152.68,
-      "missing": 95847.32,
+      "reached": 176392.48,
+      "missing": 95607.52,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 64.8,
+      "percent": 64.9,
       "status": "pending"
     },
     {
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 126731.99,
-      "missing": 79268.01,
+      "reached": 127234.39,
+      "missing": 78765.61,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 61.5,
+      "percent": 61.8,
       "status": "pending"
     },
     {
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 191863.42,
-      "missing": 78136.58,
+      "reached": 192405.87,
+      "missing": 77594.13,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 71.1,
+      "percent": 71.3,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 895500.0,
-      "missing": 540452.0,
-      "percent": 62.4
+      "reached": 898828.45,
+      "missing": 537123.55,
+      "percent": 62.6
     },
     {
       "name": "Semana 5",
