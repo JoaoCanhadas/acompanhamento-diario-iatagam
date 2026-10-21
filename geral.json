@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 11:20",
+  "lastModified": "21/10/2026 11:21",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3592504.17,
-    "missing": 2438495.83,
+    "reached": 3594992.4,
+    "missing": 2436007.6,
     "percent": 59.6,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -51,11 +51,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 302748.78,
-      "missing": 177251.22,
+      "reached": 304411.58,
+      "missing": 175588.42,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 63.1,
+      "percent": 63.4,
       "status": "pending"
     },
     {
@@ -84,11 +84,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 112265.65,
-      "missing": 105234.35,
+      "reached": 112373.4,
+      "missing": 105126.6,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 51.6,
+      "percent": 51.7,
       "status": "pending"
     },
     {
@@ -249,11 +249,11 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
-      "reached": 33260.31,
-      "missing": 24739.69,
+      "reached": 33977.99,
+      "missing": 24022.01,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 57.3,
+      "percent": 58.6,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 889177.38,
-      "missing": 546774.62,
-      "percent": 61.9
+      "reached": 891665.61,
+      "missing": 544286.39,
+      "percent": 62.1
     },
     {
       "name": "Semana 5",
