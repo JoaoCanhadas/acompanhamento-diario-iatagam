@@ -3,9 +3,9 @@
   "lastModified": "21/10/2026 10:38",
   "summary": {
     "commitment": 180880.0,
-    "reached": 44444.43,
-    "missing": 136435.57,
-    "percent": 24.6,
+    "reached": 44173.23,
+    "missing": 136706.77,
+    "percent": 24.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -73,11 +73,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 14000.0,
-      "reached": 4252.4,
-      "missing": 9747.6,
+      "reached": 3981.2,
+      "missing": 10018.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 30.4,
+      "percent": 28.4,
       "status": "pending"
     },
     {
@@ -228,8 +228,8 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 437950.4,
-      "missing": 271573.41,
+      "reached": 437679.2,
+      "missing": 271844.61,
       "percent": 61.7
     },
     {
