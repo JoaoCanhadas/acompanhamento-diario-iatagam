@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 13:39",
+  "lastModified": "21/10/2026 13:40",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3637936.41,
-    "missing": 2393063.59,
-    "percent": 60.3,
+    "reached": 3641257.07,
+    "missing": 2389742.93,
+    "percent": 60.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -29,11 +29,11 @@
       "reference": "KEY SP",
       "seller": "KEY SP",
       "commitment": 590000.0,
-      "reached": 227150.64,
-      "missing": 362849.36,
+      "reached": 230171.14,
+      "missing": 359828.86,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 38.5,
+      "percent": 39.0,
       "status": "pending"
     },
     {
@@ -227,22 +227,22 @@
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 70500.0,
-      "reached": 39897.27,
-      "missing": 30602.73,
+      "reached": 40121.17,
+      "missing": 30378.83,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 56.6,
+      "percent": 56.9,
       "status": "pending"
     },
     {
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 51377.39,
-      "missing": 27622.61,
+      "reached": 51453.65,
+      "missing": 27546.35,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 65.0,
+      "percent": 65.1,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 934609.62,
-      "missing": 501342.38,
-      "percent": 65.1
+      "reached": 937930.28,
+      "missing": 498021.72,
+      "percent": 65.3
     },
     {
       "name": "Semana 5",
