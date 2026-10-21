@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "21/10/2026 13:44",
+  "lastModified": "21/10/2026 13:45",
   "positivacao": [
     {
       "seller": "SJC",
@@ -94,8 +94,8 @@
       "seller": "CAMPINAS",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2,
-      "reached": 14.0,
+      "missing": 1,
+      "reached": 15.0,
       "meta_a": 35.0
     },
     {
@@ -110,8 +110,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8,
-      "reached": 17.0,
+      "missing": 7,
+      "reached": 18.0,
       "meta_a": 35.0
     },
     {
@@ -176,24 +176,24 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 48619.73,
-      "reached": 233155.27,
+      "missing": 48294.09,
+      "reached": 233480.91,
       "meta_a": 331500.0
     },
     {
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 57051.07,
-      "reached": 181798.93,
+      "missing": 56881.17,
+      "reached": 181968.83,
       "meta_a": 281000.0
     },
     {
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 47215.81,
-      "reached": 127884.19,
+      "missing": 41621.21,
+      "reached": 133478.79,
       "meta_a": 206000.0
     },
     {
@@ -386,8 +386,8 @@
       "seller": "CAMPINAS",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 2,
-      "reached": 14.0,
+      "missing": 1,
+      "reached": 15.0,
       "meta_a": 35.0
     },
     {
@@ -402,8 +402,8 @@
       "seller": "PIRITUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8,
-      "reached": 17.0,
+      "missing": 7,
+      "reached": 18.0,
       "meta_a": 35.0
     },
     {
@@ -466,24 +466,24 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 48619.73,
-      "reached": 233155.27,
+      "missing": 48294.09,
+      "reached": 233480.91,
       "meta_a": 331500.0
     },
     {
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 57051.07,
-      "reached": 181798.93,
+      "missing": 56881.17,
+      "reached": 181968.83,
       "meta_a": 281000.0
     },
     {
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 47215.81,
-      "reached": 127884.19,
+      "missing": 41621.21,
+      "reached": 133478.79,
       "meta_a": 206000.0
     },
     {
