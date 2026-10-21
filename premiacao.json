@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "21/10/2026 12:50",
+  "lastModified": "21/10/2026 12:51",
   "positivacao": [
     {
       "seller": "SJC",
@@ -168,8 +168,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 44249.57,
-      "reached": 249000.43,
+      "missing": 44109.67,
+      "reached": 249140.33,
       "meta_a": 345000.0
     },
     {
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 59507.87,
-      "reached": 179342.13,
+      "missing": 59307.87,
+      "reached": 179542.13,
       "meta_a": 281000.0
     },
     {
@@ -232,8 +232,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 2266.33,
-      "reached": 54853.67,
+      "missing": 2251.23,
+      "reached": 54868.77,
       "meta_a": 96000.0
     },
     {
@@ -458,8 +458,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 44249.57,
-      "reached": 249000.43,
+      "missing": 44109.67,
+      "reached": 249140.33,
       "meta_a": 345000.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 59507.87,
-      "reached": 179342.13,
+      "missing": 59307.87,
+      "reached": 179542.13,
       "meta_a": 281000.0
     },
     {
@@ -522,8 +522,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 2266.33,
-      "reached": 54853.67,
+      "missing": 2251.23,
+      "reached": 54868.77,
       "meta_a": 96000.0
     },
     {
