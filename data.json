@@ -3,9 +3,9 @@
   "lastModified": "21/10/2026 07:36",
   "summary": {
     "commitment": 200660.0,
-    "reached": 0.0,
-    "missing": 200660.0,
-    "percent": 0.0,
+    "reached": 3303.75,
+    "missing": 197356.25,
+    "percent": 1.6,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -48,25 +48,25 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE MOOCA",
-      "seller": "MOOCA",
-      "commitment": 18570.0,
-      "reached": 0.0,
-      "missing": 18570.0,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 0.0,
-      "status": "pending"
-    },
-    {
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 16840.0,
-      "reached": 0.0,
-      "missing": 16840.0,
+      "reached": 241.9,
+      "missing": 16598.1,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 0.0,
+      "percent": 1.4,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE MOOCA",
+      "seller": "MOOCA",
+      "commitment": 18570.0,
+      "reached": 3061.85,
+      "missing": 15508.15,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 16.5,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 393505.97,
-      "missing": 316017.84,
-      "percent": 55.5
+      "reached": 396809.72,
+      "missing": 312714.09,
+      "percent": 55.9
     },
     {
       "name": "Semana 5",
