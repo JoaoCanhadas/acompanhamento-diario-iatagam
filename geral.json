@@ -3,8 +3,8 @@
   "lastModified": "21/10/2026 11:44",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3603371.44,
-    "missing": 2427628.56,
+    "reached": 3603371.52,
+    "missing": 2427628.48,
     "percent": 59.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -51,8 +51,8 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 310197.58,
-      "missing": 169802.42,
+      "reached": 310197.66,
+      "missing": 169802.34,
       "average": 0.0,
       "difference": 0.0,
       "percent": 64.6,
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 900044.65,
-      "missing": 535907.35,
+      "reached": 900044.73,
+      "missing": 535907.27,
       "percent": 62.7
     },
     {
