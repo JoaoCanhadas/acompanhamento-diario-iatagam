@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "21/10/2026 10:41",
+  "lastModified": "21/10/2026 10:42",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3575490.38,
-    "missing": 2455509.62,
+    "reached": 3575735.98,
+    "missing": 2455264.02,
     "percent": 59.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -183,11 +183,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 123560.1,
-      "missing": 51439.9,
+      "reached": 123805.7,
+      "missing": 51194.3,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 70.6,
+      "percent": 70.7,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 872163.59,
-      "missing": 563788.41,
-      "percent": 60.7
+      "reached": 872409.19,
+      "missing": 563542.81,
+      "percent": 60.8
     },
     {
       "name": "Semana 5",
