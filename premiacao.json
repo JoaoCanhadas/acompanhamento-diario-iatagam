@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "21/10/2026 14:00",
+  "lastModified": "21/10/2026 14:01",
   "positivacao": [
     {
       "seller": "SJC",
@@ -100,10 +100,10 @@
     },
     {
       "seller": "JUNDIAI",
-      "premiacao": "NÃO ATINGIDO",
-      "proxima_meta": "D",
-      "missing": 1,
-      "reached": 15.0,
+      "premiacao": "D",
+      "proxima_meta": "C",
+      "missing": 9,
+      "reached": 16.0,
       "meta_a": 35.0
     },
     {
@@ -248,16 +248,16 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8015.55,
-      "reached": 63384.45,
+      "missing": 7425.9,
+      "reached": 63974.1,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 20944.6,
-      "reached": 99755.4,
+      "missing": 20610.77,
+      "reached": 100089.23,
       "meta_a": 142000.0
     },
     {
@@ -392,10 +392,10 @@
     },
     {
       "seller": "JUNDIAI",
-      "premiacao": "NÃO ATINGIDO",
-      "proxima_meta": "D",
-      "missing": 1,
-      "reached": 15.0,
+      "premiacao": "D",
+      "proxima_meta": "C",
+      "missing": 9,
+      "reached": 16.0,
       "meta_a": 35.0
     },
     {
@@ -538,16 +538,16 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8015.55,
-      "reached": 63384.45,
+      "missing": 7425.9,
+      "reached": 63974.1,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 20944.6,
-      "reached": 99755.4,
+      "missing": 20610.77,
+      "reached": 100089.23,
       "meta_a": 142000.0
     },
     {
