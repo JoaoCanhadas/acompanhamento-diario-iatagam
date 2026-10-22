@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "22/10/2026 14:24",
+  "lastModified": "22/10/2026 14:25",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3842302.54,
-    "missing": 2188697.46,
+    "reached": 3842377.66,
+    "missing": 2188622.34,
     "percent": 63.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -271,11 +271,11 @@
       "reference": "ECOMMERCE",
       "seller": "ECOMMERCE",
       "commitment": 1000.0,
-      "reached": 794.52,
-      "missing": 205.48,
+      "reached": 869.64,
+      "missing": 130.36,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 79.5,
+      "percent": 87.0,
       "status": "pending"
     },
     {
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1140070.45,
-      "missing": 295881.55,
+      "reached": 1140145.57,
+      "missing": 295806.43,
       "percent": 79.4
     },
     {

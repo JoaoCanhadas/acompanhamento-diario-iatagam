@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "22/10/2026 14:24",
+  "lastModified": "22/10/2026 14:25",
   "summary": {
     "commitment": 150390.0,
-    "reached": 123884.35,
-    "missing": 26505.65,
+    "reached": 123959.47,
+    "missing": 26430.53,
     "percent": 82.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
@@ -136,6 +136,17 @@
       "status": "ok"
     },
     {
+      "reference": "",
+      "seller": "ECOMMERCE",
+      "commitment": 0.0,
+      "reached": 75.12,
+      "missing": -75.12,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 0,
+      "status": "ok"
+    },
+    {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 3800.0,
@@ -239,8 +250,8 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 628548.46,
-      "missing": 80975.35,
+      "reached": 628623.58,
+      "missing": 80900.23,
       "percent": 88.6
     },
     {
