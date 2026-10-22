@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "22/10/2026 11:20",
+  "lastModified": "22/10/2026 11:21",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3760829.16,
-    "missing": 2270170.84,
+    "reached": 3763706.36,
+    "missing": 2267293.64,
     "percent": 62.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -117,22 +117,22 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 254990.6,
-      "missing": 90009.4,
+      "reached": 256878.6,
+      "missing": 88121.4,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 73.9,
+      "percent": 74.5,
       "status": "pending"
     },
     {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 199067.46,
-      "missing": 72932.54,
+      "reached": 200056.66,
+      "missing": 71943.34,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 73.2,
+      "percent": 73.6,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1058597.07,
-      "missing": 377354.93,
-      "percent": 73.7
+      "reached": 1061474.27,
+      "missing": 374477.73,
+      "percent": 73.9
     },
     {
       "name": "Semana 5",
