@@ -3,8 +3,8 @@
   "lastModified": "22/10/2026 11:25",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3767026.21,
-    "missing": 2263973.79,
+    "reached": 3767027.81,
+    "missing": 2263972.19,
     "percent": 62.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -194,8 +194,8 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
-      "reached": 104059.75,
-      "missing": 37940.25,
+      "reached": 104061.35,
+      "missing": 37938.65,
       "average": 0.0,
       "difference": 0.0,
       "percent": 73.3,
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1064794.12,
-      "missing": 371157.88,
+      "reached": 1064795.72,
+      "missing": 371156.28,
       "percent": 74.2
     },
     {
