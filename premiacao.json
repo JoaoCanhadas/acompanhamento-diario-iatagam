@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "22/10/2026 13:44",
+  "lastModified": "22/10/2026 13:45",
   "positivacao": [
     {
       "seller": "SJC",
@@ -118,8 +118,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 35984.7,
-      "reached": 245790.3,
+      "missing": 34900.8,
+      "reached": 246874.2,
       "meta_a": 331500.0
     },
     {
@@ -192,8 +192,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 32515.19,
-      "reached": 142584.81,
+      "missing": 31430.64,
+      "reached": 143669.36,
       "meta_a": 206000.0
     },
     {
@@ -264,8 +264,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19868.67,
-      "reached": 123781.33,
+      "missing": 19191.57,
+      "reached": 124458.43,
       "meta_a": 169000.0
     },
     {
@@ -410,8 +410,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 35984.7,
-      "reached": 245790.3,
+      "missing": 34900.8,
+      "reached": 246874.2,
       "meta_a": 331500.0
     },
     {
@@ -482,8 +482,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 32515.19,
-      "reached": 142584.81,
+      "missing": 31430.64,
+      "reached": 143669.36,
       "meta_a": 206000.0
     },
     {
@@ -554,8 +554,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19868.67,
-      "reached": 123781.33,
+      "missing": 19191.57,
+      "reached": 124458.43,
       "meta_a": 169000.0
     },
     {
