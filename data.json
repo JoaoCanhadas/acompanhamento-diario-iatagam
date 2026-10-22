@@ -3,8 +3,8 @@
   "lastModified": "22/10/2026 13:51",
   "summary": {
     "commitment": 150390.0,
-    "reached": 115186.89,
-    "missing": 35203.11,
+    "reached": 115199.49,
+    "missing": 35190.51,
     "percent": 76.6,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
@@ -150,11 +150,11 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 3150.0,
-      "reached": 3983.15,
-      "missing": -833.15,
+      "reached": 3988.15,
+      "missing": -838.15,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 126.4,
+      "percent": 126.6,
       "status": "ok"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 3320.0,
-      "reached": 5145.4,
-      "missing": -1825.4,
+      "reached": 5153.0,
+      "missing": -1833.0,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 155.0,
+      "percent": 155.2,
       "status": "ok"
     },
     {
@@ -239,8 +239,8 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 619851.0,
-      "missing": 89672.81,
+      "reached": 619863.6,
+      "missing": 89660.21,
       "percent": 87.4
     },
     {
