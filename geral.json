@@ -3,9 +3,9 @@
   "lastModified": "22/10/2026 11:52",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3773425.48,
-    "missing": 2257574.52,
-    "percent": 62.6,
+    "reached": 3779265.73,
+    "missing": 2251734.27,
+    "percent": 62.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -29,11 +29,11 @@
       "reference": "KEY SP",
       "seller": "KEY SP",
       "commitment": 590000.0,
-      "reached": 241134.54,
-      "missing": 348865.46,
+      "reached": 243595.34,
+      "missing": 346404.66,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 40.9,
+      "percent": 41.3,
       "status": "pending"
     },
     {
@@ -84,11 +84,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 118504.05,
-      "missing": 98995.95,
+      "reached": 118888.8,
+      "missing": 98611.2,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 54.5,
+      "percent": 54.7,
       "status": "pending"
     },
     {
@@ -128,22 +128,22 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 200656.26,
-      "missing": 71343.74,
+      "reached": 201915.46,
+      "missing": 70084.54,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 73.8,
+      "percent": 74.2,
       "status": "pending"
     },
     {
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 200532.73,
-      "missing": 69467.27,
+      "reached": 201608.33,
+      "missing": 68391.67,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 74.3,
+      "percent": 74.7,
       "status": "pending"
     },
     {
@@ -194,11 +194,11 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
-      "reached": 104101.35,
-      "missing": 37898.65,
+      "reached": 104251.25,
+      "missing": 37748.75,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 73.3,
+      "percent": 73.4,
       "status": "pending"
     },
     {
@@ -238,11 +238,11 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 55410.66,
-      "missing": 23589.34,
+      "reached": 55920.66,
+      "missing": 23079.34,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 70.1,
+      "percent": 70.8,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1071193.39,
-      "missing": 364758.61,
-      "percent": 74.6
+      "reached": 1077033.64,
+      "missing": 358918.36,
+      "percent": 75.0
     },
     {
       "name": "Semana 5",
