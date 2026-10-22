@@ -3,8 +3,8 @@
   "lastModified": "22/10/2026 12:34",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3797426.74,
-    "missing": 2233573.26,
+    "reached": 3797466.54,
+    "missing": 2233533.46,
     "percent": 63.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -84,8 +84,8 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 118888.8,
-      "missing": 98611.2,
+      "reached": 118928.6,
+      "missing": 98571.4,
       "average": 0.0,
       "difference": 0.0,
       "percent": 54.7,
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1095194.65,
-      "missing": 340757.35,
+      "reached": 1095234.45,
+      "missing": 340717.55,
       "percent": 76.3
     },
     {
