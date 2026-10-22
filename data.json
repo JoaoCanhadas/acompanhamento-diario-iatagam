@@ -3,9 +3,9 @@
   "lastModified": "22/10/2026 13:23",
   "summary": {
     "commitment": 150390.0,
-    "reached": 104549.61,
-    "missing": 45840.39,
-    "percent": 69.5,
+    "reached": 106675.72,
+    "missing": 43714.28,
+    "percent": 70.9,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -40,11 +40,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 19380.0,
-      "reached": 9886.5,
-      "missing": 9493.5,
+      "reached": 10586.9,
+      "missing": 8793.1,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 51.0,
+      "percent": 54.6,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "ok"
     },
     {
-      "reference": "SJC/VALE",
-      "seller": "VALE",
-      "commitment": 2850.0,
-      "reached": 3919.05,
-      "missing": -1069.05,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 137.5,
-      "status": "ok"
-    },
-    {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 4110.0,
@@ -202,14 +191,25 @@
       "status": "ok"
     },
     {
+      "reference": "SJC/VALE",
+      "seller": "VALE",
+      "commitment": 2850.0,
+      "reached": 5142.06,
+      "missing": -2292.06,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 180.4,
+      "status": "ok"
+    },
+    {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 17620.0,
-      "reached": 21097.9,
-      "missing": -3477.9,
+      "reached": 21300.6,
+      "missing": -3680.6,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 119.7,
+      "percent": 120.9,
       "status": "ok"
     }
   ],
@@ -239,9 +239,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 609213.72,
-      "missing": 100310.09,
-      "percent": 85.9
+      "reached": 611339.83,
+      "missing": 98183.98,
+      "percent": 86.2
     },
     {
       "name": "Semana 5",
