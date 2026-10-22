@@ -3,8 +3,8 @@
   "lastModified": "22/10/2026 12:59",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3809693.19,
-    "missing": 2221306.81,
+    "reached": 3810203.79,
+    "missing": 2220796.21,
     "percent": 63.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -117,11 +117,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 262239.15,
-      "missing": 82760.85,
+      "reached": 262749.75,
+      "missing": 82250.25,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 76.0,
+      "percent": 76.2,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1107461.1,
-      "missing": 328490.9,
-      "percent": 77.1
+      "reached": 1107971.7,
+      "missing": 327980.3,
+      "percent": 77.2
     },
     {
       "name": "Semana 5",
