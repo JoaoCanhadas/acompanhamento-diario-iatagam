@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "22/10/2026 13:36",
+  "lastModified": "22/10/2026 13:37",
   "positivacao": [
     {
       "seller": "SJC",
@@ -168,8 +168,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 29455.95,
-      "reached": 263794.05,
+      "missing": 29091.05,
+      "reached": 264158.95,
       "meta_a": 345000.0
     },
     {
@@ -192,8 +192,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 32682.19,
-      "reached": 142417.81,
+      "missing": 32515.19,
+      "reached": 142584.81,
       "meta_a": 206000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 23023.14,
-      "reached": 208176.86,
+      "missing": 23023.1,
+      "reached": 208176.9,
       "meta_a": 272000.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 14989.13,
-      "reached": 105710.87,
+      "missing": 14469.53,
+      "reached": 106230.47,
       "meta_a": 142000.0
     },
     {
@@ -288,8 +288,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 10483.9,
-      "reached": 118928.6,
+      "missing": 10139.5,
+      "reached": 119273.0,
       "meta_a": 217500.0
     }
   ],
@@ -458,8 +458,8 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 29455.95,
-      "reached": 263794.05,
+      "missing": 29091.05,
+      "reached": 264158.95,
       "meta_a": 345000.0
     },
     {
@@ -482,8 +482,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 32682.19,
-      "reached": 142417.81,
+      "missing": 32515.19,
+      "reached": 142584.81,
       "meta_a": 206000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 23023.14,
-      "reached": 208176.86,
+      "missing": 23023.1,
+      "reached": 208176.9,
       "meta_a": 272000.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 14989.13,
-      "reached": 105710.87,
+      "missing": 14469.53,
+      "reached": 106230.47,
       "meta_a": 142000.0
     },
     {
@@ -578,8 +578,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 10483.9,
-      "reached": 118928.6,
+      "missing": 10139.5,
+      "reached": 119273.0,
       "meta_a": 217500.0
     }
   ]
