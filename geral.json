@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "22/10/2026 11:35",
+  "lastModified": "22/10/2026 11:36",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3767157.81,
-    "missing": 2263842.19,
+    "reached": 3767208.18,
+    "missing": 2263791.82,
     "percent": 62.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -282,8 +282,8 @@
       "reference": "IATAGAM JUNIOR",
       "seller": "IATAGAM JUNIOR",
       "commitment": 0.0,
-      "reached": 667.19,
-      "missing": -667.19,
+      "reached": 717.56,
+      "missing": -717.56,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1064925.72,
-      "missing": 371026.28,
+      "reached": 1064976.09,
+      "missing": 370975.91,
       "percent": 74.2
     },
     {
