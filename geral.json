@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "22/10/2026 10:15",
+  "lastModified": "22/10/2026 10:16",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3720799.58,
-    "missing": 2310200.42,
+    "reached": 3721932.32,
+    "missing": 2309067.68,
     "percent": 61.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -235,17 +235,6 @@
       "status": "pending"
     },
     {
-      "reference": "SJC/VALE",
-      "seller": "VALE",
-      "commitment": 58000.0,
-      "reached": 34923.05,
-      "missing": 23076.95,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 60.2,
-      "status": "pending"
-    },
-    {
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
@@ -254,6 +243,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 70.9,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC/VALE",
+      "seller": "VALE",
+      "commitment": 58000.0,
+      "reached": 36055.79,
+      "missing": 21944.21,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 62.2,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1018567.49,
-      "missing": 417384.51,
-      "percent": 70.9
+      "reached": 1019700.23,
+      "missing": 416251.77,
+      "percent": 71.0
     },
     {
       "name": "Semana 5",
