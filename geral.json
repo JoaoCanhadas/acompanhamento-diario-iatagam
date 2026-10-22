@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "22/10/2026 12:45",
+  "lastModified": "22/10/2026 12:46",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3801652.64,
-    "missing": 2229347.36,
+    "reached": 3801672.64,
+    "missing": 2229327.36,
     "percent": 63.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -128,8 +128,8 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 201915.46,
-      "missing": 70084.54,
+      "reached": 201935.46,
+      "missing": 70064.54,
       "average": 0.0,
       "difference": 0.0,
       "percent": 74.2,
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1099420.55,
-      "missing": 336531.45,
+      "reached": 1099440.55,
+      "missing": 336511.45,
       "percent": 76.6
     },
     {
