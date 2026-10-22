@@ -1,13 +1,13 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "22/10/2026 11:03",
+  "lastModified": "22/10/2026 11:04",
   "positivacao": [
     {
       "seller": "SJC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8,
-      "reached": 17.0,
+      "missing": 7,
+      "reached": 18.0,
       "meta_a": 35.0
     },
     {
@@ -152,8 +152,8 @@
       "seller": "SJC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17380.89,
-      "reached": 57419.11,
+      "missing": 17280.94,
+      "reached": 57519.06,
       "meta_a": 88000.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17276.44,
-      "reached": 131473.56,
+      "missing": 15739.44,
+      "reached": 133010.56,
       "meta_a": 175000.0
     },
     {
@@ -224,8 +224,8 @@
       "seller": "SJC/VALE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 13037.25,
-      "reached": 36262.75,
+      "missing": 12782.25,
+      "reached": 36517.75,
       "meta_a": 58000.0
     },
     {
@@ -298,8 +298,8 @@
       "seller": "SJC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 8,
-      "reached": 17.0,
+      "missing": 7,
+      "reached": 18.0,
       "meta_a": 35.0
     },
     {
@@ -442,8 +442,8 @@
       "seller": "SJC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17380.89,
-      "reached": 57419.11,
+      "missing": 17280.94,
+      "reached": 57519.06,
       "meta_a": 88000.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17276.44,
-      "reached": 131473.56,
+      "missing": 15739.44,
+      "reached": 133010.56,
       "meta_a": 175000.0
     },
     {
@@ -514,8 +514,8 @@
       "seller": "SJC/VALE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 13037.25,
-      "reached": 36262.75,
+      "missing": 12782.25,
+      "reached": 36517.75,
       "meta_a": 58000.0
     },
     {
