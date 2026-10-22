@@ -1,17 +1,17 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "22/10/2026 13:04",
+  "lastModified": "22/10/2026 13:05",
   "summary": {
     "commitment": 150390.0,
-    "reached": 95146.6,
-    "missing": 55243.4,
-    "percent": 63.3,
+    "reached": 97590.7,
+    "missing": 52799.3,
+    "percent": 64.9,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
     "weekPercent": 50.1,
-    "positiveCount": 4,
-    "pendingCount": 13
+    "positiveCount": 5,
+    "pendingCount": 12
   },
   "rows": [
     {
@@ -114,17 +114,6 @@
       "status": "pending"
     },
     {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 17620.0,
-      "reached": 15938.95,
-      "missing": 1681.05,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 90.5,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 3800.0,
@@ -177,6 +166,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 106.5,
+      "status": "ok"
+    },
+    {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 17620.0,
+      "reached": 18383.05,
+      "missing": -763.05,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 104.3,
       "status": "ok"
     },
     {
