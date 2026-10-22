@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "22/10/2026 14:32",
+  "lastModified": "22/10/2026 14:33",
   "summary": {
     "commitment": 150390.0,
-    "reached": 123959.47,
-    "missing": 26430.53,
-    "percent": 82.4,
+    "reached": 124334.27,
+    "missing": 26055.73,
+    "percent": 82.7,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -70,17 +70,6 @@
       "status": "pending"
     },
     {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 10430.0,
-      "reached": 7877.63,
-      "missing": 2552.37,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 75.5,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 5310.0,
@@ -100,6 +89,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 59.5,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 10430.0,
+      "reached": 8252.43,
+      "missing": 2177.57,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 79.1,
       "status": "pending"
     },
     {
@@ -250,9 +250,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 628623.58,
-      "missing": 80900.23,
-      "percent": 88.6
+      "reached": 628998.38,
+      "missing": 80525.43,
+      "percent": 88.7
     },
     {
       "name": "Semana 5",
