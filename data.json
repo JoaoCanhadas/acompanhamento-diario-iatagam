@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "23/10/2026 14:32",
+  "lastModified": "23/10/2026 14:33",
   "summary": {
     "commitment": 100610.0,
     "reached": 60020.83,
@@ -228,8 +228,8 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 692726.45,
-      "missing": 16797.36,
+      "reached": 692676.45,
+      "missing": 16847.36,
       "percent": 97.6
     },
     {
