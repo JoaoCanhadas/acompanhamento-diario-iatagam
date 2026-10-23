@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "23/10/2026 08:43",
+  "lastModified": "23/10/2026 08:44",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3880535.32,
-    "missing": 2150464.68,
-    "percent": 64.3,
+    "reached": 3881130.17,
+    "missing": 2149869.83,
+    "percent": 64.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -125,17 +125,6 @@
       "status": "pending"
     },
     {
-      "reference": "SBC",
-      "seller": "SBC",
-      "commitment": 270000.0,
-      "reached": 206404.11,
-      "missing": 63595.89,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 76.4,
-      "status": "pending"
-    },
-    {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
@@ -144,6 +133,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 76.8,
+      "status": "pending"
+    },
+    {
+      "reference": "SBC",
+      "seller": "SBC",
+      "commitment": 270000.0,
+      "reached": 206998.96,
+      "missing": 63001.04,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 76.7,
       "status": "pending"
     },
     {
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1178303.23,
-      "missing": 257648.77,
+      "reached": 1178898.08,
+      "missing": 257053.92,
       "percent": 82.1
     },
     {
