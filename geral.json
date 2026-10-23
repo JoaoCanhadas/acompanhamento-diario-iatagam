@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "23/10/2026 12:07",
+  "lastModified": "23/10/2026 12:08",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3918705.59,
-    "missing": 2112294.41,
+    "reached": 3919412.49,
+    "missing": 2111587.51,
     "percent": 65.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -95,11 +95,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 248874.64,
-      "missing": 82625.36,
+      "reached": 249581.54,
+      "missing": 81918.46,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 75.1,
+      "percent": 75.3,
       "status": "pending"
     },
     {
