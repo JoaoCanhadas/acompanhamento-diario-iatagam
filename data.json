@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "23/10/2026 10:10",
+  "lastModified": "23/10/2026 10:11",
   "summary": {
     "commitment": 100610.0,
-    "reached": 19155.36,
-    "missing": 81454.64,
-    "percent": 19.0,
+    "reached": 20060.46,
+    "missing": 80549.54,
+    "percent": 19.9,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -18,11 +18,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 14230.0,
-      "reached": 0.0,
-      "missing": 14230.0,
+      "reached": 725.2,
+      "missing": 13504.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 0.0,
+      "percent": 5.1,
       "status": "pending"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 4700.0,
-      "reached": 3552.5,
-      "missing": 1147.5,
+      "reached": 3732.4,
+      "missing": 967.6,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 75.6,
+      "percent": 79.4,
       "status": "pending"
     },
     {
