@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "23/10/2026 12:21",
+  "lastModified": "23/10/2026 12:22",
   "summary": {
     "commitment": 100610.0,
-    "reached": 41580.28,
-    "missing": 59029.72,
-    "percent": 41.3,
+    "reached": 42875.18,
+    "missing": 57734.82,
+    "percent": 42.6,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -40,11 +40,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 12980.0,
-      "reached": 4363.7,
-      "missing": 8616.3,
+      "reached": 5658.6,
+      "missing": 7321.4,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 33.6,
+      "percent": 43.6,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 674285.9,
-      "missing": 35237.91,
-      "percent": 95.0
+      "reached": 675580.8,
+      "missing": 33943.01,
+      "percent": 95.2
     },
     {
       "name": "Semana 5",
