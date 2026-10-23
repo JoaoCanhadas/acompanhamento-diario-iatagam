@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "23/10/2026 13:59",
+  "lastModified": "23/10/2026 14:00",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3963060.01,
-    "missing": 2067939.99,
+    "reached": 3963074.01,
+    "missing": 2067925.99,
     "percent": 65.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -139,8 +139,8 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 148068.69,
-      "missing": 57931.31,
+      "reached": 148082.69,
+      "missing": 57917.31,
       "average": 0.0,
       "difference": 0.0,
       "percent": 71.9,
@@ -316,8 +316,8 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1260827.92,
-      "missing": 175124.08,
+      "reached": 1260841.92,
+      "missing": 175110.08,
       "percent": 87.8
     },
     {
