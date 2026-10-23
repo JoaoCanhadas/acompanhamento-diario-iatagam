@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "23/10/2026 11:06",
+  "lastModified": "23/10/2026 11:07",
   "summary": {
     "commitment": 100610.0,
-    "reached": 29464.47,
-    "missing": 71145.53,
-    "percent": 29.3,
+    "reached": 29572.47,
+    "missing": 71037.53,
+    "percent": 29.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 1730.0,
-      "reached": 1039.34,
-      "missing": 690.66,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 60.1,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 1530.0,
@@ -188,6 +177,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 55.8,
+      "status": "pending"
+    },
+    {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 1730.0,
+      "reached": 1147.34,
+      "missing": 582.66,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 66.3,
       "status": "pending"
     },
     {
@@ -228,8 +228,8 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 662170.09,
-      "missing": 47353.72,
+      "reached": 662278.09,
+      "missing": 47245.72,
       "percent": 93.3
     },
     {
