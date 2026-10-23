@@ -30,8 +30,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -8,
-      "reached": 43.0,
+      "missing": -9,
+      "reached": 44.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 33703.1,
-      "reached": 248071.9,
+      "missing": 33359.25,
+      "reached": 248415.75,
       "meta_a": 331500.0
     },
     {
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19608.33,
-      "reached": 209891.67,
+      "missing": 18108.33,
+      "reached": 211391.67,
       "meta_a": 270000.0
     },
     {
@@ -322,8 +322,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -8,
-      "reached": 43.0,
+      "missing": -9,
+      "reached": 44.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 33703.1,
-      "reached": 248071.9,
+      "missing": 33359.25,
+      "reached": 248415.75,
       "meta_a": 331500.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 19608.33,
-      "reached": 209891.67,
+      "missing": 18108.33,
+      "reached": 211391.67,
       "meta_a": 270000.0
     },
     {
