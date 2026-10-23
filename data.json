@@ -3,9 +3,9 @@
   "lastModified": "23/10/2026 10:40",
   "summary": {
     "commitment": 100610.0,
-    "reached": 25363.91,
-    "missing": 75246.09,
-    "percent": 25.2,
+    "reached": 25527.11,
+    "missing": 75082.89,
+    "percent": 25.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -139,11 +139,11 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 1860.0,
-      "reached": 0.0,
-      "missing": 1860.0,
+      "reached": 163.2,
+      "missing": 1696.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 0.0,
+      "percent": 8.8,
       "status": "pending"
     },
     {
@@ -228,9 +228,9 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 658069.53,
-      "missing": 51454.28,
-      "percent": 92.7
+      "reached": 658232.73,
+      "missing": 51291.08,
+      "percent": 92.8
     },
     {
       "name": "Semana 5",
