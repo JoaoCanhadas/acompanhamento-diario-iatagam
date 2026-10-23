@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "23/10/2026 09:31",
+  "lastModified": "23/10/2026 09:32",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 3886918.0,
-    "missing": 2144082.0,
-    "percent": 64.4,
+    "reached": 3888028.76,
+    "missing": 2142971.24,
+    "percent": 64.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -51,11 +51,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 327680.78,
-      "missing": 152319.22,
+      "reached": 328791.54,
+      "missing": 151208.46,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 68.3,
+      "percent": 68.5,
       "status": "pending"
     },
     {
@@ -316,9 +316,9 @@
     {
       "name": "Semana 4",
       "goal": 1435952,
-      "reached": 1184685.91,
-      "missing": 251266.09,
-      "percent": 82.5
+      "reached": 1185796.67,
+      "missing": 250155.33,
+      "percent": 82.6
     },
     {
       "name": "Semana 5",
