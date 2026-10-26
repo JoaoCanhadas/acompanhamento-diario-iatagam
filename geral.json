@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 12:55",
+  "lastModified": "26/10/2026 12:58",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4532733.92,
-    "missing": 1498266.08,
-    "percent": 75.2,
+    "reached": 4539913.87,
+    "missing": 1491086.13,
+    "percent": 75.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -40,11 +40,11 @@
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 500000.0,
-      "reached": 370332.62,
-      "missing": 129667.38,
+      "reached": 372511.82,
+      "missing": 127488.18,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 74.1,
+      "percent": 74.5,
       "status": "pending"
     },
     {
@@ -95,22 +95,22 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 214637.09,
-      "missing": 66362.91,
+      "reached": 215444.69,
+      "missing": 65555.31,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 76.4,
+      "percent": 76.7,
       "status": "pending"
     },
     {
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 286299.92,
-      "missing": 58700.08,
+      "reached": 287046.27,
+      "missing": 57953.73,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 83.0,
+      "percent": 83.2,
       "status": "pending"
     },
     {
@@ -122,17 +122,6 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 83.9,
-      "status": "pending"
-    },
-    {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 272000.0,
-      "reached": 222104.58,
-      "missing": 49895.42,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 81.7,
       "status": "pending"
     },
     {
@@ -155,6 +144,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 77.3,
+      "status": "pending"
+    },
+    {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 272000.0,
+      "reached": 225551.38,
+      "missing": 46448.62,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 82.9,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 568949.52,
-      "missing": 867002.48,
-      "percent": 39.6
+      "reached": 576129.47,
+      "missing": 859822.53,
+      "percent": 40.1
     }
   ]
 }
