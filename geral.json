@@ -3,8 +3,8 @@
   "lastModified": "26/10/2026 10:43",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4073378.03,
-    "missing": 1957621.97,
+    "reached": 4073903.03,
+    "missing": 1957096.97,
     "percent": 67.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -238,11 +238,11 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 59069.76,
-      "missing": 19930.24,
+      "reached": 59594.76,
+      "missing": 19405.24,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 74.8,
+      "percent": 75.4,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 109593.63,
-      "missing": 1326358.37,
-      "percent": 7.6
+      "reached": 110118.63,
+      "missing": 1325833.37,
+      "percent": 7.7
     }
   ]
 }
