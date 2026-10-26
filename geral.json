@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 11:10",
+  "lastModified": "26/10/2026 11:11",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4093941.58,
-    "missing": 1937058.42,
+    "reached": 4096366.42,
+    "missing": 1934633.58,
     "percent": 67.9,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -136,17 +136,6 @@
       "status": "pending"
     },
     {
-      "reference": "SBC",
-      "seller": "SBC",
-      "commitment": 270000.0,
-      "reached": 219627.94,
-      "missing": 50372.06,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 81.3,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
@@ -155,6 +144,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 75.8,
+      "status": "pending"
+    },
+    {
+      "reference": "SBC",
+      "seller": "SBC",
+      "commitment": 270000.0,
+      "reached": 221252.84,
+      "missing": 48747.16,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 81.9,
       "status": "pending"
     },
     {
@@ -227,22 +227,22 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 68526.91,
-      "missing": 19473.09,
+      "reached": 68726.85,
+      "missing": 19273.15,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 77.9,
+      "percent": 78.1,
       "status": "pending"
     },
     {
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 62444.76,
-      "missing": 16555.24,
+      "reached": 63044.76,
+      "missing": 15955.24,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 79.0,
+      "percent": 79.8,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 130157.18,
-      "missing": 1305794.82,
-      "percent": 9.1
+      "reached": 132582.02,
+      "missing": 1303369.98,
+      "percent": 9.2
     }
   ]
 }
