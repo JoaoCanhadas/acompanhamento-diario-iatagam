@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 13:31",
+  "lastModified": "26/10/2026 13:32",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4590651.43,
-    "missing": 1440348.57,
-    "percent": 76.1,
+    "reached": 4597306.48,
+    "missing": 1433693.52,
+    "percent": 76.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -103,17 +103,6 @@
       "status": "pending"
     },
     {
-      "reference": "CENTRO",
-      "seller": "CENTRO",
-      "commitment": 345000.0,
-      "reached": 290109.97,
-      "missing": 54890.03,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 84.1,
-      "status": "pending"
-    },
-    {
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
@@ -122,6 +111,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 83.9,
+      "status": "pending"
+    },
+    {
+      "reference": "CENTRO",
+      "seller": "CENTRO",
+      "commitment": 345000.0,
+      "reached": 292193.37,
+      "missing": 52806.63,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 84.7,
       "status": "pending"
     },
     {
@@ -172,11 +172,11 @@
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
-      "reached": 136856.1,
-      "missing": 32143.9,
+      "reached": 139622.05,
+      "missing": 29377.95,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 81.0,
+      "percent": 82.6,
       "status": "pending"
     },
     {
@@ -205,11 +205,11 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
-      "reached": 116049.84,
-      "missing": 25950.16,
+      "reached": 117135.94,
+      "missing": 24864.06,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 81.7,
+      "percent": 82.5,
       "status": "pending"
     },
     {
@@ -249,11 +249,11 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
-      "reached": 47642.04,
-      "missing": 10357.96,
+      "reached": 48361.64,
+      "missing": 9638.36,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 82.1,
+      "percent": 83.4,
       "status": "pending"
     },
     {
