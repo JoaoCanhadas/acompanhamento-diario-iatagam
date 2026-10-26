@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 13:16",
+  "lastModified": "26/10/2026 13:17",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4565847.73,
-    "missing": 1465152.27,
+    "reached": 4568206.81,
+    "missing": 1462793.19,
     "percent": 75.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -106,11 +106,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 288955.77,
-      "missing": 56044.23,
+      "reached": 290109.97,
+      "missing": 54890.03,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 83.8,
+      "percent": 84.1,
       "status": "pending"
     },
     {
@@ -161,8 +161,8 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 227545.73,
-      "missing": 44454.27,
+      "reached": 227776.01,
+      "missing": 44223.99,
       "average": 0.0,
       "difference": 0.0,
       "percent": 83.7,
@@ -180,17 +180,6 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 142000.0,
-      "reached": 112800.46,
-      "missing": 29199.54,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 79.4,
-      "status": "pending"
-    },
-    {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 70.4,
+      "status": "pending"
+    },
+    {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 142000.0,
+      "reached": 113775.06,
+      "missing": 28224.94,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 80.1,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 602063.33,
-      "missing": 833888.67,
-      "percent": 41.9
+      "reached": 604422.41,
+      "missing": 831529.59,
+      "percent": 42.1
     }
   ]
 }
