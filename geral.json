@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 10:34",
+  "lastModified": "26/10/2026 10:35",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4066828.14,
-    "missing": 1964171.86,
+    "reached": 4067902.14,
+    "missing": 1963097.86,
     "percent": 67.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -161,11 +161,11 @@
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
-      "reached": 46380.1,
-      "missing": 49119.9,
+      "reached": 46845.1,
+      "missing": 48654.9,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 48.6,
+      "percent": 49.1,
       "status": "pending"
     },
     {
@@ -194,11 +194,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 64219.09,
-      "missing": 31780.91,
+      "reached": 64828.09,
+      "missing": 31171.91,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 66.9,
+      "percent": 67.5,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 103043.74,
-      "missing": 1332908.26,
-      "percent": 7.2
+      "reached": 104117.74,
+      "missing": 1331834.26,
+      "percent": 7.3
     }
   ]
 }
