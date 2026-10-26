@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "26/10/2026 11:58",
+  "lastModified": "26/10/2026 11:59",
   "summary": {
     "commitment": 300470.0,
-    "reached": 125404.2,
-    "missing": 175065.8,
-    "percent": 41.7,
+    "reached": 126383.0,
+    "missing": 174087.0,
+    "percent": 42.1,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -29,11 +29,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 25000.0,
-      "reached": 6331.7,
-      "missing": 18668.3,
+      "reached": 7310.5,
+      "missing": 17689.5,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 25.3,
+      "percent": 29.2,
       "status": "pending"
     },
     {
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 125404.2,
-      "missing": 584119.61,
-      "percent": 17.7
+      "reached": 126383.0,
+      "missing": 583140.81,
+      "percent": 17.8
     }
   ]
 }
