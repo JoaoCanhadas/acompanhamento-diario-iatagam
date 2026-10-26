@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "26/10/2026 11:55",
+  "lastModified": "26/10/2026 11:56",
   "positivacao": [
     {
       "seller": "SJC",
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 27573.41,
-      "reached": 211276.59,
+      "missing": 27293.41,
+      "reached": 211556.59,
       "meta_a": 281000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 13656.82,
-      "reached": 217543.18,
+      "missing": 12934.12,
+      "reached": 218265.88,
       "meta_a": 272000.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 10771.79,
-      "reached": 109928.21,
+      "missing": 10292.09,
+      "reached": 110407.91,
       "meta_a": 142000.0
     },
     {
@@ -288,8 +288,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 52591.05,
-      "reached": 132283.95,
+      "missing": 50355.85,
+      "reached": 134519.15,
       "meta_a": 217500.0
     }
   ],
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 27573.41,
-      "reached": 211276.59,
+      "missing": 27293.41,
+      "reached": 211556.59,
       "meta_a": 281000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 13656.82,
-      "reached": 217543.18,
+      "missing": 12934.12,
+      "reached": 218265.88,
       "meta_a": 272000.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 10771.79,
-      "reached": 109928.21,
+      "missing": 10292.09,
+      "reached": 110407.91,
       "meta_a": 142000.0
     },
     {
@@ -578,8 +578,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 52591.05,
-      "reached": 132283.95,
+      "missing": 50355.85,
+      "reached": 134519.15,
       "meta_a": 217500.0
     }
   ]
