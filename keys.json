@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Keys",
-  "lastModified": "23/10/2026 16:30",
+  "lastModified": "26/10/2026 09:12",
   "summary": {
     "commitment": 0.0,
-    "reached": 569135.72,
-    "missing": -569135.72,
+    "reached": 25016.1,
+    "missing": -25016.1,
     "percent": 0,
     "weekGoal": 290476,
     "weekRevenue": 20607.9,
@@ -15,44 +15,11 @@
   },
   "rows": [
     {
-      "reference": "KEY SJC",
-      "seller": "KEY SJC",
-      "commitment": 0.0,
-      "reached": 12000.0,
-      "missing": -12000.0,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 0,
-      "status": "ok"
-    },
-    {
-      "reference": "KEY ABC",
-      "seller": "KEY ABC",
-      "commitment": 0.0,
-      "reached": 52874.8,
-      "missing": -52874.8,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 0,
-      "status": "ok"
-    },
-    {
-      "reference": "KEY CASA",
-      "seller": "KEY CASA",
-      "commitment": 0.0,
-      "reached": 54861.55,
-      "missing": -54861.55,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 0,
-      "status": "ok"
-    },
-    {
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 0.0,
-      "reached": 110635.94,
-      "missing": -110635.94,
+      "reached": 0.0,
+      "missing": 0.0,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -62,8 +29,8 @@
       "reference": "KEY INTERIOR",
       "seller": "KEY INTERIOR",
       "commitment": 0.0,
-      "reached": 168697.0,
-      "missing": -168697.0,
+      "reached": 0.0,
+      "missing": 0.0,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -73,8 +40,41 @@
       "reference": "KEY SP",
       "seller": "KEY SP",
       "commitment": 0.0,
-      "reached": 170066.43,
-      "missing": -170066.43,
+      "reached": 0.0,
+      "missing": 0.0,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 0,
+      "status": "ok"
+    },
+    {
+      "reference": "KEY SJC",
+      "seller": "KEY SJC",
+      "commitment": 0.0,
+      "reached": 0.0,
+      "missing": 0.0,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 0,
+      "status": "ok"
+    },
+    {
+      "reference": "KEY CASA",
+      "seller": "KEY CASA",
+      "commitment": 0.0,
+      "reached": 2245.0,
+      "missing": -2245.0,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 0,
+      "status": "ok"
+    },
+    {
+      "reference": "KEY ABC",
+      "seller": "KEY ABC",
+      "commitment": 0.0,
+      "reached": 22771.1,
+      "missing": -22771.1,
       "average": 0.0,
       "difference": 0.0,
       "percent": 0,
@@ -114,9 +114,9 @@
     {
       "name": "Semana 5",
       "goal": 726190,
-      "reached": 0.0,
-      "missing": 726190.0,
-      "percent": 0.0
+      "reached": 25016.1,
+      "missing": 701173.9,
+      "percent": 3.4
     }
   ]
 }
