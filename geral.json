@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 10:19",
+  "lastModified": "26/10/2026 10:20",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4047849.68,
-    "missing": 1983150.32,
-    "percent": 67.1,
+    "reached": 4054161.16,
+    "missing": 1976838.84,
+    "percent": 67.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -128,11 +128,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 214408.98,
-      "missing": 57591.02,
+      "reached": 215993.38,
+      "missing": 56006.62,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 78.8,
+      "percent": 79.4,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 175000.0,
-      "reached": 141490.05,
-      "missing": 33509.95,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 80.9,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
@@ -210,6 +199,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 77.3,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 175000.0,
+      "reached": 145017.28,
+      "missing": 29982.72,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 82.9,
       "status": "pending"
     },
     {
@@ -260,11 +260,11 @@
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 84000.0,
-      "reached": 72418.33,
-      "missing": 11581.67,
+      "reached": 73618.18,
+      "missing": 10381.82,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 86.2,
+      "percent": 87.6,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 84065.28,
-      "missing": 1351886.72,
-      "percent": 5.9
+      "reached": 90376.76,
+      "missing": 1345575.24,
+      "percent": 6.3
     }
   ]
 }
