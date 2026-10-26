@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 11:31",
+  "lastModified": "26/10/2026 11:32",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4121239.6,
-    "missing": 1909760.4,
-    "percent": 68.3,
+    "reached": 4123280.2,
+    "missing": 1907719.8,
+    "percent": 68.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE PENHA",
-      "seller": "PENHA",
-      "commitment": 169000.0,
-      "reached": 135790.5,
-      "missing": 33209.5,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 80.3,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
@@ -188,6 +177,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 77.3,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE PENHA",
+      "seller": "PENHA",
+      "commitment": 169000.0,
+      "reached": 136856.1,
+      "missing": 32143.9,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 81.0,
       "status": "pending"
     },
     {
@@ -249,11 +249,11 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 65012.76,
-      "missing": 13987.24,
+      "reached": 65987.76,
+      "missing": 13012.24,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 82.3,
+      "percent": 83.5,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 157455.2,
-      "missing": 1278496.8,
-      "percent": 11.0
+      "reached": 159495.8,
+      "missing": 1276456.2,
+      "percent": 11.1
     }
   ]
 }
