@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "26/10/2026 13:25",
+  "lastModified": "26/10/2026 13:26",
   "summary": {
     "commitment": 300470.0,
-    "reached": 175427.47,
-    "missing": 125042.53,
-    "percent": 58.4,
+    "reached": 178223.82,
+    "missing": 122246.18,
+    "percent": 59.3,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -14,17 +14,6 @@
     "pendingCount": 17
   },
   "rows": [
-    {
-      "reference": "SBC",
-      "seller": "SBC",
-      "commitment": 25000.0,
-      "reached": 10464.09,
-      "missing": 14535.91,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 41.9,
-      "status": "pending"
-    },
     {
       "reference": "CENTRO",
       "seller": "CENTRO",
@@ -56,6 +45,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 50.5,
+      "status": "pending"
+    },
+    {
+      "reference": "SBC",
+      "seller": "SBC",
+      "commitment": 25000.0,
+      "reached": 12863.14,
+      "missing": 12136.86,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 51.5,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "SJC/VALE",
-      "seller": "VALE",
-      "commitment": 10060.0,
-      "reached": 7245.33,
-      "missing": 2814.67,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 72.0,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 5820.0,
@@ -188,6 +177,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 55.5,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC/VALE",
+      "seller": "VALE",
+      "commitment": 10060.0,
+      "reached": 7642.63,
+      "missing": 2417.37,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 76.0,
       "status": "pending"
     },
     {
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 175427.47,
-      "missing": 534096.34,
-      "percent": 24.7
+      "reached": 178223.82,
+      "missing": 531299.99,
+      "percent": 25.1
     }
   ]
 }
