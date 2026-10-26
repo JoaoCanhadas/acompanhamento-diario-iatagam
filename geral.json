@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 09:49",
+  "lastModified": "26/10/2026 09:50",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4021470.34,
-    "missing": 2009529.66,
-    "percent": 66.7,
+    "reached": 4028043.94,
+    "missing": 2002956.06,
+    "percent": 66.8,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -37,17 +37,6 @@
       "status": "pending"
     },
     {
-      "reference": "KEY ZL",
-      "seller": "KEY ZL",
-      "commitment": 480000.0,
-      "reached": 334700.34,
-      "missing": 145299.66,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 69.7,
-      "status": "pending"
-    },
-    {
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 500000.0,
@@ -56,6 +45,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 71.6,
+      "status": "pending"
+    },
+    {
+      "reference": "KEY ZL",
+      "seller": "KEY ZL",
+      "commitment": 480000.0,
+      "reached": 338785.54,
+      "missing": 141214.46,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 70.6,
       "status": "pending"
     },
     {
@@ -106,11 +106,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 205949.73,
-      "missing": 75050.27,
+      "reached": 206589.53,
+      "missing": 74410.47,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 73.3,
+      "percent": 73.5,
       "status": "pending"
     },
     {
@@ -191,17 +191,6 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 142000.0,
-      "reached": 108470.41,
-      "missing": 33529.59,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 76.4,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
@@ -213,14 +202,25 @@
       "status": "pending"
     },
     {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 142000.0,
+      "reached": 109269.61,
+      "missing": 32730.39,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 77.0,
+      "status": "pending"
+    },
+    {
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 63109.61,
-      "missing": 24890.39,
+      "reached": 64159.01,
+      "missing": 23840.99,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 71.7,
+      "percent": 72.9,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 57685.94,
-      "missing": 1378266.06,
-      "percent": 4.0
+      "reached": 64259.54,
+      "missing": 1371692.46,
+      "percent": 4.5
     }
   ]
 }
