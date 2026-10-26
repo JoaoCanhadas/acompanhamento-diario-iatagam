@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "26/10/2026 10:28",
+  "lastModified": "26/10/2026 10:29",
   "positivacao": [
     {
       "seller": "SJC",
@@ -30,8 +30,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -10,
-      "reached": 45.0,
+      "missing": -11,
+      "reached": 46.0,
       "meta_a": 35.0
     },
     {
@@ -86,8 +86,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 9,
-      "reached": 16.0,
+      "missing": 8,
+      "reached": 17.0,
       "meta_a": 35.0
     },
     {
@@ -168,16 +168,16 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 11198.98,
-      "reached": 282051.02,
+      "missing": 9856.88,
+      "reached": 283393.12,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 26138.86,
-      "reached": 255636.14,
+      "missing": 25109.36,
+      "reached": 256665.64,
       "meta_a": 331500.0
     },
     {
@@ -232,8 +232,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17480.86,
-      "reached": 64119.14,
+      "missing": 17380.91,
+      "reached": 64219.09,
       "meta_a": 96000.0
     },
     {
@@ -288,8 +288,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3129.24,
-      "reached": 126283.26,
+      "missing": 168.54,
+      "reached": 129243.96,
       "meta_a": 217500.0
     }
   ],
@@ -322,8 +322,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -10,
-      "reached": 45.0,
+      "missing": -11,
+      "reached": 46.0,
       "meta_a": 35.0
     },
     {
@@ -378,8 +378,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 9,
-      "reached": 16.0,
+      "missing": 8,
+      "reached": 17.0,
       "meta_a": 35.0
     },
     {
@@ -458,16 +458,16 @@
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 11198.98,
-      "reached": 282051.02,
+      "missing": 9856.88,
+      "reached": 283393.12,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 26138.86,
-      "reached": 255636.14,
+      "missing": 25109.36,
+      "reached": 256665.64,
       "meta_a": 331500.0
     },
     {
@@ -522,8 +522,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17480.86,
-      "reached": 64119.14,
+      "missing": 17380.91,
+      "reached": 64219.09,
       "meta_a": 96000.0
     },
     {
@@ -578,8 +578,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3129.24,
-      "reached": 126283.26,
+      "missing": 168.54,
+      "reached": 129243.96,
       "meta_a": 217500.0
     }
   ]
