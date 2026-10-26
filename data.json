@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "26/10/2026 10:07",
+  "lastModified": "26/10/2026 10:08",
   "summary": {
     "commitment": 300470.0,
-    "reached": 45270.39,
-    "missing": 255199.61,
-    "percent": 15.1,
+    "reached": 47201.86,
+    "missing": 253268.14,
+    "percent": 15.7,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -62,22 +62,22 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 24730.0,
-      "reached": 3322.3,
-      "missing": 21407.7,
+      "reached": 3532.67,
+      "missing": 21197.33,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 13.4,
+      "percent": 14.3,
       "status": "pending"
     },
     {
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 20630.0,
-      "reached": 3529.25,
-      "missing": 17100.75,
+      "reached": 4665.75,
+      "missing": 15964.25,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 17.1,
+      "percent": 22.6,
       "status": "pending"
     },
     {
@@ -161,22 +161,22 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 10060.0,
-      "reached": 0.0,
-      "missing": 10060.0,
+      "reached": 444.7,
+      "missing": 9615.3,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 0.0,
+      "percent": 4.4,
       "status": "pending"
     },
     {
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 9790.0,
-      "reached": 1029.49,
-      "missing": 8760.51,
+      "reached": 1169.39,
+      "missing": 8620.61,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 10.5,
+      "percent": 11.9,
       "status": "pending"
     },
     {
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 45270.39,
-      "missing": 664253.42,
-      "percent": 6.4
+      "reached": 47201.86,
+      "missing": 662321.95,
+      "percent": 6.7
     }
   ]
 }

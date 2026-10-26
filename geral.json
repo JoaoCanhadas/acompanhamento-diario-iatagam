@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 10:07",
+  "lastModified": "26/10/2026 10:08",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4037819.99,
-    "missing": 1993180.01,
+    "reached": 4039751.46,
+    "missing": 1991248.54,
     "percent": 67.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -84,11 +84,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 124389.46,
-      "missing": 93110.54,
+      "reached": 125525.96,
+      "missing": 91974.04,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 57.2,
+      "percent": 57.7,
       "status": "pending"
     },
     {
@@ -106,11 +106,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 207067.33,
-      "missing": 73932.67,
+      "reached": 207277.7,
+      "missing": 73722.3,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 73.7,
+      "percent": 73.8,
       "status": "pending"
     },
     {
@@ -161,11 +161,11 @@
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
-      "reached": 45860.3,
-      "missing": 49639.7,
+      "reached": 46000.2,
+      "missing": 49499.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 48.0,
+      "percent": 48.2,
       "status": "pending"
     },
     {
@@ -249,11 +249,11 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
-      "reached": 39507.31,
-      "missing": 18492.69,
+      "reached": 39952.01,
+      "missing": 18047.99,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 68.1,
+      "percent": 68.9,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 74035.59,
-      "missing": 1361916.41,
-      "percent": 5.2
+      "reached": 75967.06,
+      "missing": 1359984.94,
+      "percent": 5.3
     }
   ]
 }
