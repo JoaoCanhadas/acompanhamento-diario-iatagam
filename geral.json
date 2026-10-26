@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 10:25",
+  "lastModified": "26/10/2026 10:26",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4057969.96,
-    "missing": 1973030.04,
+    "reached": 4060001.61,
+    "missing": 1970998.39,
     "percent": 67.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -95,8 +95,8 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 255536.2,
-      "missing": 75963.8,
+      "reached": 255636.15,
+      "missing": 75863.85,
       "average": 0.0,
       "difference": 0.0,
       "percent": 77.1,
@@ -128,11 +128,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 215993.38,
-      "missing": 56006.62,
+      "reached": 217543.18,
+      "missing": 54456.82,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 79.4,
+      "percent": 80.0,
       "status": "pending"
     },
     {
@@ -180,17 +180,6 @@
       "status": "pending"
     },
     {
-      "reference": "INDAIATUBA",
-      "seller": "INDAIATUBA",
-      "commitment": 96000.0,
-      "reached": 63737.24,
-      "missing": 32262.76,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 66.4,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 77.3,
+      "status": "pending"
+    },
+    {
+      "reference": "INDAIATUBA",
+      "seller": "INDAIATUBA",
+      "commitment": 96000.0,
+      "reached": 64119.14,
+      "missing": 31880.86,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 66.8,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 94185.56,
-      "missing": 1341766.44,
-      "percent": 6.6
+      "reached": 96217.21,
+      "missing": 1339734.79,
+      "percent": 6.7
     }
   ]
 }
