@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "26/10/2026 11:19",
+  "lastModified": "26/10/2026 11:20",
   "positivacao": [
     {
       "seller": "SJC",
@@ -160,16 +160,16 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3205.24,
-      "reached": 63944.76,
+      "missing": 2137.24,
+      "reached": 65012.76,
       "meta_a": 79000.0
     },
     {
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 9856.88,
-      "reached": 283393.12,
+      "missing": 9130.98,
+      "reached": 284119.02,
       "meta_a": 345000.0
     },
     {
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 31572.3,
-      "reached": 207277.7,
+      "missing": 28132.8,
+      "reached": 210717.2,
       "meta_a": 281000.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3084.52,
-      "reached": 145665.48,
+      "missing": 2704.52,
+      "reached": 146045.48,
       "meta_a": 175000.0
     },
     {
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 5992.86,
-      "reached": 223507.14,
+      "missing": 5992.84,
+      "reached": 223507.16,
       "meta_a": 270000.0
     },
     {
@@ -450,16 +450,16 @@
       "seller": "VENDEDOR INTERNO 1",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3205.24,
-      "reached": 63944.76,
+      "missing": 2137.24,
+      "reached": 65012.76,
       "meta_a": 79000.0
     },
     {
       "seller": "CENTRO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 9856.88,
-      "reached": 283393.12,
+      "missing": 9130.98,
+      "reached": 284119.02,
       "meta_a": 345000.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 31572.3,
-      "reached": 207277.7,
+      "missing": 28132.8,
+      "reached": 210717.2,
       "meta_a": 281000.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3084.52,
-      "reached": 145665.48,
+      "missing": 2704.52,
+      "reached": 146045.48,
       "meta_a": 175000.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 5992.86,
-      "reached": 223507.14,
+      "missing": 5992.84,
+      "reached": 223507.16,
       "meta_a": 270000.0
     },
     {
