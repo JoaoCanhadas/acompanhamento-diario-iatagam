@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "26/10/2026 14:03",
+  "lastModified": "26/10/2026 14:04",
   "summary": {
     "commitment": 300470.0,
-    "reached": 203507.86,
-    "missing": 96962.14,
-    "percent": 67.7,
+    "reached": 206258.98,
+    "missing": 94211.02,
+    "percent": 68.6,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -14,17 +14,6 @@
     "pendingCount": 17
   },
   "rows": [
-    {
-      "reference": "SBC",
-      "seller": "SBC",
-      "commitment": 25000.0,
-      "reached": 12863.14,
-      "missing": 12136.86,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 51.5,
-      "status": "pending"
-    },
     {
       "reference": "CENTRO",
       "seller": "CENTRO",
@@ -45,6 +34,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 56.7,
+      "status": "pending"
+    },
+    {
+      "reference": "SBC",
+      "seller": "SBC",
+      "commitment": 25000.0,
+      "reached": 15300.34,
+      "missing": 9699.66,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 61.2,
       "status": "pending"
     },
     {
@@ -92,17 +92,6 @@
       "status": "pending"
     },
     {
-      "reference": "SJC",
-      "seller": "SJC",
-      "commitment": 15790.0,
-      "reached": 9763.78,
-      "missing": 6026.22,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 61.8,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 20630.0,
@@ -111,6 +100,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 71.5,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC",
+      "seller": "SJC",
+      "commitment": 15790.0,
+      "reached": 9981.72,
+      "missing": 5808.28,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 63.2,
       "status": "pending"
     },
     {
@@ -172,11 +172,11 @@
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 10060.0,
-      "reached": 8854.33,
-      "missing": 1205.67,
+      "reached": 8950.31,
+      "missing": 1109.69,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 88.0,
+      "percent": 89.0,
       "status": "pending"
     },
     {
@@ -235,8 +235,8 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 206130.98,
-      "missing": 503392.83,
+      "reached": 206258.98,
+      "missing": 503264.83,
       "percent": 29.1
     }
   ]
