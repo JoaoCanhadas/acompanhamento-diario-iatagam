@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "26/10/2026 10:55",
+  "lastModified": "26/10/2026 10:56",
   "positivacao": [
     {
       "seller": "SJC",
@@ -30,8 +30,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -11,
-      "reached": 46.0,
+      "missing": -12,
+      "reached": 47.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 18094.55,
-      "reached": 263680.45,
+      "missing": 17880.75,
+      "reached": 263894.25,
       "meta_a": 331500.0
     },
     {
@@ -232,8 +232,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 16107.01,
-      "reached": 65492.99,
+      "missing": 15778.96,
+      "reached": 65821.04,
       "meta_a": 96000.0
     },
     {
@@ -322,8 +322,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -11,
-      "reached": 46.0,
+      "missing": -12,
+      "reached": 47.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 18094.55,
-      "reached": 263680.45,
+      "missing": 17880.75,
+      "reached": 263894.25,
       "meta_a": 331500.0
     },
     {
@@ -522,8 +522,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 16107.01,
-      "reached": 65492.99,
+      "missing": 15778.96,
+      "reached": 65821.04,
       "meta_a": 96000.0
     },
     {
