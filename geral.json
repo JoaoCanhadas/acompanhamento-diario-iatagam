@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "26/10/2026 09:43",
+  "lastModified": "26/10/2026 09:44",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4020452.54,
-    "missing": 2010547.46,
+    "reached": 4021470.34,
+    "missing": 2009529.66,
     "percent": 66.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -161,11 +161,11 @@
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
-      "reached": 45690.7,
-      "missing": 49809.3,
+      "reached": 45860.3,
+      "missing": 49639.7,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 47.8,
+      "percent": 48.0,
       "status": "pending"
     },
     {
@@ -180,17 +180,6 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 142000.0,
-      "reached": 107917.21,
-      "missing": 34082.79,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 76.0,
-      "status": "pending"
-    },
-    {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 64.9,
+      "status": "pending"
+    },
+    {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 142000.0,
+      "reached": 108470.41,
+      "missing": 33529.59,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 76.4,
       "status": "pending"
     },
     {
@@ -216,11 +216,11 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 62814.61,
-      "missing": 25185.39,
+      "reached": 63109.61,
+      "missing": 24890.39,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 71.4,
+      "percent": 71.7,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 56668.14,
-      "missing": 1379283.86,
-      "percent": 3.9
+      "reached": 57685.94,
+      "missing": 1378266.06,
+      "percent": 4.0
     }
   ]
 }
