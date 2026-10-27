@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 09:16",
+  "lastModified": "27/10/2026 09:17",
   "positivacao": [
     {
       "seller": "SJC",
@@ -38,8 +38,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 2,
-      "reached": 33.0,
+      "missing": 1,
+      "reached": 34.0,
       "meta_a": 35.0
     },
     {
@@ -102,8 +102,8 @@
       "seller": "JUNDIAI",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -168,8 +168,8 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 51528.43,
-      "reached": 293471.57,
+      "missing": 47891.03,
+      "reached": 297108.97,
       "meta_a": 345000.0
     },
     {
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17153.93,
-      "reached": 221696.07,
+      "missing": 15287.03,
+      "reached": 223562.97,
       "meta_a": 281000.0
     },
     {
@@ -248,8 +248,8 @@
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 7358.28,
-      "reached": 76641.72,
+      "missing": 5669.73,
+      "reached": 78330.27,
       "meta_a": 84000.0
     },
     {
@@ -330,8 +330,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 2,
-      "reached": 33.0,
+      "missing": 1,
+      "reached": 34.0,
       "meta_a": 35.0
     },
     {
@@ -394,8 +394,8 @@
       "seller": "JUNDIAI",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -458,8 +458,8 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 51528.43,
-      "reached": 293471.57,
+      "missing": 47891.03,
+      "reached": 297108.97,
       "meta_a": 345000.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 17153.93,
-      "reached": 221696.07,
+      "missing": 15287.03,
+      "reached": 223562.97,
       "meta_a": 281000.0
     },
     {
@@ -538,8 +538,8 @@
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 7358.28,
-      "reached": 76641.72,
+      "missing": 5669.73,
+      "reached": 78330.27,
       "meta_a": 84000.0
     },
     {
