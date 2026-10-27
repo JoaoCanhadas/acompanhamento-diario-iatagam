@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "27/10/2026 09:19",
+  "lastModified": "27/10/2026 09:20",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4720195.78,
-    "missing": 1310804.22,
+    "reached": 4721021.68,
+    "missing": 1309978.32,
     "percent": 78.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -213,17 +213,6 @@
       "status": "pending"
     },
     {
-      "reference": "SJC",
-      "seller": "SJC",
-      "commitment": 88000.0,
-      "reached": 69414.69,
-      "missing": 18585.31,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 78.9,
-      "status": "pending"
-    },
-    {
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 70500.0,
@@ -232,6 +221,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 73.9,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC",
+      "seller": "SJC",
+      "commitment": 88000.0,
+      "reached": 70240.59,
+      "missing": 17759.41,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 79.8,
       "status": "pending"
     },
     {
@@ -323,8 +323,8 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 756411.38,
-      "missing": 679540.62,
+      "reached": 757237.28,
+      "missing": 678714.72,
       "percent": 52.7
     }
   ]
