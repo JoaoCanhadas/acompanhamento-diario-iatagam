@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 12:35",
+  "lastModified": "27/10/2026 12:36",
   "positivacao": [
     {
       "seller": "SJC",
@@ -22,16 +22,16 @@
       "seller": "CENTRO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -14,
-      "reached": 49.0,
+      "missing": -15,
+      "reached": 50.0,
       "meta_a": 35.0
     },
     {
@@ -62,8 +62,8 @@
       "seller": "NORTE",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -7,
-      "reached": 42.0,
+      "missing": -8,
+      "reached": 43.0,
       "meta_a": 35.0
     },
     {
@@ -168,24 +168,24 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 39623.08,
-      "reached": 305376.92,
+      "missing": 38716.13,
+      "reached": 306283.87,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 43742.91,
-      "reached": 287757.09,
+      "missing": 43087.21,
+      "reached": 288412.79,
       "meta_a": 331500.0
     },
     {
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 10293.03,
-      "reached": 228556.97,
+      "missing": 10152.03,
+      "reached": 228697.97,
       "meta_a": 281000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 36515.01,
-      "reached": 235484.99,
+      "missing": 34203.62,
+      "reached": 237796.38,
       "meta_a": 272000.0
     },
     {
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 19806.12,
-      "reached": 250193.88,
+      "missing": 19125.42,
+      "reached": 250874.58,
       "meta_a": 270000.0
     },
     {
@@ -314,16 +314,16 @@
       "seller": "CENTRO",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -14,
-      "reached": 49.0,
+      "missing": -15,
+      "reached": 50.0,
       "meta_a": 35.0
     },
     {
@@ -354,8 +354,8 @@
       "seller": "NORTE",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -7,
-      "reached": 42.0,
+      "missing": -8,
+      "reached": 43.0,
       "meta_a": 35.0
     },
     {
@@ -458,24 +458,24 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 39623.08,
-      "reached": 305376.92,
+      "missing": 38716.13,
+      "reached": 306283.87,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 43742.91,
-      "reached": 287757.09,
+      "missing": 43087.21,
+      "reached": 288412.79,
       "meta_a": 331500.0
     },
     {
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 10293.03,
-      "reached": 228556.97,
+      "missing": 10152.03,
+      "reached": 228697.97,
       "meta_a": 281000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 36515.01,
-      "reached": 235484.99,
+      "missing": 34203.62,
+      "reached": 237796.38,
       "meta_a": 272000.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 19806.12,
-      "reached": 250193.88,
+      "missing": 19125.42,
+      "reached": 250874.58,
       "meta_a": 270000.0
     },
     {
