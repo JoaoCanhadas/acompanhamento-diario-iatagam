@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 11:00",
+  "lastModified": "27/10/2026 11:01",
   "positivacao": [
     {
       "seller": "SJC",
@@ -100,10 +100,10 @@
     },
     {
       "seller": "JUNDIAI",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 1,
-      "reached": 24.0,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 5,
+      "reached": 25.0,
       "meta_a": 35.0
     },
     {
@@ -152,8 +152,8 @@
       "seller": "SJC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3684.91,
-      "reached": 71115.09,
+      "missing": 2624.81,
+      "reached": 72175.19,
       "meta_a": 88000.0
     },
     {
@@ -222,10 +222,10 @@
     },
     {
       "seller": "SJC/VALE",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 516.54,
-      "reached": 48783.46,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 8581.94,
+      "reached": 49418.06,
       "meta_a": 58000.0
     },
     {
@@ -248,8 +248,8 @@
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 5458.74,
-      "reached": 78541.26,
+      "missing": 5358.79,
+      "reached": 78641.21,
       "meta_a": 84000.0
     },
     {
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 26482.39,
-      "reached": 243517.61,
+      "missing": 22603.92,
+      "reached": 247396.08,
       "meta_a": 270000.0
     },
     {
@@ -392,10 +392,10 @@
     },
     {
       "seller": "JUNDIAI",
-      "premiacao": "D",
-      "proxima_meta": "C",
-      "missing": 1,
-      "reached": 24.0,
+      "premiacao": "C",
+      "proxima_meta": "B",
+      "missing": 5,
+      "reached": 25.0,
       "meta_a": 35.0
     },
     {
@@ -442,8 +442,8 @@
       "seller": "SJC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3684.91,
-      "reached": 71115.09,
+      "missing": 2624.81,
+      "reached": 72175.19,
       "meta_a": 88000.0
     },
     {
@@ -512,10 +512,10 @@
     },
     {
       "seller": "SJC/VALE",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 516.54,
-      "reached": 48783.46,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 8581.94,
+      "reached": 49418.06,
       "meta_a": 58000.0
     },
     {
@@ -538,8 +538,8 @@
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 5458.74,
-      "reached": 78541.26,
+      "missing": 5358.79,
+      "reached": 78641.21,
       "meta_a": 84000.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 26482.39,
-      "reached": 243517.61,
+      "missing": 22603.92,
+      "reached": 247396.08,
       "meta_a": 270000.0
     },
     {
