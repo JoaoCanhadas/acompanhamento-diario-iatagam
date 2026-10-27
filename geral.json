@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "27/10/2026 08:52",
+  "lastModified": "27/10/2026 08:53",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4691045.97,
-    "missing": 1339954.03,
-    "percent": 77.8,
+    "reached": 4708707.23,
+    "missing": 1322292.77,
+    "percent": 78.1,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -59,17 +59,6 @@
       "status": "pending"
     },
     {
-      "reference": "KEY SJC",
-      "seller": "KEY SJC",
-      "commitment": 150000.0,
-      "reached": 45062.2,
-      "missing": 104937.8,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 30.0,
-      "status": "pending"
-    },
-    {
       "reference": "KEY INTERIOR",
       "seller": "KEY INTERIOR",
       "commitment": 980000.0,
@@ -81,11 +70,22 @@
       "status": "pending"
     },
     {
+      "reference": "KEY SJC",
+      "seller": "KEY SJC",
+      "commitment": 150000.0,
+      "reached": 62219.9,
+      "missing": 87780.1,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 41.5,
+      "status": "pending"
+    },
+    {
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 137455.55,
-      "missing": 80044.45,
+      "reached": 137553.11,
+      "missing": 79946.89,
       "average": 0.0,
       "difference": 0.0,
       "percent": 63.2,
@@ -183,11 +183,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 71073.95,
-      "missing": 24926.05,
+      "reached": 71479.95,
+      "missing": 24520.05,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 74.0,
+      "percent": 74.5,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 727261.57,
-      "missing": 708690.43,
-      "percent": 50.6
+      "reached": 744922.83,
+      "missing": 691029.17,
+      "percent": 51.9
     }
   ]
 }
