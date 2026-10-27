@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "27/10/2026 13:15",
+  "lastModified": "27/10/2026 13:16",
   "summary": {
     "commitment": 220990.0,
-    "reached": 93735.48,
-    "missing": 127254.52,
-    "percent": 42.4,
+    "reached": 99382.23,
+    "missing": 121607.77,
+    "percent": 45.0,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -14,17 +14,6 @@
     "pendingCount": 17
   },
   "rows": [
-    {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 15630.0,
-      "reached": 874.26,
-      "missing": 14755.74,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 5.6,
-      "status": "pending"
-    },
     {
       "reference": "CENTRO",
       "seller": "CENTRO",
@@ -45,6 +34,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 22.1,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 15630.0,
+      "reached": 2367.76,
+      "missing": 13262.24,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 15.1,
       "status": "pending"
     },
     {
@@ -70,17 +70,6 @@
       "status": "pending"
     },
     {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 23030.0,
-      "reached": 13136.81,
-      "missing": 9893.19,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 57.0,
-      "status": "pending"
-    },
-    {
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 17550.0,
@@ -92,14 +81,14 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 11090.0,
-      "reached": 3987.4,
-      "missing": 7102.6,
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 23030.0,
+      "reached": 15644.11,
+      "missing": 7385.89,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 36.0,
+      "percent": 67.9,
       "status": "pending"
     },
     {
@@ -111,6 +100,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 24.1,
+      "status": "pending"
+    },
+    {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 11090.0,
+      "reached": 5135.6,
+      "missing": 5954.4,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 46.3,
       "status": "pending"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 6860.0,
-      "reached": 3614.46,
-      "missing": 3245.54,
+      "reached": 4112.21,
+      "missing": 2747.79,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 52.7,
+      "percent": 59.9,
       "status": "pending"
     },
     {
@@ -228,16 +228,16 @@
     {
       "name": "Semana 4",
       "goal": 709523.81,
-      "reached": 692416.58,
-      "missing": 17107.23,
-      "percent": 97.6
+      "reached": 691034.18,
+      "missing": 18489.63,
+      "percent": 97.4
     },
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 310783.14,
-      "missing": 398740.67,
-      "percent": 43.8
+      "reached": 316429.89,
+      "missing": 393093.92,
+      "percent": 44.6
     }
   ]
 }
