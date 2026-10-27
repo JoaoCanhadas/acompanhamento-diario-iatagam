@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "27/10/2026 12:25",
+  "lastModified": "27/10/2026 12:26",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4802582.59,
-    "missing": 1228417.41,
-    "percent": 79.6,
+    "reached": 4804250.91,
+    "missing": 1226749.09,
+    "percent": 79.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -150,11 +150,11 @@
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 234950.07,
-      "missing": 37049.93,
+      "reached": 235484.99,
+      "missing": 36515.01,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 86.4,
+      "percent": 86.6,
       "status": "pending"
     },
     {
@@ -191,17 +191,6 @@
       "status": "pending"
     },
     {
-      "reference": "SBC",
-      "seller": "SBC",
-      "commitment": 270000.0,
-      "reached": 249060.48,
-      "missing": 20939.52,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 92.2,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
@@ -210,6 +199,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 85.9,
+      "status": "pending"
+    },
+    {
+      "reference": "SBC",
+      "seller": "SBC",
+      "commitment": 270000.0,
+      "reached": 250193.88,
+      "missing": 19806.12,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 92.7,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 838798.19,
-      "missing": 597153.81,
-      "percent": 58.4
+      "reached": 840466.51,
+      "missing": 595485.49,
+      "percent": 58.5
     }
   ]
 }
