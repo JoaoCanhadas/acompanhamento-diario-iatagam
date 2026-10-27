@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 09:42",
+  "lastModified": "27/10/2026 09:43",
   "positivacao": [
     {
       "seller": "SJC",
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 14148.93,
-      "reached": 224701.07,
+      "missing": 13789.13,
+      "reached": 225060.87,
       "meta_a": 281000.0
     },
     {
@@ -240,8 +240,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7800.56,
-      "reached": 52124.44,
+      "missing": 7645.56,
+      "reached": 52279.44,
       "meta_a": 70500.0
     },
     {
@@ -264,8 +264,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 23861.67,
-      "reached": 145138.33,
+      "missing": 23351.97,
+      "reached": 145648.03,
       "meta_a": 169000.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 14148.93,
-      "reached": 224701.07,
+      "missing": 13789.13,
+      "reached": 225060.87,
       "meta_a": 281000.0
     },
     {
@@ -530,8 +530,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7800.56,
-      "reached": 52124.44,
+      "missing": 7645.56,
+      "reached": 52279.44,
       "meta_a": 70500.0
     },
     {
@@ -554,8 +554,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 23861.67,
-      "reached": 145138.33,
+      "missing": 23351.97,
+      "reached": 145648.03,
       "meta_a": 169000.0
     },
     {
