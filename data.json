@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "27/10/2026 12:19",
+  "lastModified": "27/10/2026 12:20",
   "summary": {
     "commitment": 220990.0,
-    "reached": 78720.6,
-    "missing": 142269.4,
+    "reached": 78725.5,
+    "missing": 142264.5,
     "percent": 35.6,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
@@ -150,11 +150,11 @@
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 5180.0,
-      "reached": 361.2,
-      "missing": 4818.8,
+      "reached": 366.1,
+      "missing": 4813.9,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 7.0,
+      "percent": 7.1,
       "status": "pending"
     },
     {
@@ -235,8 +235,8 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 295768.25,
-      "missing": 413755.56,
+      "reached": 295773.15,
+      "missing": 413750.66,
       "percent": 41.7
     }
   ]
