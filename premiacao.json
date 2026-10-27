@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 09:48",
+  "lastModified": "27/10/2026 09:49",
   "positivacao": [
     {
       "seller": "SJC",
@@ -116,10 +116,10 @@
     },
     {
       "seller": "LESTE PENHA",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 1,
-      "reached": 29.0,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 4,
+      "reached": 31.0,
       "meta_a": 35.0
     },
     {
@@ -152,8 +152,8 @@
       "seller": "SJC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 4374.51,
-      "reached": 70425.49,
+      "missing": 3784.86,
+      "reached": 71015.14,
       "meta_a": 88000.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 1832.9,
-      "reached": 279942.1,
+      "missing": 1020.26,
+      "reached": 280754.74,
       "meta_a": 331500.0
     },
     {
@@ -224,8 +224,8 @@
       "seller": "SJC/VALE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 842.38,
-      "reached": 48457.62,
+      "missing": 516.54,
+      "reached": 48783.46,
       "meta_a": 58000.0
     },
     {
@@ -240,8 +240,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7645.56,
-      "reached": 52279.44,
+      "missing": 7449.36,
+      "reached": 52475.64,
       "meta_a": 70500.0
     },
     {
@@ -264,8 +264,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 23351.97,
-      "reached": 145648.03,
+      "missing": 22410.67,
+      "reached": 146589.33,
       "meta_a": 169000.0
     },
     {
@@ -408,10 +408,10 @@
     },
     {
       "seller": "LESTE PENHA",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 1,
-      "reached": 29.0,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 4,
+      "reached": 31.0,
       "meta_a": 35.0
     },
     {
@@ -442,8 +442,8 @@
       "seller": "SJC",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 4374.51,
-      "reached": 70425.49,
+      "missing": 3784.86,
+      "reached": 71015.14,
       "meta_a": 88000.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 1832.9,
-      "reached": 279942.1,
+      "missing": 1020.26,
+      "reached": 280754.74,
       "meta_a": 331500.0
     },
     {
@@ -514,8 +514,8 @@
       "seller": "SJC/VALE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 842.38,
-      "reached": 48457.62,
+      "missing": 516.54,
+      "reached": 48783.46,
       "meta_a": 58000.0
     },
     {
@@ -530,8 +530,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7645.56,
-      "reached": 52279.44,
+      "missing": 7449.36,
+      "reached": 52475.64,
       "meta_a": 70500.0
     },
     {
@@ -554,8 +554,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 23351.97,
-      "reached": 145648.03,
+      "missing": 22410.67,
+      "reached": 146589.33,
       "meta_a": 169000.0
     },
     {
