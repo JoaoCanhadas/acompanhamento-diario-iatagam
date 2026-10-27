@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "27/10/2026 08:16",
+  "lastModified": "27/10/2026 08:17",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 4646908.17,
-    "missing": 1384091.83,
-    "percent": 77.1,
+    "reached": 4666035.07,
+    "missing": 1364964.93,
+    "percent": 77.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -18,11 +18,11 @@
       "reference": "KEY SP",
       "seller": "KEY SP",
       "commitment": 590000.0,
-      "reached": 316156.31,
-      "missing": 273843.69,
+      "reached": 333502.0,
+      "missing": 256498.0,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 53.6,
+      "percent": 56.5,
       "status": "pending"
     },
     {
@@ -136,17 +136,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE MOOCA",
-      "seller": "MOOCA",
-      "commitment": 206000.0,
-      "reached": 162644.09,
-      "missing": 43355.91,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 79.0,
-      "status": "pending"
-    },
-    {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
@@ -155,6 +144,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 84.2,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE MOOCA",
+      "seller": "MOOCA",
+      "commitment": 206000.0,
+      "reached": 164244.09,
+      "missing": 41755.91,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 79.7,
       "status": "pending"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 70892.74,
-      "missing": 25107.26,
+      "reached": 71073.95,
+      "missing": 24926.05,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 73.8,
+      "percent": 74.0,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 700650.67,
-      "missing": 735301.33,
-      "percent": 48.8
+      "reached": 702250.67,
+      "missing": 733701.33,
+      "percent": 48.9
     }
   ]
 }
