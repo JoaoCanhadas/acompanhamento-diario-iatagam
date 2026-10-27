@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "27/10/2026 10:04",
+  "lastModified": "27/10/2026 10:05",
   "summary": {
     "commitment": 300470.0,
-    "reached": 37458.02,
-    "missing": 263011.98,
-    "percent": 12.5,
+    "reached": 39824.72,
+    "missing": 260645.28,
+    "percent": 13.3,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -40,11 +40,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 28040.0,
-      "reached": 5313.04,
-      "missing": 22726.96,
+      "reached": 6960.19,
+      "missing": 21079.81,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 18.9,
+      "percent": 24.8,
       "status": "pending"
     },
     {
@@ -103,17 +103,6 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 14810.0,
-      "reached": 0.0,
-      "missing": 14810.0,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 0.0,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 17000.0,
@@ -136,14 +125,25 @@
       "status": "pending"
     },
     {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 14810.0,
+      "reached": 619.6,
+      "missing": 14190.4,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 4.2,
+      "status": "pending"
+    },
+    {
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 15790.0,
-      "reached": 1600.45,
-      "missing": 14189.55,
+      "reached": 1700.4,
+      "missing": 14089.6,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 10.1,
+      "percent": 10.8,
       "status": "pending"
     },
     {
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 254500.67,
-      "missing": 455023.14,
-      "percent": 35.9
+      "reached": 256867.37,
+      "missing": 452656.44,
+      "percent": 36.2
     }
   ]
 }
