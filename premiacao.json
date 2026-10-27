@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 13:05",
+  "lastModified": "27/10/2026 13:06",
   "positivacao": [
     {
       "seller": "SJC",
@@ -30,8 +30,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -15,
-      "reached": 50.0,
+      "missing": -16,
+      "reached": 51.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 39873.84,
-      "reached": 291626.16,
+      "missing": 38421.09,
+      "reached": 293078.91,
       "meta_a": 331500.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 34192.27,
-      "reached": 237807.73,
+      "missing": 34187.87,
+      "reached": 237812.13,
       "meta_a": 272000.0
     },
     {
@@ -240,8 +240,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7434.46,
-      "reached": 52490.54,
+      "missing": 7198.21,
+      "reached": 52726.79,
       "meta_a": 70500.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 20043.76,
-      "reached": 121956.24,
+      "missing": 19721.56,
+      "reached": 122278.44,
       "meta_a": 142000.0
     },
     {
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 19125.42,
-      "reached": 250874.58,
+      "missing": 17833.12,
+      "reached": 252166.88,
       "meta_a": 270000.0
     },
     {
@@ -322,8 +322,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -15,
-      "reached": 50.0,
+      "missing": -16,
+      "reached": 51.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 39873.84,
-      "reached": 291626.16,
+      "missing": 38421.09,
+      "reached": 293078.91,
       "meta_a": 331500.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 34192.27,
-      "reached": 237807.73,
+      "missing": 34187.87,
+      "reached": 237812.13,
       "meta_a": 272000.0
     },
     {
@@ -530,8 +530,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7434.46,
-      "reached": 52490.54,
+      "missing": 7198.21,
+      "reached": 52726.79,
       "meta_a": 70500.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 20043.76,
-      "reached": 121956.24,
+      "missing": 19721.56,
+      "reached": 122278.44,
       "meta_a": 142000.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 19125.42,
-      "reached": 250874.58,
+      "missing": 17833.12,
+      "reached": 252166.88,
       "meta_a": 270000.0
     },
     {
