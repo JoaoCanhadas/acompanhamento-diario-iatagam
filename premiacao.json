@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 13:25",
+  "lastModified": "27/10/2026 13:26",
   "positivacao": [
     {
       "seller": "SJC",
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8884.53,
-      "reached": 229965.47,
+      "missing": 5891.83,
+      "reached": 232958.17,
       "meta_a": 281000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 34187.87,
-      "reached": 237812.13,
+      "missing": 33648.07,
+      "reached": 238351.93,
       "meta_a": 272000.0
     },
     {
@@ -240,8 +240,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7198.21,
-      "reached": 52726.79,
+      "missing": 6538.01,
+      "reached": 53386.99,
       "meta_a": 70500.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 18983.26,
-      "reached": 123016.74,
+      "missing": 18433.46,
+      "reached": 123566.54,
       "meta_a": 142000.0
     },
     {
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 17833.12,
-      "reached": 252166.88,
+      "missing": 17633.19,
+      "reached": 252366.81,
       "meta_a": 270000.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8884.53,
-      "reached": 229965.47,
+      "missing": 5891.83,
+      "reached": 232958.17,
       "meta_a": 281000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 34187.87,
-      "reached": 237812.13,
+      "missing": 33648.07,
+      "reached": 238351.93,
       "meta_a": 272000.0
     },
     {
@@ -530,8 +530,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 7198.21,
-      "reached": 52726.79,
+      "missing": 6538.01,
+      "reached": 53386.99,
       "meta_a": 70500.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 18983.26,
-      "reached": 123016.74,
+      "missing": 18433.46,
+      "reached": 123566.54,
       "meta_a": 142000.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 17833.12,
-      "reached": 252166.88,
+      "missing": 17633.19,
+      "reached": 252366.81,
       "meta_a": 270000.0
     },
     {
