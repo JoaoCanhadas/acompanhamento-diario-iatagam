@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "27/10/2026 13:55",
+  "lastModified": "27/10/2026 13:56",
   "positivacao": [
     {
       "seller": "SJC",
@@ -118,8 +118,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 3,
-      "reached": 32.0,
+      "missing": 2,
+      "reached": 33.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 34893.89,
-      "reached": 296606.11,
+      "missing": 34273.15,
+      "reached": 297226.85,
       "meta_a": 331500.0
     },
     {
@@ -192,8 +192,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8979.66,
-      "reached": 166120.34,
+      "missing": 7274.76,
+      "reached": 167825.24,
       "meta_a": 206000.0
     },
     {
@@ -264,16 +264,16 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 20531.12,
-      "reached": 148468.88,
+      "missing": 19996.37,
+      "reached": 149003.63,
       "meta_a": 169000.0
     },
     {
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 17633.19,
-      "reached": 252366.81,
+      "missing": 15506.39,
+      "reached": 254493.61,
       "meta_a": 270000.0
     },
     {
@@ -410,8 +410,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 3,
-      "reached": 32.0,
+      "missing": 2,
+      "reached": 33.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 34893.89,
-      "reached": 296606.11,
+      "missing": 34273.15,
+      "reached": 297226.85,
       "meta_a": 331500.0
     },
     {
@@ -482,8 +482,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 8979.66,
-      "reached": 166120.34,
+      "missing": 7274.76,
+      "reached": 167825.24,
       "meta_a": 206000.0
     },
     {
@@ -554,16 +554,16 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 20531.12,
-      "reached": 148468.88,
+      "missing": 19996.37,
+      "reached": 149003.63,
       "meta_a": 169000.0
     },
     {
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 17633.19,
-      "reached": 252366.81,
+      "missing": 15506.39,
+      "reached": 254493.61,
       "meta_a": 270000.0
     },
     {
