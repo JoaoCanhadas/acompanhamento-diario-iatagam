@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "28/10/2026 14:33",
+  "lastModified": "28/10/2026 14:35",
   "summary": {
     "commitment": 160530.0,
-    "reached": 119607.53,
-    "missing": 40922.47,
-    "percent": 74.5,
+    "reached": 120517.32,
+    "missing": 40012.68,
+    "percent": 75.1,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -106,8 +106,8 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 15610.0,
-      "reached": 13889.5,
-      "missing": 1720.5,
+      "reached": 13889.48,
+      "missing": 1720.52,
       "average": 0.0,
       "difference": 0.0,
       "percent": 89.0,
@@ -128,30 +128,19 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 2980.0,
-      "reached": 2137.7,
-      "missing": 842.3,
+      "reached": 2213.96,
+      "missing": 766.04,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 71.7,
-      "status": "pending"
-    },
-    {
-      "reference": "JUNDIAI",
-      "seller": "JUNDIAI",
-      "commitment": 4940.0,
-      "reached": 4252.12,
-      "missing": 687.88,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 86.1,
+      "percent": 74.3,
       "status": "pending"
     },
     {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 4480.0,
-      "reached": 3862.37,
-      "missing": 617.63,
+      "reached": 3862.35,
+      "missing": 617.65,
       "average": 0.0,
       "difference": 0.0,
       "percent": 86.2,
@@ -161,8 +150,19 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 9430.0,
-      "reached": 9332.81,
-      "missing": 97.19,
+      "reached": 9332.82,
+      "missing": 97.18,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 99.0,
+      "status": "pending"
+    },
+    {
+      "reference": "JUNDIAI",
+      "seller": "JUNDIAI",
+      "commitment": 4940.0,
+      "reached": 4892.12,
+      "missing": 47.88,
       "average": 0.0,
       "difference": 0.0,
       "percent": 99.0,
@@ -178,6 +178,17 @@
       "difference": 0.0,
       "percent": 99.9,
       "status": "pending"
+    },
+    {
+      "reference": "",
+      "seller": "ECOMMERCE",
+      "commitment": 0.0,
+      "reached": 193.56,
+      "missing": -193.56,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 0,
+      "status": "ok"
     },
     {
       "reference": "CENTRO",
@@ -235,9 +246,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 467654.84,
-      "missing": 241868.97,
-      "percent": 65.9
+      "reached": 468564.62,
+      "missing": 240959.19,
+      "percent": 66.0
     }
   ]
 }

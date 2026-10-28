@@ -1,17 +1,17 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 14:34",
+  "lastModified": "28/10/2026 14:35",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5253728.32,
-    "missing": 777271.68,
-    "percent": 87.1,
+    "reached": 5256670.32,
+    "missing": 774329.68,
+    "percent": 87.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
     "weekPercent": 28.3,
-    "positiveCount": 0,
-    "pendingCount": 24
+    "positiveCount": 1,
+    "pendingCount": 23
   },
   "rows": [
     {
@@ -51,11 +51,11 @@
       "reference": "KEY SJC",
       "seller": "KEY SJC",
       "commitment": 150000.0,
-      "reached": 70876.7,
-      "missing": 79123.3,
+      "reached": 72908.9,
+      "missing": 77091.1,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 47.3,
+      "percent": 48.6,
       "status": "pending"
     },
     {
@@ -128,8 +128,8 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 79017.22,
-      "missing": 16982.78,
+      "reached": 79017.2,
+      "missing": 16982.8,
       "average": 0.0,
       "difference": 0.0,
       "percent": 82.3,
@@ -216,11 +216,11 @@
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 70770.82,
-      "missing": 8229.18,
+      "reached": 70847.08,
+      "missing": 8152.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 89.6,
+      "percent": 89.7,
       "status": "pending"
     },
     {
@@ -249,11 +249,11 @@
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 84000.0,
-      "reached": 82473.08,
-      "missing": 1526.92,
+      "reached": 83113.08,
+      "missing": 886.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 98.2,
+      "percent": 98.9,
       "status": "pending"
     },
     {
@@ -271,12 +271,12 @@
       "reference": "ECOMMERCE",
       "seller": "ECOMMERCE",
       "commitment": 1000.0,
-      "reached": 869.64,
-      "missing": 130.36,
+      "reached": 1063.2,
+      "missing": -63.2,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 87.0,
-      "status": "pending"
+      "percent": 106.3,
+      "status": "ok"
     },
     {
       "reference": "IATAGAM JUNIOR",
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1292828.92,
-      "missing": 143123.08,
-      "percent": 90.0
+      "reached": 1295770.92,
+      "missing": 140181.08,
+      "percent": 90.2
     }
   ]
 }
