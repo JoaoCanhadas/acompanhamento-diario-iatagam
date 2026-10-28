@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "28/10/2026 09:54",
+  "lastModified": "28/10/2026 09:55",
   "positivacao": [
     {
       "seller": "SJC",
@@ -86,8 +86,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 6,
-      "reached": 19.0,
+      "missing": 5,
+      "reached": 20.0,
       "meta_a": 35.0
     },
     {
@@ -232,32 +232,32 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3887.0,
-      "reached": 77713.0,
+      "missing": 3637.15,
+      "reached": 77962.85,
       "meta_a": 96000.0
     },
     {
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 4127.16,
-      "reached": 55797.84,
+      "missing": 2851.36,
+      "reached": 57073.64,
       "meta_a": 70500.0
     },
     {
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 5509.58,
-      "reached": 78490.42,
+      "missing": 5369.68,
+      "reached": 78630.32,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 17121.51,
-      "reached": 124878.49,
+      "missing": 16549.55,
+      "reached": 125450.45,
       "meta_a": 142000.0
     },
     {
@@ -378,8 +378,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 6,
-      "reached": 19.0,
+      "missing": 5,
+      "reached": 20.0,
       "meta_a": 35.0
     },
     {
@@ -522,32 +522,32 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3887.0,
-      "reached": 77713.0,
+      "missing": 3637.15,
+      "reached": 77962.85,
       "meta_a": 96000.0
     },
     {
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 4127.16,
-      "reached": 55797.84,
+      "missing": 2851.36,
+      "reached": 57073.64,
       "meta_a": 70500.0
     },
     {
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 5509.58,
-      "reached": 78490.42,
+      "missing": 5369.68,
+      "reached": 78630.32,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 17121.51,
-      "reached": 124878.49,
+      "missing": 16549.55,
+      "reached": 125450.45,
       "meta_a": 142000.0
     },
     {
