@@ -1,17 +1,17 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 15:14",
+  "lastModified": "28/10/2026 15:15",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5265755.02,
-    "missing": 765244.98,
-    "percent": 87.3,
+    "reached": 5275226.53,
+    "missing": 755773.47,
+    "percent": 87.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
     "weekPercent": 28.3,
-    "positiveCount": 1,
-    "pendingCount": 23
+    "positiveCount": 2,
+    "pendingCount": 22
   },
   "rows": [
     {
@@ -139,11 +139,11 @@
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 314762.24,
-      "missing": 16737.76,
+      "reached": 315183.44,
+      "missing": 16316.56,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 95.0,
+      "percent": 95.1,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "CAMPINAS",
-      "seller": "CAMPINAS",
-      "commitment": 70500.0,
-      "reached": 58481.59,
-      "missing": 12018.41,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 83.0,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
@@ -188,6 +177,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 93.0,
+      "status": "pending"
+    },
+    {
+      "reference": "CAMPINAS",
+      "seller": "CAMPINAS",
+      "commitment": 70500.0,
+      "reached": 58800.54,
+      "missing": 11699.46,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 83.4,
       "status": "pending"
     },
     {
@@ -235,17 +235,6 @@
       "status": "pending"
     },
     {
-      "reference": "KEY ZL",
-      "seller": "KEY ZL",
-      "commitment": 480000.0,
-      "reached": 475925.08,
-      "missing": 4074.92,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 99.2,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 84000.0,
@@ -288,6 +277,17 @@
       "difference": 0.0,
       "percent": 0,
       "status": "ok"
+    },
+    {
+      "reference": "KEY ZL",
+      "seller": "KEY ZL",
+      "commitment": 480000.0,
+      "reached": 484656.44,
+      "missing": -4656.44,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 101.0,
+      "status": "ok"
     }
   ],
   "history": [],
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1304855.62,
-      "missing": 131096.38,
-      "percent": 90.9
+      "reached": 1314327.13,
+      "missing": 121624.87,
+      "percent": 91.5
     }
   ]
 }

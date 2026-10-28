@@ -1,17 +1,17 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "28/10/2026 15:14",
+  "lastModified": "28/10/2026 15:15",
   "summary": {
     "commitment": 160530.0,
-    "reached": 121507.22,
-    "missing": 39022.78,
-    "percent": 75.7,
+    "reached": 122247.37,
+    "missing": 38282.63,
+    "percent": 76.2,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
     "weekPercent": 50.1,
-    "positiveCount": 2,
-    "pendingCount": 15
+    "positiveCount": 3,
+    "pendingCount": 14
   },
   "rows": [
     {
@@ -84,11 +84,11 @@
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 5230.0,
-      "reached": 2922.7,
-      "missing": 2307.3,
+      "reached": 3241.65,
+      "missing": 1988.35,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 55.9,
+      "percent": 62.0,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 17540.0,
-      "reached": 17525.39,
-      "missing": 14.61,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 99.9,
-      "status": "pending"
-    },
-    {
       "reference": "",
       "seller": "ECOMMERCE",
       "commitment": 0.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 102.0,
+      "status": "ok"
+    },
+    {
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 17540.0,
+      "reached": 17946.59,
+      "missing": -406.59,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 102.3,
       "status": "ok"
     },
     {
@@ -246,9 +246,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 469554.52,
-      "missing": 239969.29,
-      "percent": 66.2
+      "reached": 470294.67,
+      "missing": 239229.14,
+      "percent": 66.3
     }
   ]
 }
