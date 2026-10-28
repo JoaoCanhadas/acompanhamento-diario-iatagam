@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "28/10/2026 14:03",
+  "lastModified": "28/10/2026 14:05",
   "positivacao": [
     {
       "seller": "SJC",
@@ -20,10 +20,10 @@
     },
     {
       "seller": "CENTRO",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 1,
-      "reached": 29.0,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 5,
+      "reached": 30.0,
       "meta_a": 35.0
     },
     {
@@ -168,16 +168,16 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 24082.38,
-      "reached": 320917.62,
+      "missing": 23992.43,
+      "reached": 321007.57,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 18037.26,
-      "reached": 313462.74,
+      "missing": 16777.96,
+      "reached": 314722.04,
       "meta_a": 331500.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 13468.87,
-      "reached": 128531.13,
+      "missing": 12208.72,
+      "reached": 129791.28,
       "meta_a": 142000.0
     },
     {
@@ -312,10 +312,10 @@
     },
     {
       "seller": "CENTRO",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 1,
-      "reached": 29.0,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 5,
+      "reached": 30.0,
       "meta_a": 35.0
     },
     {
@@ -458,16 +458,16 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 24082.38,
-      "reached": 320917.62,
+      "missing": 23992.43,
+      "reached": 321007.57,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 18037.26,
-      "reached": 313462.74,
+      "missing": 16777.96,
+      "reached": 314722.04,
       "meta_a": 331500.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 13468.87,
-      "reached": 128531.13,
+      "missing": 12208.72,
+      "reached": 129791.28,
       "meta_a": 142000.0
     },
     {
