@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "28/10/2026 11:34",
+  "lastModified": "28/10/2026 11:35",
   "positivacao": [
     {
       "seller": "SJC",
@@ -44,10 +44,10 @@
     },
     {
       "seller": "LESTE MOOCA",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 1,
-      "reached": 29.0,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 5,
+      "reached": 30.0,
       "meta_a": 35.0
     },
     {
@@ -62,8 +62,8 @@
       "seller": "NORTE",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -9,
-      "reached": 44.0,
+      "missing": -10,
+      "reached": 45.0,
       "meta_a": 35.0
     },
     {
@@ -192,8 +192,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 2503.92,
-      "reached": 172596.08,
+      "missing": 937.4,
+      "reached": 174162.6,
       "meta_a": 206000.0
     },
     {
@@ -208,8 +208,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 25344.65,
-      "reached": 246655.35,
+      "missing": 22116.7,
+      "reached": 249883.3,
       "meta_a": 272000.0
     },
     {
@@ -336,10 +336,10 @@
     },
     {
       "seller": "LESTE MOOCA",
-      "premiacao": "C",
-      "proxima_meta": "B",
-      "missing": 1,
-      "reached": 29.0,
+      "premiacao": "B",
+      "proxima_meta": "A",
+      "missing": 5,
+      "reached": 30.0,
       "meta_a": 35.0
     },
     {
@@ -354,8 +354,8 @@
       "seller": "NORTE",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -9,
-      "reached": 44.0,
+      "missing": -10,
+      "reached": 45.0,
       "meta_a": 35.0
     },
     {
@@ -482,8 +482,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 2503.92,
-      "reached": 172596.08,
+      "missing": 937.4,
+      "reached": 174162.6,
       "meta_a": 206000.0
     },
     {
@@ -498,8 +498,8 @@
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 25344.65,
-      "reached": 246655.35,
+      "missing": 22116.7,
+      "reached": 249883.3,
       "meta_a": 272000.0
     },
     {

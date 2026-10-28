@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "28/10/2026 11:34",
+  "lastModified": "28/10/2026 11:35",
   "summary": {
     "commitment": 160530.0,
-    "reached": 59625.39,
-    "missing": 100904.61,
-    "percent": 37.1,
+    "reached": 64419.86,
+    "missing": 96110.14,
+    "percent": 40.1,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -34,17 +34,6 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 23.9,
-      "status": "pending"
-    },
-    {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 16160.0,
-      "reached": 7289.4,
-      "missing": 8870.6,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 45.1,
       "status": "pending"
     },
     {
@@ -125,14 +114,14 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE MOOCA",
-      "seller": "MOOCA",
-      "commitment": 9430.0,
-      "reached": 3882.3,
-      "missing": 5547.7,
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 16160.0,
+      "reached": 10517.35,
+      "missing": 5642.65,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 41.2,
+      "percent": 65.1,
       "status": "pending"
     },
     {
@@ -144,6 +133,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 15.4,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE MOOCA",
+      "seller": "MOOCA",
+      "commitment": 9430.0,
+      "reached": 5448.82,
+      "missing": 3981.18,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 57.8,
       "status": "pending"
     },
     {
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 407672.7,
-      "missing": 301851.11,
-      "percent": 57.5
+      "reached": 412467.16,
+      "missing": 297056.65,
+      "percent": 58.1
     }
   ]
 }
