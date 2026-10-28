@@ -1,13 +1,13 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "28/10/2026 13:24",
+  "lastModified": "28/10/2026 13:25",
   "positivacao": [
     {
       "seller": "SJC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -38,8 +38,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -7,
-      "reached": 42.0,
+      "missing": -8,
+      "reached": 43.0,
       "meta_a": 35.0
     },
     {
@@ -86,8 +86,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5,
-      "reached": 20.0,
+      "missing": 4,
+      "reached": 21.0,
       "meta_a": 35.0
     },
     {
@@ -102,24 +102,24 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 2,
-      "reached": 28.0,
+      "missing": 1,
+      "reached": 29.0,
       "meta_a": 35.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3,
-      "reached": 27.0,
+      "missing": 2,
+      "reached": 28.0,
       "meta_a": 35.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -1,
-      "reached": 36.0,
+      "missing": -2,
+      "reached": 37.0,
       "meta_a": 35.0
     },
     {
@@ -152,8 +152,8 @@
       "seller": "SJC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12943.08,
-      "reached": 75056.92,
+      "missing": 12493.33,
+      "reached": 75506.67,
       "meta_a": 88000.0
     },
     {
@@ -168,24 +168,24 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 24632.08,
-      "reached": 320367.92,
+      "missing": 24262.28,
+      "reached": 320737.72,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21520.57,
-      "reached": 309979.43,
+      "missing": 20541.27,
+      "reached": 310958.73,
       "meta_a": 331500.0
     },
     {
       "seller": "INTERLAGOS",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 40840.48,
-      "reached": 240159.52,
+      "missing": 40120.51,
+      "reached": 240879.49,
       "meta_a": 281000.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 9861.07,
-      "reached": 165138.93,
+      "missing": 9704.77,
+      "reached": 165295.23,
       "meta_a": 175000.0
     },
     {
@@ -232,8 +232,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3222.45,
-      "reached": 78377.55,
+      "missing": 3042.55,
+      "reached": 78557.45,
       "meta_a": 96000.0
     },
     {
@@ -248,24 +248,24 @@
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 4998.68,
-      "reached": 79001.32,
+      "missing": 4715.88,
+      "reached": 79284.12,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 15216.85,
-      "reached": 126783.15,
+      "missing": 14772.82,
+      "reached": 127227.18,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12394.55,
-      "reached": 156605.45,
+      "missing": 12294.6,
+      "reached": 156705.4,
       "meta_a": 169000.0
     },
     {
@@ -298,8 +298,8 @@
       "seller": "SJC",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 3,
-      "reached": 22.0,
+      "missing": 2,
+      "reached": 23.0,
       "meta_a": 35.0
     },
     {
@@ -330,8 +330,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -7,
-      "reached": 42.0,
+      "missing": -8,
+      "reached": 43.0,
       "meta_a": 35.0
     },
     {
@@ -378,8 +378,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 5,
-      "reached": 20.0,
+      "missing": 4,
+      "reached": 21.0,
       "meta_a": 35.0
     },
     {
@@ -394,24 +394,24 @@
       "seller": "JUNDIAI",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 2,
-      "reached": 28.0,
+      "missing": 1,
+      "reached": 29.0,
       "meta_a": 35.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3,
-      "reached": 27.0,
+      "missing": 2,
+      "reached": 28.0,
       "meta_a": 35.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -1,
-      "reached": 36.0,
+      "missing": -2,
+      "reached": 37.0,
       "meta_a": 35.0
     },
     {
@@ -442,8 +442,8 @@
       "seller": "SJC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12943.08,
-      "reached": 75056.92,
+      "missing": 12493.33,
+      "reached": 75506.67,
       "meta_a": 88000.0
     },
     {
@@ -458,24 +458,24 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 24632.08,
-      "reached": 320367.92,
+      "missing": 24262.28,
+      "reached": 320737.72,
       "meta_a": 345000.0
     },
     {
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21520.57,
-      "reached": 309979.43,
+      "missing": 20541.27,
+      "reached": 310958.73,
       "meta_a": 331500.0
     },
     {
       "seller": "INTERLAGOS",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 40840.48,
-      "reached": 240159.52,
+      "missing": 40120.51,
+      "reached": 240879.49,
       "meta_a": 281000.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 9861.07,
-      "reached": 165138.93,
+      "missing": 9704.77,
+      "reached": 165295.23,
       "meta_a": 175000.0
     },
     {
@@ -522,8 +522,8 @@
       "seller": "INDAIATUBA",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 3222.45,
-      "reached": 78377.55,
+      "missing": 3042.55,
+      "reached": 78557.45,
       "meta_a": 96000.0
     },
     {
@@ -538,24 +538,24 @@
       "seller": "JUNDIAI",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 4998.68,
-      "reached": 79001.32,
+      "missing": 4715.88,
+      "reached": 79284.12,
       "meta_a": 84000.0
     },
     {
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 15216.85,
-      "reached": 126783.15,
+      "missing": 14772.82,
+      "reached": 127227.18,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12394.55,
-      "reached": 156605.45,
+      "missing": 12294.6,
+      "reached": 156705.4,
       "meta_a": 169000.0
     },
     {
