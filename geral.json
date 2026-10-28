@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 11:24",
+  "lastModified": "28/10/2026 11:25",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5139509.48,
-    "missing": 891490.52,
-    "percent": 85.2,
+    "reached": 5154184.41,
+    "missing": 876815.59,
+    "percent": 85.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -95,44 +95,44 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 171513.98,
-      "missing": 34486.02,
+      "reached": 172596.08,
+      "missing": 33403.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 83.3,
+      "percent": 83.8,
       "status": "pending"
     },
     {
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 311278.86,
-      "missing": 33721.14,
+      "reached": 312821.26,
+      "missing": 32178.74,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 90.2,
+      "percent": 90.7,
       "status": "pending"
     },
     {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 239365.95,
-      "missing": 32634.05,
+      "reached": 246655.35,
+      "missing": 25344.65,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 88.0,
+      "percent": 90.7,
       "status": "pending"
     },
     {
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 302263.55,
-      "missing": 29236.45,
+      "reached": 307024.58,
+      "missing": 24475.42,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 91.2,
+      "percent": 92.6,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1178610.08,
-      "missing": 257341.92,
-      "percent": 82.1
+      "reached": 1193285.01,
+      "missing": 242666.99,
+      "percent": 83.1
     }
   ]
 }
