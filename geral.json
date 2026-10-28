@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 14:13",
+  "lastModified": "28/10/2026 14:14",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5228419.44,
-    "missing": 802580.56,
+    "reached": 5230843.38,
+    "missing": 800156.62,
     "percent": 86.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -62,11 +62,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 147047.72,
-      "missing": 70452.28,
+      "reached": 147239.38,
+      "missing": 70260.62,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 67.6,
+      "percent": 67.7,
       "status": "pending"
     },
     {
@@ -84,11 +84,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 242318.49,
-      "missing": 38681.51,
+      "reached": 242594.49,
+      "missing": 38405.51,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 86.2,
+      "percent": 86.3,
       "status": "pending"
     },
     {
@@ -205,11 +205,11 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 165525.08,
-      "missing": 9474.92,
+      "reached": 165759.08,
+      "missing": 9240.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 94.6,
+      "percent": 94.7,
       "status": "pending"
     },
     {
@@ -249,11 +249,11 @@
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 84000.0,
-      "reached": 80750.8,
-      "missing": 3249.2,
+      "reached": 82473.08,
+      "missing": 1526.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 96.1,
+      "percent": 98.2,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1267520.04,
-      "missing": 168431.96,
-      "percent": 88.3
+      "reached": 1269943.98,
+      "missing": 166008.02,
+      "percent": 88.4
     }
   ]
 }
