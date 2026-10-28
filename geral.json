@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 12:54",
+  "lastModified": "28/10/2026 12:55",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5195057.66,
-    "missing": 835942.34,
-    "percent": 86.1,
+    "reached": 5203188.03,
+    "missing": 827811.97,
+    "percent": 86.3,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -84,22 +84,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 239700.67,
-      "missing": 41299.33,
+      "reached": 240159.52,
+      "missing": 40840.48,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 85.3,
-      "status": "pending"
-    },
-    {
-      "reference": "CENTRO",
-      "seller": "CENTRO",
-      "commitment": 345000.0,
-      "reached": 315158.56,
-      "missing": 29841.44,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 91.4,
+      "percent": 85.5,
       "status": "pending"
     },
     {
@@ -114,25 +103,36 @@
       "status": "pending"
     },
     {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 331500.0,
-      "reached": 308932.23,
-      "missing": 22567.77,
+      "reference": "CENTRO",
+      "seller": "CENTRO",
+      "commitment": 345000.0,
+      "reached": 320294.06,
+      "missing": 24705.94,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 93.2,
+      "percent": 92.8,
       "status": "pending"
     },
     {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
-      "reached": 249883.3,
-      "missing": 22116.7,
+      "reached": 250030.42,
+      "missing": 21969.58,
       "average": 0.0,
       "difference": 0.0,
       "percent": 91.9,
+      "status": "pending"
+    },
+    {
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 331500.0,
+      "reached": 309579.63,
+      "missing": 21920.37,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 93.4,
       "status": "pending"
     },
     {
@@ -155,17 +155,6 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 89.1,
-      "status": "pending"
-    },
-    {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 175000.0,
-      "reached": 160353.23,
-      "missing": 14646.77,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 91.6,
       "status": "pending"
     },
     {
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 85.3,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 175000.0,
+      "reached": 162094.73,
+      "missing": 12905.27,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 92.6,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1234158.26,
-      "missing": 201793.74,
-      "percent": 85.9
+      "reached": 1242288.63,
+      "missing": 193663.37,
+      "percent": 86.5
     }
   ]
 }

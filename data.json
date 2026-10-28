@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "28/10/2026 12:53",
+  "lastModified": "28/10/2026 12:55",
   "summary": {
     "commitment": 160530.0,
-    "reached": 83302.03,
-    "missing": 77227.97,
-    "percent": 51.9,
+    "reached": 91432.4,
+    "missing": 69097.6,
+    "percent": 57.0,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -51,11 +51,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 13060.0,
-      "reached": 5693.1,
-      "missing": 7366.9,
+      "reached": 6151.95,
+      "missing": 6908.05,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 43.6,
+      "percent": 47.1,
       "status": "pending"
     },
     {
@@ -70,47 +70,25 @@
       "status": "pending"
     },
     {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 17540.0,
-      "reached": 11695.38,
-      "missing": 5844.62,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 66.7,
-      "status": "pending"
-    },
-    {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 16160.0,
-      "reached": 10517.35,
-      "missing": 5642.65,
+      "reached": 10664.47,
+      "missing": 5495.53,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 65.1,
+      "percent": 66.0,
       "status": "pending"
     },
     {
-      "reference": "CENTRO",
-      "seller": "CENTRO",
-      "commitment": 11670.0,
-      "reached": 6039.04,
-      "missing": 5630.96,
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 17540.0,
+      "reached": 12342.78,
+      "missing": 5197.22,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 51.7,
-      "status": "pending"
-    },
-    {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 12430.0,
-      "reached": 8121.1,
-      "missing": 4308.9,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 65.3,
+      "percent": 70.4,
       "status": "pending"
     },
     {
@@ -144,6 +122,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 79.9,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 12430.0,
+      "reached": 9862.6,
+      "missing": 2567.4,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 79.3,
       "status": "pending"
     },
     {
@@ -191,6 +180,17 @@
       "status": "pending"
     },
     {
+      "reference": "CENTRO",
+      "seller": "CENTRO",
+      "commitment": 11670.0,
+      "reached": 11174.54,
+      "missing": 495.46,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 95.8,
+      "status": "pending"
+    },
+    {
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 9430.0,
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 431349.34,
-      "missing": 278174.47,
-      "percent": 60.8
+      "reached": 439479.71,
+      "missing": 270044.1,
+      "percent": 61.9
     }
   ]
 }
