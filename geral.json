@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 10:34",
+  "lastModified": "28/10/2026 10:35",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5121508.65,
-    "missing": 909491.35,
-    "percent": 84.9,
+    "reached": 5125447.5,
+    "missing": 905552.5,
+    "percent": 85.0,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -70,17 +70,6 @@
       "status": "pending"
     },
     {
-      "reference": "INTERLAGOS",
-      "seller": "INTERLAGOS",
-      "commitment": 281000.0,
-      "reached": 234007.57,
-      "missing": 46992.43,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 83.3,
-      "status": "pending"
-    },
-    {
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
@@ -89,6 +78,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 51.4,
+      "status": "pending"
+    },
+    {
+      "reference": "INTERLAGOS",
+      "seller": "INTERLAGOS",
+      "commitment": 281000.0,
+      "reached": 235997.92,
+      "missing": 45002.08,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 84.0,
       "status": "pending"
     },
     {
@@ -147,17 +147,6 @@
       "status": "pending"
     },
     {
-      "reference": "INDAIATUBA",
-      "seller": "INDAIATUBA",
-      "commitment": 96000.0,
-      "reached": 77962.85,
-      "missing": 18037.15,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 81.2,
-      "status": "pending"
-    },
-    {
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 500000.0,
@@ -166,6 +155,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 96.4,
+      "status": "pending"
+    },
+    {
+      "reference": "INDAIATUBA",
+      "seller": "INDAIATUBA",
+      "commitment": 96000.0,
+      "reached": 78166.45,
+      "missing": 17833.55,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 81.4,
       "status": "pending"
     },
     {
@@ -216,22 +216,22 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 259282.23,
-      "missing": 10717.77,
+      "reached": 260559.13,
+      "missing": 9440.87,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 96.0,
+      "percent": 96.5,
       "status": "pending"
     },
     {
       "reference": "VENDEDOR INTERNO 1",
       "seller": "INTERNO 1",
       "commitment": 79000.0,
-      "reached": 69593.12,
-      "missing": 9406.88,
+      "reached": 70061.12,
+      "missing": 8938.88,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 88.1,
+      "percent": 88.7,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1160609.25,
-      "missing": 275342.75,
-      "percent": 80.8
+      "reached": 1164548.1,
+      "missing": 271403.9,
+      "percent": 81.1
     }
   ]
 }
