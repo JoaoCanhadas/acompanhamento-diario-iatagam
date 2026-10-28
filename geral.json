@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 11:14",
+  "lastModified": "28/10/2026 11:15",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5135695.18,
-    "missing": 895304.82,
+    "reached": 5139509.48,
+    "missing": 891490.52,
     "percent": 85.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -84,11 +84,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 235997.92,
-      "missing": 45002.08,
+      "reached": 237287.62,
+      "missing": 43712.38,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 84.0,
+      "percent": 84.4,
       "status": "pending"
     },
     {
@@ -180,17 +180,6 @@
       "status": "pending"
     },
     {
-      "reference": "SJC",
-      "seller": "SJC",
-      "commitment": 88000.0,
-      "reached": 74976.97,
-      "missing": 13023.03,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 85.2,
-      "status": "pending"
-    },
-    {
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 70500.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 81.5,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC",
+      "seller": "SJC",
+      "commitment": 88000.0,
+      "reached": 75056.92,
+      "missing": 12943.08,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 85.3,
       "status": "pending"
     },
     {
@@ -224,17 +224,6 @@
       "status": "pending"
     },
     {
-      "reference": "SBC",
-      "seller": "SBC",
-      "commitment": 270000.0,
-      "reached": 262973.11,
-      "missing": 7026.89,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 97.4,
-      "status": "pending"
-    },
-    {
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
@@ -254,6 +243,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 94.0,
+      "status": "pending"
+    },
+    {
+      "reference": "SBC",
+      "seller": "SBC",
+      "commitment": 270000.0,
+      "reached": 265417.76,
+      "missing": 4582.24,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 98.3,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1174795.78,
-      "missing": 261156.22,
-      "percent": 81.8
+      "reached": 1178610.08,
+      "missing": 257341.92,
+      "percent": 82.1
     }
   ]
 }
