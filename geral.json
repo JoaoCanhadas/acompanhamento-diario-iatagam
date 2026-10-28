@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 11:03",
+  "lastModified": "28/10/2026 11:04",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5132979.71,
-    "missing": 898020.29,
-    "percent": 85.1,
+    "reached": 5136665.98,
+    "missing": 894334.02,
+    "percent": 85.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -136,25 +136,25 @@
       "status": "pending"
     },
     {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 175000.0,
-      "reached": 156498.33,
-      "missing": 18501.67,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 89.4,
-      "status": "pending"
-    },
-    {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 78166.45,
-      "missing": 17833.55,
+      "reached": 78377.55,
+      "missing": 17622.45,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 81.4,
+      "percent": 81.6,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 175000.0,
+      "reached": 158361.73,
+      "missing": 16638.27,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 90.5,
       "status": "pending"
     },
     {
@@ -183,11 +183,11 @@
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
-      "reached": 74897.02,
-      "missing": 13102.98,
+      "reached": 74976.97,
+      "missing": 13023.03,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 85.1,
+      "percent": 85.2,
       "status": "pending"
     },
     {
@@ -224,17 +224,6 @@
       "status": "pending"
     },
     {
-      "reference": "SBC",
-      "seller": "SBC",
-      "commitment": 270000.0,
-      "reached": 262412.09,
-      "missing": 7587.91,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 97.2,
-      "status": "pending"
-    },
-    {
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 58000.0,
@@ -243,6 +232,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 88.2,
+      "status": "pending"
+    },
+    {
+      "reference": "SBC",
+      "seller": "SBC",
+      "commitment": 270000.0,
+      "reached": 263943.91,
+      "missing": 6056.09,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 97.8,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1172080.31,
-      "missing": 263871.69,
-      "percent": 81.6
+      "reached": 1175766.58,
+      "missing": 260185.42,
+      "percent": 81.9
     }
   ]
 }
