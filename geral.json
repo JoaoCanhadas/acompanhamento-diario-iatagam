@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 13:04",
+  "lastModified": "28/10/2026 13:05",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5203188.03,
-    "missing": 827811.97,
-    "percent": 86.3,
+    "reached": 5208639.18,
+    "missing": 822360.82,
+    "percent": 86.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -114,25 +114,25 @@
       "status": "pending"
     },
     {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 272000.0,
-      "reached": 250030.42,
-      "missing": 21969.58,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 91.9,
-      "status": "pending"
-    },
-    {
       "reference": "OSASCO",
       "seller": "OSASCO",
       "commitment": 331500.0,
-      "reached": 309579.63,
-      "missing": 21920.37,
+      "reached": 309979.43,
+      "missing": 21520.57,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 93.4,
+      "percent": 93.5,
+      "status": "pending"
+    },
+    {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 272000.0,
+      "reached": 251075.97,
+      "missing": 20924.03,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 92.3,
       "status": "pending"
     },
     {
@@ -150,11 +150,11 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
-      "reached": 126579.55,
-      "missing": 15420.45,
+      "reached": 126783.15,
+      "missing": 15216.85,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 89.1,
+      "percent": 89.3,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "CAMPINAS",
-      "seller": "CAMPINAS",
-      "commitment": 70500.0,
-      "reached": 57492.39,
-      "missing": 13007.61,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 81.5,
-      "status": "pending"
-    },
-    {
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 88000.0,
@@ -191,25 +180,36 @@
       "status": "pending"
     },
     {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 175000.0,
-      "reached": 162094.73,
-      "missing": 12905.27,
+      "reference": "CAMPINAS",
+      "seller": "CAMPINAS",
+      "commitment": 70500.0,
+      "reached": 57860.09,
+      "missing": 12639.91,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 92.6,
+      "percent": 82.1,
       "status": "pending"
     },
     {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
-      "reached": 156215.15,
-      "missing": 12784.85,
+      "reached": 156605.45,
+      "missing": 12394.55,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 92.4,
+      "percent": 92.7,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 175000.0,
+      "reached": 165138.93,
+      "missing": 9861.07,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 94.4,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1242288.63,
-      "missing": 193663.37,
-      "percent": 86.5
+      "reached": 1247739.78,
+      "missing": 188212.22,
+      "percent": 86.9
     }
   ]
 }

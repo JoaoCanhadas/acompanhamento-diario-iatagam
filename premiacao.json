@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "28/10/2026 13:04",
+  "lastModified": "28/10/2026 13:05",
   "positivacao": [
     {
       "seller": "SJC",
@@ -30,8 +30,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -19,
-      "reached": 54.0,
+      "missing": -20,
+      "reached": 55.0,
       "meta_a": 35.0
     },
     {
@@ -118,8 +118,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": 0,
-      "reached": 35.0,
+      "missing": -1,
+      "reached": 36.0,
       "meta_a": 35.0
     },
     {
@@ -176,8 +176,8 @@
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21920.37,
-      "reached": 309579.63,
+      "missing": 21520.57,
+      "reached": 309979.43,
       "meta_a": 331500.0
     },
     {
@@ -200,16 +200,16 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12905.27,
-      "reached": 162094.73,
+      "missing": 9861.07,
+      "reached": 165138.93,
       "meta_a": 175000.0
     },
     {
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21969.58,
-      "reached": 250030.42,
+      "missing": 20924.03,
+      "reached": 251075.97,
       "meta_a": 272000.0
     },
     {
@@ -240,8 +240,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 2432.61,
-      "reached": 57492.39,
+      "missing": 2064.91,
+      "reached": 57860.09,
       "meta_a": 70500.0
     },
     {
@@ -256,16 +256,16 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 15420.45,
-      "reached": 126579.55,
+      "missing": 15216.85,
+      "reached": 126783.15,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12784.85,
-      "reached": 156215.15,
+      "missing": 12394.55,
+      "reached": 156605.45,
       "meta_a": 169000.0
     },
     {
@@ -322,8 +322,8 @@
       "seller": "OSASCO",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -19,
-      "reached": 54.0,
+      "missing": -20,
+      "reached": 55.0,
       "meta_a": 35.0
     },
     {
@@ -410,8 +410,8 @@
       "seller": "LESTE PENHA",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": 0,
-      "reached": 35.0,
+      "missing": -1,
+      "reached": 36.0,
       "meta_a": 35.0
     },
     {
@@ -466,8 +466,8 @@
       "seller": "OSASCO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21920.37,
-      "reached": 309579.63,
+      "missing": 21520.57,
+      "reached": 309979.43,
       "meta_a": 331500.0
     },
     {
@@ -490,16 +490,16 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12905.27,
-      "reached": 162094.73,
+      "missing": 9861.07,
+      "reached": 165138.93,
       "meta_a": 175000.0
     },
     {
       "seller": "NORTE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21969.58,
-      "reached": 250030.42,
+      "missing": 20924.03,
+      "reached": 251075.97,
       "meta_a": 272000.0
     },
     {
@@ -530,8 +530,8 @@
       "seller": "CAMPINAS",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 2432.61,
-      "reached": 57492.39,
+      "missing": 2064.91,
+      "reached": 57860.09,
       "meta_a": 70500.0
     },
     {
@@ -546,16 +546,16 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 15420.45,
-      "reached": 126579.55,
+      "missing": 15216.85,
+      "reached": 126783.15,
       "meta_a": 142000.0
     },
     {
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12784.85,
-      "reached": 156215.15,
+      "missing": 12394.55,
+      "reached": 156605.45,
       "meta_a": 169000.0
     },
     {
