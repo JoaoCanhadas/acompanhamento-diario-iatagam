@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "28/10/2026 10:24",
+  "lastModified": "28/10/2026 10:25",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5116203.27,
-    "missing": 914796.73,
-    "percent": 84.8,
+    "reached": 5121464.65,
+    "missing": 909535.35,
+    "percent": 84.9,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -114,17 +114,6 @@
       "status": "pending"
     },
     {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 331500.0,
-      "reached": 298617.65,
-      "missing": 32882.35,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 90.1,
-      "status": "pending"
-    },
-    {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 272000.0,
@@ -136,14 +125,25 @@
       "status": "pending"
     },
     {
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 331500.0,
+      "reached": 302263.55,
+      "missing": 29236.45,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 91.2,
+      "status": "pending"
+    },
+    {
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 175000.0,
-      "reached": 154281.93,
-      "missing": 20718.07,
+      "reached": 156228.23,
+      "missing": 18771.77,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 88.2,
+      "percent": 89.3,
       "status": "pending"
     },
     {
@@ -260,11 +260,11 @@
       "reference": "KEY ZL",
       "seller": "KEY ZL",
       "commitment": 480000.0,
-      "reached": 476138.9,
-      "missing": 3861.1,
+      "reached": 475808.08,
+      "missing": 4191.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 99.2,
+      "percent": 99.1,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1155303.87,
-      "missing": 280648.13,
-      "percent": 80.5
+      "reached": 1160565.25,
+      "missing": 275386.75,
+      "percent": 80.8
     }
   ]
 }
