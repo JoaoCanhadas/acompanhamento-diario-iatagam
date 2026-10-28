@@ -1,28 +1,28 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "28/10/2026 13:44",
+  "lastModified": "28/10/2026 13:45",
   "summary": {
     "commitment": 160530.0,
-    "reached": 107676.04,
-    "missing": 52853.96,
-    "percent": 67.1,
+    "reached": 114636.37,
+    "missing": 45893.63,
+    "percent": 71.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
     "weekPercent": 50.1,
-    "positiveCount": 1,
-    "pendingCount": 16
+    "positiveCount": 2,
+    "pendingCount": 15
   },
   "rows": [
     {
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 8690.0,
-      "reached": 690.15,
-      "missing": 7999.85,
+      "reached": 1147.5,
+      "missing": 7542.5,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 7.9,
+      "percent": 13.2,
       "status": "pending"
     },
     {
@@ -51,33 +51,22 @@
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 9950.0,
-      "reached": 3597.65,
-      "missing": 6352.35,
+      "reached": 3652.64,
+      "missing": 6297.36,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 36.2,
+      "percent": 36.7,
       "status": "pending"
     },
     {
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 13060.0,
-      "reached": 6871.92,
-      "missing": 6188.08,
+      "reached": 8310.92,
+      "missing": 4749.08,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 52.6,
-      "status": "pending"
-    },
-    {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 17540.0,
-      "reached": 13721.88,
-      "missing": 3818.12,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 78.2,
+      "percent": 63.6,
       "status": "pending"
     },
     {
@@ -92,17 +81,6 @@
       "status": "pending"
     },
     {
-      "reference": "JUNDIAI",
-      "seller": "JUNDIAI",
-      "commitment": 4940.0,
-      "reached": 2135.14,
-      "missing": 2804.86,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 43.2,
-      "status": "pending"
-    },
-    {
       "reference": "NORTE",
       "seller": "NORTE",
       "commitment": 16160.0,
@@ -111,6 +89,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 84.5,
+      "status": "pending"
+    },
+    {
+      "reference": "JUNDIAI",
+      "seller": "JUNDIAI",
+      "commitment": 4940.0,
+      "reached": 2529.84,
+      "missing": 2410.16,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 51.2,
       "status": "pending"
     },
     {
@@ -147,14 +136,14 @@
       "status": "pending"
     },
     {
-      "reference": "INDAIATUBA",
-      "seller": "INDAIATUBA",
-      "commitment": 4480.0,
-      "reached": 3402.6,
-      "missing": 1077.4,
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 17540.0,
+      "reached": 15862.79,
+      "missing": 1677.21,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 76.0,
+      "percent": 90.4,
       "status": "pending"
     },
     {
@@ -169,14 +158,14 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE MOOCA",
-      "seller": "MOOCA",
-      "commitment": 9430.0,
-      "reached": 9246.61,
-      "missing": 183.39,
+      "reference": "INDAIATUBA",
+      "seller": "INDAIATUBA",
+      "commitment": 4480.0,
+      "reached": 3662.47,
+      "missing": 817.53,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 98.1,
+      "percent": 81.8,
       "status": "pending"
     },
     {
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 105.1,
+      "status": "ok"
+    },
+    {
+      "reference": "LESTE MOOCA",
+      "seller": "MOOCA",
+      "commitment": 9430.0,
+      "reached": 11460.12,
+      "missing": -2030.12,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 121.5,
       "status": "ok"
     }
   ],
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 455723.35,
-      "missing": 253800.46,
-      "percent": 64.2
+      "reached": 462683.67,
+      "missing": 246840.14,
+      "percent": 65.2
     }
   ]
 }
