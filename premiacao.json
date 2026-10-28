@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "28/10/2026 10:44",
+  "lastModified": "28/10/2026 10:45",
   "positivacao": [
     {
       "seller": "SJC",
@@ -116,10 +116,10 @@
     },
     {
       "seller": "LESTE PENHA",
-      "premiacao": "B",
-      "proxima_meta": "A",
-      "missing": 2,
-      "reached": 33.0,
+      "premiacao": "A",
+      "proxima_meta": "",
+      "missing": 0,
+      "reached": 35.0,
       "meta_a": 35.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 18771.77,
-      "reached": 156228.23,
+      "missing": 18501.67,
+      "reached": 156498.33,
       "meta_a": 175000.0
     },
     {
@@ -224,8 +224,8 @@
       "seller": "SJC/VALE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 7730.63,
-      "reached": 50269.37,
+      "missing": 6855.68,
+      "reached": 51144.32,
       "meta_a": 58000.0
     },
     {
@@ -264,16 +264,16 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12984.75,
-      "reached": 156015.25,
+      "missing": 12784.85,
+      "reached": 156215.15,
       "meta_a": 169000.0
     },
     {
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 9440.87,
-      "reached": 260559.13,
+      "missing": 7852.87,
+      "reached": 262147.13,
       "meta_a": 270000.0
     },
     {
@@ -408,10 +408,10 @@
     },
     {
       "seller": "LESTE PENHA",
-      "premiacao": "B",
-      "proxima_meta": "A",
-      "missing": 2,
-      "reached": 33.0,
+      "premiacao": "A",
+      "proxima_meta": "",
+      "missing": 0,
+      "reached": 35.0,
       "meta_a": 35.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 18771.77,
-      "reached": 156228.23,
+      "missing": 18501.67,
+      "reached": 156498.33,
       "meta_a": 175000.0
     },
     {
@@ -514,8 +514,8 @@
       "seller": "SJC/VALE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 7730.63,
-      "reached": 50269.37,
+      "missing": 6855.68,
+      "reached": 51144.32,
       "meta_a": 58000.0
     },
     {
@@ -554,16 +554,16 @@
       "seller": "LESTE PENHA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 12984.75,
-      "reached": 156015.25,
+      "missing": 12784.85,
+      "reached": 156215.15,
       "meta_a": 169000.0
     },
     {
       "seller": "SBC",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 9440.87,
-      "reached": 260559.13,
+      "missing": 7852.87,
+      "reached": 262147.13,
       "meta_a": 270000.0
     },
     {
