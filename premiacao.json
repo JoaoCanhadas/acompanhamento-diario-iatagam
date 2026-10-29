@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "29/10/2026 14:28",
+  "lastModified": "29/10/2026 14:29",
   "positivacao": [
     {
       "seller": "SJC",
@@ -126,8 +126,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -9,
-      "reached": 44.0,
+      "missing": -8,
+      "reached": 43.0,
       "meta_a": 35.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 3902.85,
-      "reached": 138097.15,
+      "missing": 3902.9,
+      "reached": 138097.1,
       "meta_a": 142000.0
     },
     {
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -11705.34,
-      "reached": 281705.34,
+      "missing": -11705.29,
+      "reached": 281705.29,
       "meta_a": 270000.0
     },
     {
@@ -418,8 +418,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -9,
-      "reached": 44.0,
+      "missing": -8,
+      "reached": 43.0,
       "meta_a": 35.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 3902.85,
-      "reached": 138097.15,
+      "missing": 3902.9,
+      "reached": 138097.1,
       "meta_a": 142000.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -11705.34,
-      "reached": 281705.34,
+      "missing": -11705.29,
+      "reached": 281705.29,
       "meta_a": 270000.0
     },
     {
