@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "29/10/2026 11:51",
+  "lastModified": "29/10/2026 11:52",
   "summary": {
     "commitment": 150400.0,
-    "reached": 95326.97,
-    "missing": 55073.03,
+    "reached": 95330.33,
+    "missing": 55069.67,
     "percent": 63.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
@@ -73,8 +73,8 @@
       "reference": "SANTO ANDRE",
       "seller": "SANTO ANDRE",
       "commitment": 10390.0,
-      "reached": 6313.66,
-      "missing": 4076.34,
+      "reached": 6317.02,
+      "missing": 4072.98,
       "average": 0.0,
       "difference": 0.0,
       "percent": 60.8,
@@ -235,8 +235,8 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 570834.0,
-      "missing": 138689.81,
+      "reached": 570837.36,
+      "missing": 138686.45,
       "percent": 80.5
     }
   ]
