@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "29/10/2026 13:14",
+  "lastModified": "29/10/2026 13:15",
   "summary": {
     "commitment": 150400.0,
-    "reached": 113354.28,
-    "missing": 37045.72,
-    "percent": 75.4,
+    "reached": 113978.78,
+    "missing": 36421.22,
+    "percent": 75.8,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -114,17 +114,6 @@
       "status": "pending"
     },
     {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 17550.0,
-      "reached": 16168.33,
-      "missing": 1381.67,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 92.1,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 2580.0,
@@ -166,6 +155,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 71.6,
+      "status": "pending"
+    },
+    {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 17550.0,
+      "reached": 16792.83,
+      "missing": 757.17,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 95.7,
       "status": "pending"
     },
     {
