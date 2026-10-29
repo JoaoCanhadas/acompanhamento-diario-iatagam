@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "29/10/2026 14:08",
+  "lastModified": "29/10/2026 14:09",
   "positivacao": [
     {
       "seller": "SJC",
@@ -126,8 +126,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -8,
-      "reached": 43.0,
+      "missing": -9,
+      "reached": 44.0,
       "meta_a": 35.0
     },
     {
@@ -142,8 +142,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 6,
-      "reached": 19.0,
+      "missing": 5,
+      "reached": 20.0,
       "meta_a": 35.0
     }
   ],
@@ -272,8 +272,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -11705.31,
-      "reached": 281705.31,
+      "missing": -11705.36,
+      "reached": 281705.36,
       "meta_a": 270000.0
     },
     {
@@ -288,8 +288,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 21502.57,
-      "reached": 163372.43,
+      "missing": 18079.87,
+      "reached": 166795.13,
       "meta_a": 217500.0
     }
   ],
@@ -418,8 +418,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -8,
-      "reached": 43.0,
+      "missing": -9,
+      "reached": 44.0,
       "meta_a": 35.0
     },
     {
@@ -434,8 +434,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 6,
-      "reached": 19.0,
+      "missing": 5,
+      "reached": 20.0,
       "meta_a": 35.0
     },
     {
@@ -562,8 +562,8 @@
       "seller": "SBC",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -11705.31,
-      "reached": 281705.31,
+      "missing": -11705.36,
+      "reached": 281705.36,
       "meta_a": 270000.0
     },
     {
@@ -578,8 +578,8 @@
       "seller": "LESTE TATUAPE",
       "premiacao": "C",
       "proxima_meta": "B",
-      "missing": 21502.57,
-      "reached": 163372.43,
+      "missing": 18079.87,
+      "reached": 166795.13,
       "meta_a": 217500.0
     }
   ]
