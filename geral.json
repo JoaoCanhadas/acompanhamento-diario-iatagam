@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 14:03",
+  "lastModified": "29/10/2026 14:04",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5524363.69,
-    "missing": 506636.31,
-    "percent": 91.6,
+    "reached": 5529543.89,
+    "missing": 501456.11,
+    "percent": 91.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -81,17 +81,6 @@
       "status": "pending"
     },
     {
-      "reference": "INTERLAGOS",
-      "seller": "INTERLAGOS",
-      "commitment": 281000.0,
-      "reached": 258387.94,
-      "missing": 22612.06,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 92.0,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
@@ -100,6 +89,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 91.2,
+      "status": "pending"
+    },
+    {
+      "reference": "INTERLAGOS",
+      "seller": "INTERLAGOS",
+      "commitment": 281000.0,
+      "reached": 263568.14,
+      "missing": 17431.86,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 93.8,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1563464.29,
-      "missing": -127512.29,
-      "percent": 108.9
+      "reached": 1568644.49,
+      "missing": -132692.49,
+      "percent": 109.2
     }
   ]
 }
