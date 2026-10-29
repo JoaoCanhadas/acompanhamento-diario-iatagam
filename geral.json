@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 13:39",
+  "lastModified": "29/10/2026 13:40",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5510909.68,
-    "missing": 520090.32,
+    "reached": 5514551.9,
+    "missing": 516448.1,
     "percent": 91.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -73,11 +73,11 @@
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
-      "reached": 55399.98,
-      "missing": 40100.02,
+      "reached": 56743.68,
+      "missing": 38756.32,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 58.0,
+      "percent": 59.4,
       "status": "pending"
     },
     {
@@ -95,22 +95,22 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 206000.0,
-      "reached": 185083.88,
-      "missing": 20916.12,
+      "reached": 186156.08,
+      "missing": 19843.92,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 89.8,
+      "percent": 90.4,
       "status": "pending"
     },
     {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 96000.0,
-      "reached": 81006.3,
-      "missing": 14993.7,
+      "reached": 81300.45,
+      "missing": 14699.55,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 84.4,
+      "percent": 84.7,
       "status": "pending"
     },
     {
@@ -139,11 +139,11 @@
       "reference": "LESTE PENHA",
       "seller": "PENHA",
       "commitment": 169000.0,
-      "reached": 160261.57,
-      "missing": 8738.43,
+      "reached": 160655.82,
+      "missing": 8344.18,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 94.8,
+      "percent": 95.1,
       "status": "pending"
     },
     {
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 142000.0,
-      "reached": 136258.43,
-      "missing": 5741.57,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 96.0,
-      "status": "pending"
-    },
-    {
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
@@ -188,6 +177,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 98.4,
+      "status": "pending"
+    },
+    {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 142000.0,
+      "reached": 136796.35,
+      "missing": 5203.65,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 96.3,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1550010.28,
-      "missing": -114058.28,
-      "percent": 107.9
+      "reached": 1553652.5,
+      "missing": -117700.5,
+      "percent": 108.2
     }
   ]
 }

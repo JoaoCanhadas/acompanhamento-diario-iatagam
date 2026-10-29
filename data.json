@@ -1,17 +1,17 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "29/10/2026 13:39",
+  "lastModified": "29/10/2026 13:40",
   "summary": {
     "commitment": 150400.0,
-    "reached": 123050.56,
-    "missing": 27349.44,
-    "percent": 81.8,
+    "reached": 126692.78,
+    "missing": 23707.22,
+    "percent": 84.2,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
     "weekPercent": 50.1,
-    "positiveCount": 1,
-    "pendingCount": 16
+    "positiveCount": 3,
+    "pendingCount": 14
   },
   "rows": [
     {
@@ -40,11 +40,11 @@
       "reference": "LESTE MOOCA",
       "seller": "MOOCA",
       "commitment": 13570.0,
-      "reached": 7037.28,
-      "missing": 6532.72,
+      "reached": 8109.48,
+      "missing": 5460.52,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 51.9,
+      "percent": 59.8,
       "status": "pending"
     },
     {
@@ -84,11 +84,11 @@
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 3770.0,
-      "reached": 1989.1,
-      "missing": 1780.9,
+      "reached": 2283.25,
+      "missing": 1486.75,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 52.8,
+      "percent": 60.6,
       "status": "pending"
     },
     {
@@ -100,28 +100,6 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 50.0,
-      "status": "pending"
-    },
-    {
-      "reference": "MOGI",
-      "seller": "MOGI",
-      "commitment": 5800.0,
-      "reached": 4590.67,
-      "missing": 1209.33,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 79.1,
-      "status": "pending"
-    },
-    {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 5290.0,
-      "reached": 4221.95,
-      "missing": 1068.05,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 79.8,
       "status": "pending"
     },
     {
@@ -147,6 +125,17 @@
       "status": "pending"
     },
     {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 5290.0,
+      "reached": 4759.87,
+      "missing": 530.13,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 90.0,
+      "status": "pending"
+    },
+    {
       "reference": "SJC/VALE",
       "seller": "VALE",
       "commitment": 3060.0,
@@ -169,17 +158,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE PENHA",
-      "seller": "PENHA",
-      "commitment": 3790.0,
-      "reached": 3657.8,
-      "missing": 132.2,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 96.5,
-      "status": "pending"
-    },
-    {
       "reference": "SJC",
       "seller": "SJC",
       "commitment": 2730.0,
@@ -189,6 +167,28 @@
       "difference": 0.0,
       "percent": 99.8,
       "status": "pending"
+    },
+    {
+      "reference": "MOGI",
+      "seller": "MOGI",
+      "commitment": 5800.0,
+      "reached": 5934.37,
+      "missing": -134.37,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 102.3,
+      "status": "ok"
+    },
+    {
+      "reference": "LESTE PENHA",
+      "seller": "PENHA",
+      "commitment": 3790.0,
+      "reached": 4052.05,
+      "missing": -262.05,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 106.9,
+      "status": "ok"
     },
     {
       "reference": "LESTE TATUAPE",
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 598557.56,
-      "missing": 110966.25,
-      "percent": 84.4
+      "reached": 602199.78,
+      "missing": 107324.03,
+      "percent": 84.9
     }
   ]
 }
