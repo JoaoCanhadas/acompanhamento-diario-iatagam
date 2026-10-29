@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 12:18",
+  "lastModified": "29/10/2026 12:19",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5459309.05,
-    "missing": 571690.95,
+    "reached": 5459369.45,
+    "missing": 571630.55,
     "percent": 90.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -158,17 +158,6 @@
       "status": "pending"
     },
     {
-      "reference": "PIRITUBA",
-      "seller": "PIRITUBA",
-      "commitment": 142000.0,
-      "reached": 134422.54,
-      "missing": 7577.46,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 94.7,
-      "status": "pending"
-    },
-    {
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
@@ -177,6 +166,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 97.8,
+      "status": "pending"
+    },
+    {
+      "reference": "PIRITUBA",
+      "seller": "PIRITUBA",
+      "commitment": 142000.0,
+      "reached": 134482.94,
+      "missing": 7517.06,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 94.7,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1498409.65,
-      "missing": -62457.65,
-      "percent": 104.3
+      "reached": 1503361.95,
+      "missing": -67409.95,
+      "percent": 104.7
     }
   ]
 }
