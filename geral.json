@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 09:34",
+  "lastModified": "29/10/2026 09:35",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5335734.36,
-    "missing": 695265.64,
+    "reached": 5338013.08,
+    "missing": 692986.92,
     "percent": 88.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -51,11 +51,11 @@
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
-      "reached": 149000.43,
-      "missing": 68499.57,
+      "reached": 149264.23,
+      "missing": 68235.77,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 68.5,
+      "percent": 68.6,
       "status": "pending"
     },
     {
@@ -147,17 +147,6 @@
       "status": "pending"
     },
     {
-      "reference": "LESTE PENHA",
-      "seller": "PENHA",
-      "commitment": 169000.0,
-      "reached": 157162.75,
-      "missing": 11837.25,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 93.0,
-      "status": "pending"
-    },
-    {
       "reference": "CAMPINAS",
       "seller": "CAMPINAS",
       "commitment": 70500.0,
@@ -177,6 +166,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 88.4,
+      "status": "pending"
+    },
+    {
+      "reference": "LESTE PENHA",
+      "seller": "PENHA",
+      "commitment": 169000.0,
+      "reached": 159177.65,
+      "missing": 9822.35,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 94.2,
       "status": "pending"
     },
     {
@@ -271,8 +271,8 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 274284.14,
-      "missing": -4284.14,
+      "reached": 274284.16,
+      "missing": -4284.16,
       "average": 0.0,
       "difference": 0.0,
       "percent": 101.6,
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1374834.96,
-      "missing": 61117.04,
-      "percent": 95.7
+      "reached": 1377113.68,
+      "missing": 58838.32,
+      "percent": 95.9
     }
   ]
 }
