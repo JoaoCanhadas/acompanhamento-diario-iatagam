@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 08:54",
+  "lastModified": "29/10/2026 08:55",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5323988.05,
-    "missing": 707011.95,
-    "percent": 88.3,
+    "reached": 5328439.76,
+    "missing": 702560.24,
+    "percent": 88.4,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -73,11 +73,11 @@
       "reference": "MOGI",
       "seller": "MOGI",
       "commitment": 95500.0,
-      "reached": 50809.31,
-      "missing": 44690.69,
+      "reached": 53547.92,
+      "missing": 41952.08,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 53.2,
+      "percent": 56.1,
       "status": "pending"
     },
     {
@@ -106,11 +106,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 324844.02,
-      "missing": 20155.98,
+      "reached": 325726.42,
+      "missing": 19273.58,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 94.2,
+      "percent": 94.4,
       "status": "pending"
     },
     {
@@ -271,11 +271,11 @@
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 270000.0,
-      "reached": 273453.44,
-      "missing": -3453.44,
+      "reached": 274284.14,
+      "missing": -4284.14,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 101.3,
+      "percent": 101.6,
       "status": "ok"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1363088.65,
-      "missing": 72863.35,
-      "percent": 94.9
+      "reached": 1367540.36,
+      "missing": 68411.64,
+      "percent": 95.2
     }
   ]
 }
