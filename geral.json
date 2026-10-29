@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 11:28",
+  "lastModified": "29/10/2026 11:29",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5406919.21,
-    "missing": 624080.79,
+    "reached": 5408767.02,
+    "missing": 622232.98,
     "percent": 89.7,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -169,17 +169,6 @@
       "status": "pending"
     },
     {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 272000.0,
-      "reached": 262913.47,
-      "missing": 9086.53,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 96.7,
-      "status": "pending"
-    },
-    {
       "reference": "PIRITUBA",
       "seller": "PIRITUBA",
       "commitment": 142000.0,
@@ -191,6 +180,17 @@
       "status": "pending"
     },
     {
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 272000.0,
+      "reached": 264022.62,
+      "missing": 7977.38,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 97.1,
+      "status": "pending"
+    },
+    {
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 500000.0,
@@ -199,17 +199,6 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 98.8,
-      "status": "pending"
-    },
-    {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 175000.0,
-      "reached": 170308.98,
-      "missing": 4691.02,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 97.3,
       "status": "pending"
     },
     {
@@ -232,6 +221,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 94.4,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 175000.0,
+      "reached": 171047.64,
+      "missing": 3952.36,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 97.7,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1446019.81,
-      "missing": -10067.81,
-      "percent": 100.7
+      "reached": 1447867.62,
+      "missing": -11915.62,
+      "percent": 100.8
     }
   ]
 }
