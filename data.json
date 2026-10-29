@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "29/10/2026 09:24",
+  "lastModified": "29/10/2026 09:25",
   "summary": {
     "commitment": 150400.0,
-    "reached": 23237.28,
-    "missing": 127162.72,
-    "percent": 15.5,
+    "reached": 24486.13,
+    "missing": 125913.87,
+    "percent": 16.3,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -180,17 +180,6 @@
       "status": "pending"
     },
     {
-      "reference": "SJC",
-      "seller": "SJC",
-      "commitment": 2730.0,
-      "reached": 559.6,
-      "missing": 2170.4,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 20.5,
-      "status": "pending"
-    },
-    {
       "reference": "JUNDIAI",
       "seller": "JUNDIAI",
       "commitment": 2580.0,
@@ -199,6 +188,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 19.4,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC",
+      "seller": "SJC",
+      "commitment": 2730.0,
+      "reached": 1808.45,
+      "missing": 921.55,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 66.2,
       "status": "pending"
     }
   ],
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 499720.25,
-      "missing": 209803.56,
-      "percent": 70.4
+      "reached": 500969.1,
+      "missing": 208554.71,
+      "percent": 70.6
     }
   ]
 }
