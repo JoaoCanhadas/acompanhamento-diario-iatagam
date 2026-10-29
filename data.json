@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "29/10/2026 12:48",
+  "lastModified": "29/10/2026 12:49",
   "summary": {
     "commitment": 150400.0,
-    "reached": 106623.38,
-    "missing": 43776.62,
-    "percent": 70.9,
+    "reached": 107749.28,
+    "missing": 42650.72,
+    "percent": 71.6,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -18,11 +18,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 19720.0,
-      "reached": 9893.7,
-      "missing": 9826.3,
+      "reached": 10272.6,
+      "missing": 9447.4,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 50.2,
+      "percent": 52.1,
       "status": "pending"
     },
     {
@@ -48,17 +48,6 @@
       "status": "pending"
     },
     {
-      "reference": "SANTO ANDRE",
-      "seller": "SANTO ANDRE",
-      "commitment": 10390.0,
-      "reached": 6317.02,
-      "missing": 4072.98,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 60.8,
-      "status": "pending"
-    },
-    {
       "reference": "SBC",
       "seller": "SBC",
       "commitment": 12220.0,
@@ -67,6 +56,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 67.3,
+      "status": "pending"
+    },
+    {
+      "reference": "SANTO ANDRE",
+      "seller": "SANTO ANDRE",
+      "commitment": 10390.0,
+      "reached": 7064.02,
+      "missing": 3325.98,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 68.0,
       "status": "pending"
     },
     {
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 582130.38,
-      "missing": 127393.43,
-      "percent": 82.0
+      "reached": 583256.28,
+      "missing": 126267.53,
+      "percent": 82.2
     }
   ]
 }

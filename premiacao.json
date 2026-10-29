@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "29/10/2026 12:48",
+  "lastModified": "29/10/2026 12:49",
   "positivacao": [
     {
       "seller": "SJC",
@@ -38,8 +38,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -14,
-      "reached": 49.0,
+      "missing": -15,
+      "reached": 50.0,
       "meta_a": 35.0
     },
     {
@@ -184,8 +184,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 27589.11,
-      "reached": 253410.89,
+      "missing": 27210.21,
+      "reached": 253789.79,
       "meta_a": 281000.0
     },
     {
@@ -200,8 +200,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 1772.1,
-      "reached": 173227.9,
+      "missing": 1025.1,
+      "reached": 173974.9,
       "meta_a": 175000.0
     },
     {
@@ -330,8 +330,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "A",
       "proxima_meta": "",
-      "missing": -14,
-      "reached": 49.0,
+      "missing": -15,
+      "reached": 50.0,
       "meta_a": 35.0
     },
     {
@@ -474,8 +474,8 @@
       "seller": "INTERLAGOS",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 27589.11,
-      "reached": 253410.89,
+      "missing": 27210.21,
+      "reached": 253789.79,
       "meta_a": 281000.0
     },
     {
@@ -490,8 +490,8 @@
       "seller": "SANTO ANDRE",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 1772.1,
-      "reached": 173227.9,
+      "missing": 1025.1,
+      "reached": 173974.9,
       "meta_a": 175000.0
     },
     {
