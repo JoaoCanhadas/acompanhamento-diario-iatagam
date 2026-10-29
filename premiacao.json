@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "29/10/2026 13:34",
+  "lastModified": "29/10/2026 13:35",
   "positivacao": [
     {
       "seller": "SJC",
@@ -110,8 +110,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 4,
-      "reached": 31.0,
+      "missing": 3,
+      "reached": 32.0,
       "meta_a": 35.0
     },
     {
@@ -134,8 +134,8 @@
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 5,
-      "reached": 11.0,
+      "missing": 4,
+      "reached": 12.0,
       "meta_a": 35.0
     },
     {
@@ -192,8 +192,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21244.92,
-      "reached": 184755.08,
+      "missing": 20916.12,
+      "reached": 185083.88,
       "meta_a": 206000.0
     },
     {
@@ -256,8 +256,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 7217.07,
-      "reached": 134782.93,
+      "missing": 5741.57,
+      "reached": 136258.43,
       "meta_a": 142000.0
     },
     {
@@ -280,8 +280,8 @@
       "seller": "MOGI",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 1659.08,
-      "reached": 55163.42,
+      "missing": 1422.52,
+      "reached": 55399.98,
       "meta_a": 95500.0
     },
     {
@@ -402,8 +402,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 4,
-      "reached": 31.0,
+      "missing": 3,
+      "reached": 32.0,
       "meta_a": 35.0
     },
     {
@@ -426,8 +426,8 @@
       "seller": "MOGI",
       "premiacao": "NÃO ATINGIDO",
       "proxima_meta": "D",
-      "missing": 5,
-      "reached": 11.0,
+      "missing": 4,
+      "reached": 12.0,
       "meta_a": 35.0
     },
     {
@@ -482,8 +482,8 @@
       "seller": "LESTE MOOCA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 21244.92,
-      "reached": 184755.08,
+      "missing": 20916.12,
+      "reached": 185083.88,
       "meta_a": 206000.0
     },
     {
@@ -546,8 +546,8 @@
       "seller": "PIRITUBA",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 7217.07,
-      "reached": 134782.93,
+      "missing": 5741.57,
+      "reached": 136258.43,
       "meta_a": 142000.0
     },
     {
@@ -570,8 +570,8 @@
       "seller": "MOGI",
       "premiacao": "D",
       "proxima_meta": "C",
-      "missing": 1659.08,
-      "reached": 55163.42,
+      "missing": 1422.52,
+      "reached": 55399.98,
       "meta_a": 95500.0
     },
     {
