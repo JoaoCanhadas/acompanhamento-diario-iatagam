@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 15:05",
+  "lastModified": "29/10/2026 15:06",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5549864.48,
-    "missing": 481135.52,
-    "percent": 92.0,
+    "reached": 5554661.48,
+    "missing": 476338.52,
+    "percent": 92.1,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -29,11 +29,11 @@
       "reference": "KEY ABC",
       "seller": "KEY ABC",
       "commitment": 350000.0,
-      "reached": 252750.25,
-      "missing": 97249.75,
+      "reached": 257547.25,
+      "missing": 92452.75,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 72.2,
+      "percent": 73.6,
       "status": "pending"
     },
     {
