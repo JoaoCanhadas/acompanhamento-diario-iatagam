@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Faturamento",
-  "lastModified": "29/10/2026 13:09",
+  "lastModified": "29/10/2026 13:10",
   "summary": {
     "commitment": 150400.0,
-    "reached": 109408.78,
-    "missing": 40991.22,
-    "percent": 72.7,
+    "reached": 113354.28,
+    "missing": 37045.72,
+    "percent": 75.4,
     "weekGoal": 283809.52,
     "weekRevenue": 142224.57,
     "weekMissing": 141584.95,
@@ -18,22 +18,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 19720.0,
-      "reached": 10272.6,
-      "missing": 9447.4,
+      "reached": 10878.55,
+      "missing": 8841.45,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 52.1,
-      "status": "pending"
-    },
-    {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 17120.0,
-      "reached": 8233.84,
-      "missing": 8886.16,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 48.1,
+      "percent": 55.2,
       "status": "pending"
     },
     {
@@ -45,6 +34,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 38.2,
+      "status": "pending"
+    },
+    {
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 17120.0,
+      "reached": 9299.34,
+      "missing": 7820.66,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 54.3,
       "status": "pending"
     },
     {
@@ -92,36 +92,14 @@
       "status": "pending"
     },
     {
-      "reference": "CENTRO",
-      "seller": "CENTRO",
-      "commitment": 19300.0,
-      "reached": 16991.11,
-      "missing": 2308.89,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 88.0,
-      "status": "pending"
-    },
-    {
       "reference": "INDAIATUBA",
       "seller": "INDAIATUBA",
       "commitment": 3770.0,
-      "reached": 1689.25,
-      "missing": 2080.75,
+      "reached": 1789.2,
+      "missing": 1980.8,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 44.8,
-      "status": "pending"
-    },
-    {
-      "reference": "NORTE",
-      "seller": "NORTE",
-      "commitment": 17550.0,
-      "reached": 15869.08,
-      "missing": 1680.92,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 90.4,
+      "percent": 47.5,
       "status": "pending"
     },
     {
@@ -136,14 +114,14 @@
       "status": "pending"
     },
     {
-      "reference": "SJC/VALE",
-      "seller": "VALE",
-      "commitment": 3060.0,
-      "reached": 1710.63,
-      "missing": 1349.37,
+      "reference": "NORTE",
+      "seller": "NORTE",
+      "commitment": 17550.0,
+      "reached": 16168.33,
+      "missing": 1381.67,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 55.9,
+      "percent": 92.1,
       "status": "pending"
     },
     {
@@ -166,6 +144,28 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 77.8,
+      "status": "pending"
+    },
+    {
+      "reference": "CENTRO",
+      "seller": "CENTRO",
+      "commitment": 19300.0,
+      "reached": 18386.26,
+      "missing": 913.74,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 95.3,
+      "status": "pending"
+    },
+    {
+      "reference": "SJC/VALE",
+      "seller": "VALE",
+      "commitment": 3060.0,
+      "reached": 2190.33,
+      "missing": 869.67,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 71.6,
       "status": "pending"
     },
     {
@@ -235,9 +235,9 @@
     {
       "name": "Semana 5",
       "goal": 709523.81,
-      "reached": 584915.78,
-      "missing": 124608.03,
-      "percent": 82.4
+      "reached": 588861.28,
+      "missing": 120662.53,
+      "percent": 83.0
     }
   ]
 }
