@@ -1,6 +1,6 @@
 {
   "workbook": "Sensum SQL - Premiação",
-  "lastModified": "29/10/2026 14:58",
+  "lastModified": "29/10/2026 14:59",
   "positivacao": [
     {
       "seller": "SJC",
@@ -168,8 +168,8 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 4991.27,
-      "reached": 340008.73,
+      "missing": 4006.57,
+      "reached": 340993.43,
       "meta_a": 345000.0
     },
     {
@@ -458,8 +458,8 @@
       "seller": "CENTRO",
       "premiacao": "B",
       "proxima_meta": "A",
-      "missing": 4991.27,
-      "reached": 340008.73,
+      "missing": 4006.57,
+      "reached": 340993.43,
       "meta_a": 345000.0
     },
     {
