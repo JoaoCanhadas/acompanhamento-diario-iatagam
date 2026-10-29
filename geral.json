@@ -1,10 +1,10 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 13:49",
+  "lastModified": "29/10/2026 13:50",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5515638.84,
-    "missing": 515361.16,
+    "reached": 5517842.74,
+    "missing": 513157.26,
     "percent": 91.5,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
@@ -147,17 +147,6 @@
       "status": "pending"
     },
     {
-      "reference": "OSASCO",
-      "seller": "OSASCO",
-      "commitment": 331500.0,
-      "reached": 324482.78,
-      "missing": 7017.22,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 97.9,
-      "status": "pending"
-    },
-    {
       "reference": "KEY CASA",
       "seller": "KEY CASA",
       "commitment": 500000.0,
@@ -169,11 +158,11 @@
       "status": "pending"
     },
     {
-      "reference": "CENTRO",
-      "seller": "CENTRO",
-      "commitment": 345000.0,
-      "reached": 339403.83,
-      "missing": 5596.17,
+      "reference": "OSASCO",
+      "seller": "OSASCO",
+      "commitment": 331500.0,
+      "reached": 326081.78,
+      "missing": 5418.22,
       "average": 0.0,
       "difference": 0.0,
       "percent": 98.4,
@@ -188,6 +177,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 96.3,
+      "status": "pending"
+    },
+    {
+      "reference": "CENTRO",
+      "seller": "CENTRO",
+      "commitment": 345000.0,
+      "reached": 340008.73,
+      "missing": 4991.27,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 98.6,
       "status": "pending"
     },
     {
