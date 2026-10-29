@@ -1,11 +1,11 @@
 {
   "workbook": "Sensum SQL - Geral",
-  "lastModified": "29/10/2026 08:34",
+  "lastModified": "29/10/2026 08:35",
   "summary": {
     "commitment": 6031000.0,
-    "reached": 5299143.3,
-    "missing": 731856.7,
-    "percent": 87.9,
+    "reached": 5321349.3,
+    "missing": 709650.7,
+    "percent": 88.2,
     "weekGoal": 574381,
     "weekRevenue": 162832.47,
     "weekMissing": 411548.53,
@@ -48,17 +48,6 @@
       "status": "pending"
     },
     {
-      "reference": "KEY SJC",
-      "seller": "KEY SJC",
-      "commitment": 150000.0,
-      "reached": 72908.9,
-      "missing": 77091.1,
-      "average": 0.0,
-      "difference": 0.0,
-      "percent": 48.6,
-      "status": "pending"
-    },
-    {
       "reference": "LESTE TATUAPE",
       "seller": "TATUAPE",
       "commitment": 217500.0,
@@ -67,6 +56,17 @@
       "average": 0.0,
       "difference": 0.0,
       "percent": 67.9,
+      "status": "pending"
+    },
+    {
+      "reference": "KEY SJC",
+      "seller": "KEY SJC",
+      "commitment": 150000.0,
+      "reached": 91898.9,
+      "missing": 58101.1,
+      "average": 0.0,
+      "difference": 0.0,
+      "percent": 61.3,
       "status": "pending"
     },
     {
@@ -84,11 +84,11 @@
       "reference": "INTERLAGOS",
       "seller": "INTERLAGOS",
       "commitment": 281000.0,
-      "reached": 244026.69,
-      "missing": 36973.31,
+      "reached": 245750.09,
+      "missing": 35249.91,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 86.8,
+      "percent": 87.5,
       "status": "pending"
     },
     {
@@ -106,11 +106,11 @@
       "reference": "CENTRO",
       "seller": "CENTRO",
       "commitment": 345000.0,
-      "reached": 321017.57,
-      "missing": 23982.43,
+      "reached": 322510.17,
+      "missing": 22489.83,
       "average": 0.0,
       "difference": 0.0,
-      "percent": 93.0,
+      "percent": 93.5,
       "status": "pending"
     },
     {
@@ -323,9 +323,9 @@
     {
       "name": "Semana 5",
       "goal": 1435952,
-      "reached": 1338243.9,
-      "missing": 97708.1,
-      "percent": 93.2
+      "reached": 1360449.9,
+      "missing": 75502.1,
+      "percent": 94.7
     }
   ]
 }
